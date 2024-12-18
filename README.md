@@ -90,19 +90,7 @@ The repository is organized as follows:
 
 ---
 
-IGGA/
-│
-├── Advertising_Marketing.docx       # Example Word document
-├── Advertising_Marketing.txt        # Processed text file
-├── combined_frequency_charts.png    # Generated keyword frequency visualization
-├── IGGA Text Analysis.ipynb         # Main project code (Jupyter Notebook)
-├── ...                              # Additional industry files
-├── similarity_heatmap.png           # Cosine similarity heatmap output
-└── keyword_frequencies.png          # Industry keyword frequency charts
-
-
-
-
+<img width="964" alt="Screenshot 2024-12-18 at 3 05 08 PM" src="https://github.com/user-attachments/assets/185636fb-1fab-4a97-aec9-358bee88ec01" />
 
 <strong>How to Run the Project</strong>  
 1. **Clone this repository**:  
