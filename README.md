@@ -135,6 +135,4 @@ For questions, feedback, or collaborations, contact me at saleh.afroogh@utexas.e
 <strong>License</strong>
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
 
-Key Notes:
-Titles like <strong>Key Features</strong> are written with HTML <strong> tags to ensure they render as bold on GitHub.
-Replace your-email@example.com with your actual contact information.
+
