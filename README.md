@@ -40,6 +40,9 @@ The project consists of the following steps:
 5. <strong>Cosine Similarity and Heatmap</strong>  
    - Use <strong>TF-IDF Vectorization</strong> to compute cosine similarity between industry texts.  
    - Visualize similarity scores as a heatmap.
+  
+     ![image](https://github.com/user-attachments/assets/1ffe80df-280d-4bf9-89e1-ca3dbccbb018)
+
 
 6. <strong>Sankey Diagram Visualization</strong>  
    - Display relationships between industries, top words, and domain-specific keywords.
