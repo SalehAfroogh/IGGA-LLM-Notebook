@@ -120,10 +120,12 @@ Industry-Specific Text Analysis: Identifying trends and key terminologies across
 Content Comparison: Evaluating the textual similarity between industry documents.
 Visualizing Insights: Producing intuitive charts and diagrams for data-driven decision-making.
 NLP Pipelines: Replicating or extending the methodology for other text analysis projects.
+
 <strong>Contributors</strong>
 
-Saleh Afroogh (Lead Developer and Researcher)
-For questions, feedback, or collaborations, contact me at your-email@example.com.
+Kevin Chen
+Saleh Afroogh (Lead Researcher)
+For questions, feedback, or collaborations, contact me at saleh.afroogh@utexas.edu.
 <strong>License</strong>
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
 
