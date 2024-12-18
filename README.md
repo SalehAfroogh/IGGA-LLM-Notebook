@@ -46,6 +46,17 @@ The project consists of the following steps:
 
 6. <strong>Sankey Diagram Visualization</strong>  
    - Display relationships between industries, top words, and domain-specific keywords.
+  
+     ![image](https://github.com/user-attachments/assets/a6c4e1d1-6881-4e39-8fcf-b142ad39aff6)
+
+     ![image](https://github.com/user-attachments/assets/fa930bcc-2eb3-406c-8e91-36d18bb892ec)
+
+     ![image](https://github.com/user-attachments/assets/a0f0a522-1453-49b8-b6c3-4a7576bc3842)
+
+
+
+     
+
 
 ---
 
