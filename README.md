@@ -33,6 +33,9 @@ The project consists of the following steps:
 
 3. <strong>Frequency Analysis</strong>  
    - Identify and visualize the <strong>top 20 keywords</strong> for each industry.
+  
+     ![image](https://github.com/user-attachments/assets/974d0cdb-f7e9-4abd-853b-14b888dbbdd5)
+
 
 4. <strong>Sector Keyword Matching</strong>  
    - Match keywords against predefined <strong>industry-specific keyword lists</strong> to highlight key terminologies.
