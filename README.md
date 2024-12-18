@@ -1,62 +1,75 @@
-IGGA Text Analysis Project
-Project Overview
-The IGGA Text Analysis Project is a comprehensive analysis framework designed to process and analyze textual data across diverse industries. Using Natural Language Processing (NLP) and advanced visualization techniques, this project aims to extract meaningful insights from industry-specific text documents.
+# <strong>IGGA Text Analysis Project</strong>
 
-Key features include:
+<strong>Project Overview</strong>  
+The <strong>IGGA Text Analysis Project</strong> is a comprehensive analysis framework designed to process and analyze textual data across diverse industries. Using <strong>Natural Language Processing (NLP)</strong> and advanced visualization techniques, this project extracts meaningful insights from industry-specific text documents.  
 
-Frequency Analysis to identify the most prominent keywords.
-TF-IDF and Cosine Similarity for cross-industry textual comparison.
-Sector-Specific Keyword Matching to assess domain-specific terminologies.
-Sankey Diagrams for visualizing word relationships and keyword distributions.
-Objectives
-This project aims to:
+Key features include:  
+- <strong>Frequency Analysis</strong> to identify the most prominent keywords.  
+- <strong>TF-IDF and Cosine Similarity</strong> for cross-industry textual comparison.  
+- <strong>Sector-Specific Keyword Matching</strong> to assess domain-specific terminologies.  
+- <strong>Sankey Diagrams</strong> for visualizing word relationships and keyword distributions.  
 
-Analyze industry-specific textual data to extract dominant keywords and trends.
-Compare textual content across industries using cosine similarity and TF-IDF.
-Visualize keyword frequencies and relationships using bar charts and Sankey diagrams.
-Provide a replicable NLP pipeline for industry-focused text analysis.
-Project Workflow
+---
+
+<strong>Objectives</strong>  
+This project aims to:  
+1. Analyze industry-specific textual data to extract dominant keywords and trends.  
+2. Compare textual content across industries using <strong>cosine similarity</strong> and <strong>TF-IDF</strong>.  
+3. Visualize keyword frequencies and relationships using bar charts and Sankey diagrams.  
+4. Provide a replicable NLP pipeline for industry-focused text analysis.  
+
+---
+
+<strong>Project Workflow</strong>  
 The project consists of the following steps:
 
-Data Preparation:
+1. <strong>Data Preparation</strong>  
+   - Word documents (`.docx`) are processed into plain text files (`.txt`) using `docx2txt`.
 
-Word documents (.docx) are processed into plain text files (.txt) using docx2txt.
-Text Processing:
+2. <strong>Text Processing</strong>  
+   - Text cleaning: Removal of symbols, numbers, and stopwords.  
+   - Tokenization: Splitting text into meaningful words.  
+   - Lemmatization: Converting words to their base forms.
 
-Text cleaning: Removal of symbols, numbers, and stopwords.
-Tokenization: Splitting text into meaningful words.
-Lemmatization: Converting words to their base forms.
-Frequency Analysis:
+3. <strong>Frequency Analysis</strong>  
+   - Identify and visualize the <strong>top 20 keywords</strong> for each industry.
 
-Identify and visualize the top 20 keywords for each industry.
-Sector Keyword Matching:
+4. <strong>Sector Keyword Matching</strong>  
+   - Match keywords against predefined <strong>industry-specific keyword lists</strong> to highlight key terminologies.
 
-Match keywords against predefined industry-specific keyword lists to highlight key terminologies.
-Cosine Similarity and Heatmap:
+5. <strong>Cosine Similarity and Heatmap</strong>  
+   - Use <strong>TF-IDF Vectorization</strong> to compute cosine similarity between industry texts.  
+   - Visualize similarity scores as a heatmap.
 
-Use TF-IDF Vectorization to compute cosine similarity between industry texts.
-Visualize similarity scores as a heatmap.
-Sankey Diagram Visualization:
+6. <strong>Sankey Diagram Visualization</strong>  
+   - Display relationships between industries, top words, and domain-specific keywords.
 
-Display relationships between industries, top words, and domain-specific keywords.
-Key Features
-Natural Language Processing: Uses nltk for tokenization, stopword removal, and lemmatization.
-Visualization: Generates:
-Frequency bar charts (top keywords per industry)
-Cosine similarity heatmaps
-Interactive Sankey diagrams using plotly
-Custom Keyword Matching: Industry-specific keyword lists allow for tailored domain analysis.
-TF-IDF Cosine Similarity: Quantitative comparison of text documents across industries.
-Technologies Used
-Languages: Python
-Libraries:
-nltk (text processing)
-re (regular expressions)
-pandas and numpy (data manipulation)
-matplotlib and seaborn (visualization)
-plotly.graph_objects (Sankey diagrams)
-sklearn (TF-IDF and cosine similarity)
-Project Structure
+---
+
+<strong>Key Features</strong>  
+- <strong>Natural Language Processing</strong>: Uses `nltk` for tokenization, stopword removal, and lemmatization.  
+- <strong>Visualization</strong>: Generates:  
+   - Frequency bar charts (top keywords per industry)  
+   - Cosine similarity heatmaps  
+   - Interactive Sankey diagrams using `plotly`  
+- <strong>Custom Keyword Matching</strong>: Industry-specific keyword lists allow for tailored domain analysis.  
+- <strong>TF-IDF Cosine Similarity</strong>: Quantitative comparison of text documents across industries.
+
+---
+
+<strong>Technologies Used</strong>  
+- <strong>Languages</strong>: Python  
+- <strong>Libraries</strong>:  
+   - `nltk` (text processing)  
+   - `re` (regular expressions)  
+   - `pandas` and `numpy` (data manipulation)  
+   - `matplotlib` and `seaborn` (visualization)  
+   - `plotly.graph_objects` (Sankey diagrams)  
+   - `sklearn` (TF-IDF and cosine similarity)  
+
+---
+
+<strong>Project Structure</strong>  
 The repository is organized as follows:
 
 IGGA/
