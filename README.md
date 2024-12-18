@@ -1,5 +1,4 @@
-# <strong>Generative AI and LLMs in Industry: 
-A text- mining Analysis and Critical Evaluation of Guidelines and Policy Statements Across Fourteen Industrial Sectors</strong>
+# <strong>Generative AI and LLMs in Industry: A text- mining Analysis and Critical Evaluation of Guidelines and Policy Statements Across Fourteen Industrial Sectors</strong>
  
 The <strong>IGGA Text Analysis Project</strong> is a comprehensive analysis framework designed to process and analyze textual data across diverse industries. Using <strong>Natural Language Processing (NLP)</strong> and advanced visualization techniques, this project extracts meaningful insights from industry-specific text documents.  
 
