@@ -72,6 +72,8 @@ The project consists of the following steps:
 <strong>Project Structure</strong>  
 The repository is organized as follows:
 
+---
+
 IGGA/
 │
 ├── Advertising_Marketing.docx       # Example Word document
@@ -84,13 +86,11 @@ IGGA/
 
 
 
-How to Run the Project
-Clone this repository:
-
-bash
-Copy code
-git clone https://github.com/SalehAfroogh/IGGA-LLM-Notebook.git
-cd IGGA-LLM-Notebook
+<strong>How to Run the Project</strong>  
+1. **Clone this repository**:  
+   ```bash
+   git clone https://github.com/SalehAfroogh/IGGA-LLM-Notebook.git
+   cd IGGA-LLM-Notebook
 Install the required libraries:
 
 bash
@@ -108,20 +108,25 @@ import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
-Outputs
+<strong>Outputs</strong>
+
 Bar Charts: Top 20 keywords for each industry.
 Cosine Similarity Heatmap: Quantifies textual similarity between industries.
 Sankey Diagrams: Visualizes relationships between industries, top keywords, and implementation keywords.
-Use Cases
+<strong>Use Cases</strong>
 This project can be applied to:
 
 Industry-Specific Text Analysis: Identifying trends and key terminologies across sectors.
 Content Comparison: Evaluating the textual similarity between industry documents.
 Visualizing Insights: Producing intuitive charts and diagrams for data-driven decision-making.
 NLP Pipelines: Replicating or extending the methodology for other text analysis projects.
-Contributors
+<strong>Contributors</strong>
+
 Saleh Afroogh (Lead Developer and Researcher)
-For questions, feedback, or collaborations, contact me at [your-email@example.com].
-License
+For questions, feedback, or collaborations, contact me at your-email@example.com.
+<strong>License</strong>
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
 
+Key Notes:
+Titles like <strong>Key Features</strong> are written with HTML <strong> tags to ensure they render as bold on GitHub.
+Replace your-email@example.com with your actual contact information.
