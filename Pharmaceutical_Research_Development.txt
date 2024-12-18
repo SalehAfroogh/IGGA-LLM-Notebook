@@ -1,0 +1,395 @@
+121.  Pfizer AI policy and position
+
+Policy Position on Artificial Intelligence Background Artificial Intelligence (AI) has the power to uncover and activate meaningful insights to revolutionize the pharmaceutical and healthcare industries. At Pfizer, we recognize that AI can be a powerful technology in support of our mission to create breakthroughs that change patients’ lives. We see AI’s significant potential to drive innovation by helping in numerous ways, including accelerating our research and development of new medicines and vaccines; in the diagnosis, treatment, and management of diseases; and by optimizing the manufacturing and delivery of important therapies to patients. We recognize that AI is transforming life sciences and has the potential to improve healthcare for patients across the globe. At a time when conversations and questions around the development and delivery of AI are increasing, Pfizer agrees that it is critical to take stock of both the promise and challenges of using these new tools, especially in advance of legislative and regulatory changes. We are eager to engage with policymakers around the globe on key issues described in this policy position as, together, we look to harness the power of AI for all. Pfizer’s Commitment to Responsible AI Principles At Pfizer, we have the obligation to use AI ethically, responsibly, and purposefully to benefit our patients, customers, colleagues, and society. To that end, Pfizer has developed a set of Responsible AI Principles to provide a clear path for the company to utilize this technology. • Principle 1: We strive to design AI systems that empower humans and promote equity. We create and execute AI tools to empower humans and human decision-making while ensuring these tools do not completely substitute for humans. We strive to develop AI that is fair, inclusive, and avoids bias in its inputs, models, and outputs. • Principle 2: We respect individuals’ privacy and the need for transparency in the utilization of data and AI. Transparency and trust are among the most important objectives in the adoption of AI in healthcare. Making systems explainable, where possible, is a key form of transparency that increases trust. Pfizer’s policy requires that users are informed, where practicable, of the limitations and risks of the AI systems they are using. Pfizer incorporates privacy into the design of its AI systems. Patient data are tightly controlled, and internal processes are designed to ensure that the privacy, safety, and security of individuals are protected. • Principle 3: We take ownership of our AI systems. At Pfizer, we are accountable for ensuring that AI systems meet ethical, legal, regulatory, and sustainability standards. We commit to building AI that is safe, valid, and secure. Finally, we maintain necessary human controls over AI. Pfizer’s Position on AI Policies Pfizer supports the evaluation of current policy frameworks to confirm they are fit-for-purpose and provide the flexibility needed to accommodate the rapidly evolving landscape of AI development and use across the life sciences and healthcare ecosystems. Where creation of new AI-focused laws, regulations, and guidances are deemed necessary, we support policies that promote responsible innovation while mitigating potential risks associated with the development and deployment of AI systems. Issued by Global Policy & Public Affairs, Pfizer Inc. -- Do Not Detail -- December 2023 Development and Use of AI Pfizer encourages policies that support the development and use of AI systems that are designed based on scientific research principles, protect intellectual property, and reflect ethical principles and values. We also encourage policies that foster the design of AI systems that empower humans and promote equity; such systems should be fair, inclusive, and avoid biases. At Pfizer, we ensure that our AI systems include humans as part of the decision-making process and strongly support policies that ensure humans are not removed from decision processes that could impact health outcomes. Regulation and Governance of AI Pfizer supports a patient-centric regulatory approach that relies on risk-based guardrails and fosters innovation while ensuring the appropriate data and privacy protections for patients. Importantly, Pfizer encourages alignment of regulatory frameworks in order to ensure that AI advancements within the life sciences continue at pace. Misaligned approaches related to AI oversight within and across governments can lead to an overly complex and potentially burdensome approach for both developers and deployers of AI and could ultimately stifle innovation. Pfizer supports continual cross-sector and multi-disciplinary dialogue on guidances related to advancements in AI, as well as the need for oversight and governance of the ethical use of AI systems in healthcare. As part of these conversations, Pfizer supports efforts by policymakers to learn about current and potential future uses of AI, specifically in healthcare and the research and development of medicines and vaccines. Policymakers and regulators should continue to engage with life science and healthcare companies to understand where AI uses converge and, importantly, diverge from other industries. Transparency and Explainability To foster trust and confidence, Pfizer supports transparency regarding the limitations and risks of AI that could significantly impact individual rights, like people’s health and safety. This includes incorporating sufficient human oversight and control into design and implementation. Pfizer encourages the adoption of practices that allow for sharing of sufficient information to enable the intended user to understand how the recommendations are made, including explanations of the model’s process and decisions, where feasible. Pfizer encourages clear communications about the intended use and limitations of AI systems, to increase trust and confidence in the potential capabilities of these systems. Privacy and Informed Consent Pfizer supports policies that promote the design of AI systems in which privacy and informed consent are fully integrated as appropriate into the process of leveraging data sources for development. Training and education AI systems are vulnerable to biases, occurring at the point of data collection, the development of algorithms, and finally in the use of the system. Pfizer supports policies and pathways that promote the use of databases that are representative of the populations served by AI systems. Pfizer supports policies and guidances that aid in the development of tools, training, and educational programs that focus on reducing the potential for biases. Future Uses of AI in Healthcare Pfizer encourages research to assess the potential that AI systems may have on the ability to discover, develop, and deliver safe and effective therapeutics to patients, including identification of potential risks to individuals and the healthcare system. Pfizer supports exploration of the benefits to patients of future technological advances in AI systems (e.g., generative AI) that align with our existing responsible AI principles.
+
+122. Jnj policy and positions: doing the right thing with AI
+
+Doing the right thing: AI & ethics At Johnson & Johnson we aspire to use artificial intelligence (AI) in an ethical way, with Our Credo and our Code of Business Conduct as our inspiration and roadmap. AI and machine learning play an increasingly important role in delivering excellence at Johnson & Johnson. AI is helping to drive socially beneficial innovations and new ways of helping those we serve live healthier lives. For instance, it is used in drug development, robotic-assisted surgery, commercial activities, chatbots and smart manufacturing in our supply chain. Our ethical foundation for using AI—based on the principles of Fairness, Privacy, Security, Responsibility and Transparency—is embedded in how our employees work every day and is reflected in our Position on Ethics and Compliance and in a wide range of voluntary disclosures (see our Position on Transparency and our Position on Data Privacy). It also rests firmly on Our Credo, which challenges and inspires our employees to put the needs and wellbeing of those we serve first, and on our Code of Business Conduct, which provides guidance regarding ensuring an open and honest work environment. Fairness in AI We believe that for AI to be fair, it must treat Our Credo stakeholders—the patients, doctors and nurses, mothers and fathers, communities, employees and shareholders—in an equitable manner. We aim to include fair practices through each step of the AI lifecycle, from development to deployment. Doing the right thing: AI & ethics Doing the right thing: AI & ethics We aspire to identify data sources that are diverse and appropriate for the use case and represent the intended audience as we move along the AI lifecycle. And we strive to understand the methods by which data sets are collected and how external influences, such as biases that exist in healthcare, may affect them. Throughout this process, we seek to proactively identify any bias in the data, and we utilize the latest advancements in technology to improve the robustness of our models. By seeking to proactively understand the data sets used and by asking the right questions, we can work to correct bias when we identify it, mitigate its impact when correction is not reasonably possible, or discontinue an analysis when needed or appropriate. To remain true to Our Credo, we look to have human experts involved throughout the AI lifecycle and controls in place to monitor model outputs. Our AI models are also intended to be “explainable,” so that how a model makes decisions is understood and we can identify when and why it may produce biased results. When it is not possible to fully explain how an AI model works, we seek to design and monitor the AI model proactively so we can overcome and minimize potential bias. When possible, we strive to capture performance metrics and check performance differences to determine their potential real-world impact on the patients and customers we serve. We also acknowledge that the characteristics of data sets may change over time (called "drift"). This may require us to reexamine the data for new insights and evolve our models. Our attention to bias, transparency and security helps us monitor and understand the potential for drift and how to manage it. By understanding the limitations of data, by training our models, and by facilitating human review, we strive to deliver AI-embedded solutions and products for the benefit of our patients and customers. Respecting the right to privacy Respecting and protecting an individual’s right to privacy is at the core of how we do business. Although AI has driven significant breakthroughs in drug discovery, precision medicine, manufacturing and diagnostics, realizing its true potential requires careful governance and a steadfast adherence to privacy and data protection laws. The responsible use of data and the importance of privacy are embedded in our Code of Business Conduct and our Position on Data Privacy. 2 Doing the right thing: AI & ethics The exponential growth of data, connectivity and computing power, coupled with an increased use of AI, requires an increasingly diligent approach to safeguarding privacy. To build and sustain the trust of the stakeholders who rely on us, it is essential that we not only comply with legal and regulatory requirements, but that we also ensure the following: • We operate transparently; • We store data in a secure environment with controlled access; • Our employees are trained in Privacy and Information Security; and • We only collect and use the personal information that is necessary and relevant for our purpose and ensure proper consents, notices and disclosures are secured or provided to individuals. These commitments can be found in our public Position on Data Privacy, and updates to this commitment are contained in our annual Health for Humanity Report. Securing AI Across Johnson & Johnson, we work diligently to safeguard our networks and systems against evolving cyber threats and to deter unintended or unauthorized access to business and personal information. We secure elements of the AI lifecycle in accordance with relevant laws and regulations, and our employees use strategies, innovations and information assets in line with our policies and approved processes. Our commitment to protecting information assets and business integrity is spelled out in our Position on Information Security. Using AI responsibly Our commitment to Our Credo stakeholders guides our efforts to ensure that AI is inclusive and generates consistent and reliable benefits. It is critical, for example, that healthcare professionals (HCPs) are free to make appropriate care recommendations in the best interest of their patients; AI should assist and not hinder this process. As an employer, we have a duty to our employees to make sure AI does not interfere with fostering an inclusive and safe working environment. And, as we look beyond our walls, we expect our external partners to follow high legal and ethical standards when collaborating with Johnson & Johnson in developing and deploying AI. 3 Doing the right thing: AI & ethics In using AI, we have an obligation to be good stewards of data sets and bring the appropriate level of scrutiny—both human and digital—to maximize the quality of outputs. We should be mindful of potential bias and gaps in our data. We should look to ensure the validity of our data sources, and we should follow appropriate collection and use practices. We believe in clear accountability throughout the AI lifecycle, supported by robust quality assurance mechanisms, and we seek to deploy AI in a safe and secure environment. Making AI transparent Our Credo stakeholders are at the core of what we do and how we operate. That’s why we do our utmost to be transparent. For example, in the Janssen U.S. Transparency Report, we outline many of our transparency initiatives. When leveraging AI tools, transparency is essential in building trust with HCPs, patients and customers in all areas of our business. Building upon our established framework, such as Compliance, Operational, Finance and Cybersecurity, we seek to ensure there are adequate processes in place for data collection, management, curation and transformation, including how a model is built, used and monitored—all with the goal of making the unexplainable more explainable. Where the unknown creates confusion and suspicion, we believe appropriate transparency brings clarity and understanding of the AI tool’s benefits and limitations. A final word AI is a key component of the future of healthcare. The question is no longer whether AI will be used in the development, commercialization and delivery of future medicines and medical technologies, but how it will be used. The principles of fairness, privacy, security, responsibility and transparency guide our work with AI so that throughout the AI lifecycle, our employees operate with the highest levels of integrity required by Our Credo and our Code of Business Conduct. With these principles as our guide, we believe that AI will continue to play a central role in bringing life-saving medicines, technology and quality healthcare to patients and customers around the globe
+
+123. Takeda position on AI
+
+Takeda’s Position on Use of Artificial Intelligence (AI) Summary The Takeda position on Artificial Intelligence (AI) includes principles that provide a sustainable approach to the ethical use and deployment of AI systems across Takeda, its affiliates, and partners to ensure that we: • Help our business innovate responsibly • Prioritize medical and social benefit • Promote freedom of choice • Establish fair and balanced systems • Build robust and reliable AI • Ensure safe and secure platforms • Strive for explainable AI • Establish an auditable process • Keep humans in the loop Artificial Intelligence Defined AI has varying definitions across media and scientific literature. At Takeda, we adapt and simplify the technical definition proposed by the European Commission’s Expert Group on AI (see Appendix I): AI is a system or software that learns from data to find patterns, take actions, make decisions, or assist in decision making.1 Takeda is committed to responsible AI that generates sustainable value by learning from and acting on insights derived from analytics and artificial intelligence. We also actively contribute to the broader scientific, industry, and technology communities that are strengthening and evolving AI practices. This is exemplified by our participation in the International Pharmaceutical Federation of Manufacturers & Associations (IFPMA) working groups and the MIT-Takeda Program that aims to “fuel the development and application of artificial intelligence to benefit human health and drug development.”2 Given the rapid evolution of AI compared to the speed at which legislation, regulations, and guidance governing these technologies are developed, Takeda’s principles provide direction for ethical decisionmaking around AI. Background Takeda strives to become the most trusted, science-driven, digital biopharmaceutical company. We understand that our work impacts people in a fundamental way – with regard to their health and when they are at their most vulnerable. We’re committed to following the highest ethical standards, including in the use of technology.3 Because AI is an emerging field with the potential to impact all areas of medicine from drug development to product distribution to patient care, it is imperative to clearly articulate and interpret general principles for its ethical use. The principles described in this document were established via the Takeda Ethics Advisory Council (TEAC). The TEAC is comprised of a diverse group of professionals that include prominent external ethics experts and selected Takeda leaders. The primary responsibility of the TEAC is to perform analyses of ethics topics and provide advice, informing Takeda’s development of robust and principled positions on these issues. Our principles for ethical AI were designed to encompass and extend the traditional principles of biomedical ethics including beneficence, nonmaleficence, autonomy, and justice.4 Takeda’s Perspective Takeda is committed to a responsible innovation approach that shapes our use of data and digital technologies. We strive to bring the best solutions to individuals, including solutions that incorporate cutting-edge AI systems that help discover new medicines, better understand fundamental biology, optimize treatments, or enhance the experience of patients, HCPs and others. Doing this well means investing in the practices and cultural change needed to make Takeda’s AI-based algorithms and digital infrastructure secure, ethical, and trustworthy. It also means recognizing that, because AI is a tool with broad application potential, its ethical considerations are often an evolution of existing biomedical ethics discussions and require cross-functional collaboration. We believe algorithms deployed by Takeda and its partners and vendors, should: 1) Comply with local and international laws and regulations (Legal AI). Software and algorithms are developed and deployed with appropriate legal oversight, and compliance is managed by experts in relevant laws and regulations. 2) Prioritize security and technical soundness (Robust AI). This should reflect best practices in the biopharmaceutical industry and within Takeda. 3) Align with the ethical criteria described in this document (Ethical AI). To make ethical AI a reality at Takeda, this document describes a framework of principles that will maximize the benefits of AI to individuals, the environment, and the sustainability of our business. These principles apply from the earliest moments of innovation, through the development of internal protocols, to the ultimate adoption of AI technology. The management of AI and its ethical design is an ongoing process that will be in continuous development with relevant experts and stakeholders. The following principles outline Takeda’s strategic approach to ethical AI: • Help our business innovate responsibly Takeda recognizes that the deployment of AI is imperative to the sustainability of our business. We value AI systems that improve efficiency, enhance benefits, and minimize, as much as feasible, environmental impact. • Prioritize medical and social benefit Takeda seeks to balance risk with providing clinically meaningful outcomes. We aim to always examine whether AI is the appropriate tool, pay particular attention to vulnerable groups, and to the extent possible and meaningful, include patient, HCP, and others’ input on AI systems design and use when AI may directly impact health. • Promote freedom of choice We promote the building of AI systems that maximize our ability to deliver healthcare solutions without compromising an individual’s freedom to make their own choices. To the extent possible and meaningful, we aim to include patient, HCP and others’ perspectives during the development and implementation of AI systems. • Establish fair and balanced systems Takeda believes the data used to train and test AI should be, to the extent feasible, epidemiologically representative of the intended populations, appropriately diverse1, including, but not limited to, age, gender, race, ethnicity, and social determinants of health. • Build robust and reliable AI Takeda seeks to build and test AI systems using best practices in machine learning and software engineering with independent test sets that are representative, to the extent feasible, of the intended population. When clinical use is involved, we encourage demonstrating performance in clinically relevant conditions using established methods such as rigorous testing, use of independent controls and test data, documentation, and - where possible - peer review, and open access sharing of our algorithms. • Ensure safe and secure platforms Takeda believes that personal data should be secure and anonymized when possible. Internal data governance practices align with Takeda’s policies on Privacy and IT Security as well as Takeda’s Position on Data Sharing and Reuse of Health Data. • Strive for explainable AI Takeda intends to provide patients, HCPs, and others with essential information about AI based systems. This includes a clear estimation of risk, communicated in a clear and contextually relevant manner to support human decision-making. The level, degree, and type of explanation may differ depending on need and technical feasibility. • Establish an auditable process In healthcare settings, Takeda promotes the use of AI systems that are fully documented and version controlled using industry standard best practices from testing through live use such that decisions can be traced to the version, data, and parameters used. • Keep humans in the loop Takeda believes that higher risk systems should operate with a human in the loop. Takeda seeks to develop and deploy AI systems that are continually subject to operational and ethical review and to promote personal accountability for the system’s performance, including collecting feedback to improve the system. Conclusion Takeda recognizes that AI provides many opportunities both for the patients, HCPs and others we serve, as well as our company. We accept responsibility for its use and hold ourselves accountable to high standards when we deploy AI. Given the rapid evolution of AI compared to the speed at which legislation, regulations, and guidance governing these technologies are developed, these principles provide Takeda’s commitment and framework for ethical decision-making around AI. These principles will be regularly revisited by Takeda to ensure they meet the expectations of patients, HCPs and others, both today and in the future. About Takeda Pharmaceutical Company Limited Takeda is a global, values-based, R&D-driven biopharmaceutical leader headquartered in Japan, committed to discover and deliver life-transforming treatments, guided by our commitment to patients, our people and the planet. Takeda focuses its R&D efforts on four therapeutic areas: Oncology, Rare Genetics and Hematology, Neuroscience, and Gastroenterology (GI). We also make targeted R&D investments in Plasma-Derived Therapies and Vaccines.
+
+124. AI in drug design
+
+When creating small molecule drugs, it is necessary to consider not only the direct action on the disease-causing target molecules and a good safety profile, but also delivery of the drug to the target organ or site through the bloodstream after administration to the body orally or by injection. In order to find small molecule compounds that meet these criteria, scientists undergo a process of trial and error, by
+
+synthesizing compounds
+
+evaluating the efficacy, physicochemical, pharmacokinetics, and safety profiles of the synthesized compounds
+
+analyzing the data and designing the next compound to be synthesized
+
+This trial and error process takes several years, and the know-how has tended to rely on the scientists’ rules of thumb. Therefore, Eisai is working to find drug candidates more efficiently by utilizing AI technologies such as machine learning and deep learning.
+
+Evaluation of Compounds by AI
+
+Through repeated trial and error, we have accumulated experimental data on efficacy, physicochemical, pharmacokinetics, and safety profiles of a large number of compounds. The accumulated data includes many insights created by Eisai's strength in chemistry. Such data is fed into machine learning and deep learning to elucidate the relationship between chemical structure and experimental data (efficacy, physicochemical, pharmacokinetics, and safety profiles). The trained machine learning and deep learning models enable scientists to predict efficacy, physicochemical, pharmacokinetics, and safety profiles from their chemical structures without synthesizing compounds, and support the design of new compounds by scientists.
+
+Compound Design by AI
+
+These models that predict efficacy, physicochemical, pharmacokinetics, and safety profiles can evaluate hundreds of thousands of compounds in less than a day. Taking advantage of this feature and combining it with deep generative models, AI identifies compounds with desired features (predicted profiles) from a huge number of compounds generated on a computer, and proposes them to scientists. Scientists review the proposal and provide feedback (e.g., changing instructions to the AI). After receiving feedback, the AI will make another proposal. In several drug discovery projects, we are working to efficiently create drug candidates by advancing synthesis and evaluation of compounds designed by collaboration between AI and scientists.
+
+
+
+125. Harnessing the power of AI
+
+Artificial intelligence is boosting the drug discovery and development process
+
+Over the past few decades, we’ve witnessed the power of machine learning (ML) and artificial intelligence (AI) in applications such as language translation, stock trading and space exploration. While many of the more public-facing uses of AI have been driven by the tech sector, scientists around the world have also been working to harness it to ask bigger questions and address previously intractable challenges in human biology and disease.
+
+“The traditional drug development process is linear and sequential,” says Casper Hoogenraad, Vice President and Head of Neuroscience in Genentech’s Research and Early Development (gRED) organization. “Researchers start with a single target that, based on disease biology or human genetics, is dysregulated and then figure out what kind of therapeutic might modulate the activity of that target be it a small molecule, an RNA approach, or a large molecule, like an antibody.”Advancing AI tools, such as ML, in drug discovery and healthcare is more important than ever as drug developers are moving beyond the universe of familiar targets and are tackling increasingly challenging ones to treat more complex diseases with high unmet need.
+
+Scientists are using these tools to mine data for insights that are unreachable with traditional methods, at a scale and speed that were previously unattainable.
+
+As we continue to push the boundaries of drug discovery, we need new approaches that allow us to ask questions beyond single targets or biological pathways. We need to understand how numerous potential drug targets work together to drive disease.
+
+Azad Bonni
+
+Senior Vice President and Global Head of Neuroscience & Rare Diseases, Roche Pharma Research & Early Development (pRED)
+
+To accomplish this, we need a better, higher throughput, and more parallel way of working. Genentech and Roche are doing just that, striving for the multiplicative benefits of combining advanced computation with innovative research methods. This allows us to ask bigger questions and make immense progress in our understanding of human biology. In turn, this enhanced insight uncovers new therapeutic targets and informs the design and optimization of novel medicines.
+
+Harnessing AI
+
+Genentech and Roche are currently applying ML across disease areas and therapeutic modalities, with the goal of creating better models for drug discovery that are predictive, generative and interpretable. This trifecta of model characteristics could be used to predict whether a specific molecule can access a target; generate a molecule to bind to that target; and explain how the target and molecule interact with each other.
+
+“For example, ML has become an invaluable tool to discover relationships from cellular profiling data at massive scale,” says Barbara Lueckel, Head of Research Technologies, Roche Pharma Partnering. “And we are also seeing exciting progress in using ML to predict protein structures, eventually bearing the promise for new drug design of complex molecules.”
+
+We’d like to understand how incredibly complex biological networks misfire or dysregulate in disease and identify the best points to intervene to restore health. AI is already transforming this field, and we are further building this technology to make discoveries we couldn't uncover with traditional methods.
+
+Tommaso Biancalani
+
+Senior Principal Scientist and Director AI/ML, Genentech
+
+For example, Genentech scientists in our AI/ML, infectious disease and computational chemistry departments are also using AI to discover new antibiotics. To eliminate bacterial pathogens, antibiotics must penetrate the outer layer (the membrane) of the target. But pathogens have developed ways to keep antibiotics out, and determining which antibiotics can penetrate the membrane can be a laborious process. So, Genentech scientists are using AI technology to examine the chemical structure of billions of potential antibiotics and determine which ones have the potential to bypass the pathogen’s membrane and eliminate it. Then they can synthesize those and test them in the lab.
+
+Looking at the big picture, when ML is applied in a loop with experiments and data, it bears the potential to impact target and drug discovery in a really powerful way, amplifying many existing efforts at Roche and Genentech.
+
+Barbara Lueckel
+
+Head of Research Technologies, Roche Pharma Partnering
+
+Partnering on a Revolutionary New Approach
+
+Advanced computation is a multifaceted and rapidly evolving field. To supplement our internal efforts and stay at the leading edge of the field, Genentech and Roche have also been engaging with external collaborators.
+
+In December 2021, Roche and Genentech entered into a collaboration with Recursion Pharmaceuticals to explore new territories of cell biology and develop new treatments in key areas of neuroscience and an oncology indication. The partnership will leverage Recursion’s technology-enabled drug discovery platform in combination with our extensive single-cell data generation and ML capabilities to cast a wide, comprehensive net for novel drug targets, and advance and expedite the development of small molecule medicines.
+
+Unlike the conventional approach, which starts with known targets, the partnership will generate and analyze different types of cellular and genetic data – at a huge scale – to build unprecedented maps of human cellular biology. These maps can be leveraged to identify novel biological relationships and ultimately help discover new targets to bring better medicines to patients faster.
+
+“We’re layering a lot of datasets, including high-resolution imaging of how cells respond to genetic changes and chemical perturbations, or disturbances, along with data on how small molecules affect those responses – and using AI to analyze it all,” Bonni says.
+
+Bonni adds that this could be a paradigm shift in how we identify new targets along with therapies to match. This partnership can help identify new medicines that are unattainable using standard methods. It’s an approach that will be particularly useful in neuroscience, a difficult field with a limited number of promising targets and the well-known challenge of getting medicines across the blood-brain barrier.
+
+The scale of this project is almost unheard of. We’ll be screening libraries of small molecules in parallel with genetic perturbation and RNA profiling approaches, so we’ll have an immediate path forward with potential medicines, which is a decisive benefit. There is a lot of risk involved in pursuing novel targets because we just don’t know enough about the underlying biology. Getting more confidence about targets and potential treatments would be a huge leap forward in neuroscience and other disease areas.
+
+Casper Hoogenraad
+
+Vice President and Head of Neuroscience, Genentech Research and Early Development (gRED)
+
+A Strong Commitment
+
+The Recursion collaboration complements other Roche and Genentech partnerships that could improve various aspects of drug discovery and development. In July 2020, Roche and Genentech entered into a collaboration with Reverie Labs to utilize AI for the discovery and development of next-generation kinase inhibitors. In October 2020, Genentech partnered with Genesis Therapeutics to use their deep learning and molecular simulation platform to discover small molecules for challenging targets that would elude other methods. And in August 2021, Genentech acquired Prescient Design, a company with a deep-learning protein design platform and extensive expertise to help identify and design antibodies, with the eventual goal of rapidly designing therapy candidates in silico (on the computer).
+
+​Scientists at Roche are also seeking novel approaches to the identification of adeno-associated virus (AAV) capsids in partnership with Roche subsidiary Spark Therapeutics and Dyno Therapeutics. Today’s gene therapies are delivered using naturally occurring viruses, which can carry limited payloads and only target certain tissue types. With Dyno’s AI-powered CapsidMap technology, the partners aim to optimize tissue targeting and immune-evading properties, in addition to improving packaging capacity and manufacturability of gene therapy solutions for central nervous system (CNS) and liver diseases.
+
+These partnerships, among others, combined with our internal research efforts, exemplify Roche and Genentech’s commitment to advanced computation, and our firm belief that the digitization of drug discovery and development has real potential to make a meaningful difference for patients.
+
+The drug discovery field is at a turning point. “I am more encouraged than I have ever been,” says Lueckel. “The coming years will further demonstrate for which applications advanced computational approaches like ML live up to their promise, but I am optimistic that these technologies will significantly enhance our efforts to bring new medicines to patients as quickly and efficiently as possible.”
+
+
+
+126. Ethical and responsible use of AI
+
+Taking a human-centred approach in using Artificial Intelligence to reimagine medicine.
+
+AI is helping Novartis increase patient access, improve customer experience, drive automation, provide predictive analytics and detect potential misconduct. It also has the potential to be used to improve the speed and accuracy of diagnosis, treatment protocols, drug discovery, drug development, patient monitoring, and patient care, among other applications that will improve patients’ lives and optimize the healthcare ecosystem.
+
+These technological developments come with both opportunities and challenges, leading to important questions which, as a leading medicines company, we need to address thoughtfully and affirmatively. With AI playing such a critical role in enabling our digital strategy and transformation, we recognize the need to define clear ethical principles around AI. Hence, Novartis is committed to deploying AI systems in a transparent and responsible way. We will ensure that the use of AI systems has a clear purpose, that is respectful of human rights, and is accurate, truthful, not misleading and appropriate for the intended context.
+
+Our principles for ethical use of AI
+
+Novartis believes that any development, application or use of AI systems should be governed within the following ethical principles which are fully aligned to the Novartis Code of Ethics principles and commitments:
+
+Our principles for ethical use of AI
+
+Novartis believes that any development, application or use of AI systems should be governed within the following ethical principles which are fully aligned to the Novartis Code of Ethics principles and commitments:
+
+Empower Humanity
+
+At Novartis, our values and culture are driven and defined by our purpose to reimagine medicines to improve and extend people’s lives. Our everyday decision making is based on our ethical principles, as outlined in our Code of Ethics. These values and ethical principles form the basis from which we design, implement, and deploy AI. Novartis is committed to:
+
+Enforcing human-centric design in the deployment and use of AI systems;
+
+Building a mutually beneficial relationship between human knowledge, expertise and decision-making and the computational machinery which provides inferences and connections between data at scale;
+
+Respecting the rights and dignity of all people, and striving to prevent and mitigate identified adverse human rights impacts that may arise through our use of AI;
+
+Continuously assessing AI advances to ensure they proceed from within Novartis’ context and are determined by Novartis, rather than influenced by external factors;
+
+Monitoring the impacts of AI to evolving human and societal values.
+
+Accountability
+
+As an accountable organization, Novartis is committed to establishing robust governance over the design and use of AI. Such rigorous governance includes appropriate leadership and oversight, risk and impact assessments, appropriate policies and procedures, transparency, training and awareness, monitoring and verification, response and enforcement. Therefore, Novartis is committed to:
+
+Maintaining human accountability in decision-making processes of designing, delivering and operating AI systems;
+
+Providing autonomy to associates in the controlling, creation, training, deployment and operation of AI systems;
+
+Performing business and regulatory impact assessments of AI systems within the Novartis value chain before integration and deployment;
+
+Applying Novartis Information Technology (IT) and Operation Technology (OT) controls and processes to plan, implement and continuously monitor AI systems, in alignment to the commitments in the Code of Ethics;
+
+Proactively monitoring and mitigating potential negative AI consequences;
+
+Enabling the auditability of the AI systems via validation and verification functionalities and keeping an audit trail in line with best practice.
+
+Mitigate Bias
+
+Data and algorithms used in AI systems need to meet Novartis’ strong commitment to fairness and non-discrimination detailed, inter alia in our Code of Ethics; particularly where AI systems are used in sensitive areas that closely touch critical decisions regarding drug development, socio-economic benefits, hiring and matters that relate to human behavior. We are committed to mitigating the risk of bias throughout the process, from data gathering, model creation and application of the model. To that end, we will strive to:
+
+Design, develop, test, train and operate AI algorithms based on inclusive and representative data to eliminate possible biases and known discriminatory aspects such as race, gender, ethnicity, sexual orientation, political or religious beliefs;
+
+Use data samples that are representative of the studied and analyzed population to eliminate or prevent unconscious bias;
+
+Perform a risk impact assessment on the AI systems before their use in production to eliminate the risk of bias or discrimination;
+
+Develop and use AI systems in ways that reflect the social and cultural diversity of Novartis;
+
+In the short-term, assess, acquire or develop tools and establish techniques to assess statistical bias in data-sets from external sources – mitigating bias in all data sourced from outside of Novartis;
+
+Ensure the responsible use of AI when applied to the real world, as outlined in our ‘Empower Humanity’ Principle.
+
+Respect Privacy
+
+In some instances, AI systems are ‘trained’ on and use personal information. Outputs of AI systems may also impact the privacy of individuals. Novartis has established and implemented Global Data Privacy Principles that govern the use of personal information. These Principles apply without exception to the design and use of any AI system. The Principles are:
+
+Transparency: We are transparent about what personal information we process, how and why we collect it, use it, and who we share it with. We explain this in clear and simple language;
+
+Legitimate and Meaningful Collection: We connect all collection and use of personal information to specific business purposes related to how we operate, innovate or engage;
+
+Responsible and Sustainable Processing: We use personal information only in ways compatible with the purposes for which it was collected. We facilitate Individuals to exercise their rights with regards to their personal information;
+
+Security: We protect personal information by using reasonable safeguards to prevent its loss, unauthorized access, use, alteration or unauthorized disclosure;
+
+Integrity and Quality: We take appropriate steps to keep personal information accurate and up to date;
+
+Minimal Retention: We keep personal information only for as long we can legitimately use it.
+
+Transparent and Explainable
+
+Novartis strives to create transparency around the design and use of AI systems to explain how such systems work through:
+
+Short term: Openly disclosing / informing end-users when they are interacting with an AI system;
+
+Mid-term: Enabling the auditability and traceability of the decision pathways taken by AI systems using IT tools and infrastructure;
+
+Mid-term: Transparently communicating and explaining the limitations, purpose, decisions and capability of AI systems as new visualization models are developed;
+
+Ensuring the use of AI systems has a clear purpose that is accurate, truthful, not misleading, and appropriate for their intended context; aligning with the principles of Beneficial AI.
+
+Safe and Secure
+
+AI systems need to be safe, performing as intended, secure and resistant to compromise via unauthorized parties. Hence, in the design, implementation and use of AI systems, Novartis commits to the following:
+
+Technically robust systems that translate in-depth human understanding to stable operations based on a review of impact assessments and the specific context of the use-case;
+
+If the AI systems are deployed in relation to products and manufacturing environments, we are committed to reporting adverse events within 24 hours of discovery to the Novartis Safety Department and quality complaints to Quality Assurance, and then transparently communicating the risks of our medicines and devices to regulatory authorities;
+
+In relation to confidentiality, Integrity and Availability of Novartis Information, we hold ourselves accountable for the information and technology that we handle, with an obligation to safeguard our patients’ and partners’ information.
+
+Environmental Sustainability
+
+AI systems need to be designed sustainably, inter alia, assessing the resource usage and energy consumption to limit the risks to the environment. To address the environmental footprint of AI systems (e.g. assessing the resource usage and energy consumption), the Environmental Sustainability principle within the Code of Ethics would apply. This principle lays out that Novartis is committed to minimizing the environmental impact of our activities and products over their lifecycle. Novartis is aiming for carbon neutrality across the supply chain by 2030. In AI, this means addressing three broad areas:
+
+Short term: Partnering with like-minded sustainable technology platforms. Novartis will introduce sustainability as a key component in procurement of the computational infrastructure required for AI solutions and services;
+
+Mid-term: Ensuring optimal use of algorithms with internal implementation of AI, by training data scientists to be selective about the algorithms they want to train upfront, before committing them to the computational power required to deploy deep learning;
+
+Long-term: Reviewing internal operations, such as Novartis Technical Operations (NTO) to assess how AI can be used to reduce carbon footprint.
+
+Review, Learn and Adapt
+
+AI systems need to support and enable professional standards. As such, Novartis is committed to:
+
+Ensuring and maintaining professionalism and accountability in the creation and deployment of AI systems; ensuring that associates have the necessary depth of understanding of the ethical implications;
+
+Implementing and using AI systems that augment, complement and empower human capabilities and skills to improve speed, quality and maximize impact in a positive way;
+
+Enhancing the offering of our Data Science Academy to educate data scientists as well the broader group of Novartis associates on the use of AI;
+
+Empowering, educating and training associates in the short-term to have the right ethical professional awareness (knowledge, experience and required skills) as they use or operate AI systems, to ensure that ethical commitments (as laid out in the Code of Ethics) are not compromised; moving in the mid-term to a system of certification.
+
+
+
+127. AI in EMS the future is here
+
+Our principles for ethical use of AI
+
+Novartis believes that any development, application or use of AI systems should be governed within the following ethical principles which are fully aligned to the Novartis Code of Ethics principles and commitments:
+
+Empower Humanity
+
+At Novartis, our values and culture are driven and defined by our purpose to reimagine medicines to improve and extend people’s lives. Our everyday decision making is based on our ethical principles, as outlined in our Code of Ethics. These values and ethical principles form the basis from which we design, implement, and deploy AI. Novartis is committed to:
+
+Enforcing human-centric design in the deployment and use of AI systems;
+
+Building a mutually beneficial relationship between human knowledge, expertise and decision-making and the computational machinery which provides inferences and connections between data at scale;
+
+Respecting the rights and dignity of all people, and striving to prevent and mitigate identified adverse human rights impacts that may arise through our use of AI;
+
+Continuously assessing AI advances to ensure they proceed from within Novartis’ context and are determined by Novartis, rather than influenced by external factors;
+
+Monitoring the impacts of AI to evolving human and societal values.
+
+Accountability
+
+As an accountable organization, Novartis is committed to establishing robust governance over the design and use of AI. Such rigorous governance includes appropriate leadership and oversight, risk and impact assessments, appropriate policies and procedures, transparency, training and awareness, monitoring and verification, response and enforcement. Therefore, Novartis is committed to:
+
+Maintaining human accountability in decision-making processes of designing, delivering and operating AI systems;
+
+Providing autonomy to associates in the controlling, creation, training, deployment and operation of AI systems;
+
+Performing business and regulatory impact assessments of AI systems within the Novartis value chain before integration and deployment;
+
+Applying Novartis Information Technology (IT) and Operation Technology (OT) controls and processes to plan, implement and continuously monitor AI systems, in alignment to the commitments in the Code of Ethics;
+
+Proactively monitoring and mitigating potential negative AI consequences;
+
+Enabling the auditability of the AI systems via validation and verification functionalities and keeping an audit trail in line with best practice.
+
+Mitigate Bias
+
+Data and algorithms used in AI systems need to meet Novartis’ strong commitment to fairness and non-discrimination detailed, inter alia in our Code of Ethics; particularly where AI systems are used in sensitive areas that closely touch critical decisions regarding drug development, socio-economic benefits, hiring and matters that relate to human behavior. We are committed to mitigating the risk of bias throughout the process, from data gathering, model creation and application of the model. To that end, we will strive to:
+
+Design, develop, test, train and operate AI algorithms based on inclusive and representative data to eliminate possible biases and known discriminatory aspects such as race, gender, ethnicity, sexual orientation, political or religious beliefs;
+
+Use data samples that are representative of the studied and analyzed population to eliminate or prevent unconscious bias;
+
+Perform a risk impact assessment on the AI systems before their use in production to eliminate the risk of bias or discrimination;
+
+Develop and use AI systems in ways that reflect the social and cultural diversity of Novartis;
+
+In the short-term, assess, acquire or develop tools and establish techniques to assess statistical bias in data-sets from external sources – mitigating bias in all data sourced from outside of Novartis;
+
+Ensure the responsible use of AI when applied to the real world, as outlined in our ‘Empower Humanity’ Principle.
+
+Respect Privacy
+
+In some instances, AI systems are ‘trained’ on and use personal information. Outputs of AI systems may also impact the privacy of individuals. Novartis has established and implemented Global Data Privacy Principles that govern the use of personal information. These Principles apply without exception to the design and use of any AI system. The Principles are:
+
+Transparency: We are transparent about what personal information we process, how and why we collect it, use it, and who we share it with. We explain this in clear and simple language;
+
+Legitimate and Meaningful Collection: We connect all collection and use of personal information to specific business purposes related to how we operate, innovate or engage;
+
+Responsible and Sustainable Processing: We use personal information only in ways compatible with the purposes for which it was collected. We facilitate Individuals to exercise their rights with regards to their personal information;
+
+Security: We protect personal information by using reasonable safeguards to prevent its loss, unauthorized access, use, alteration or unauthorized disclosure;
+
+Integrity and Quality: We take appropriate steps to keep personal information accurate and up to date;
+
+Minimal Retention: We keep personal information only for as long we can legitimately use it.
+
+Transparent and Explainable
+
+Novartis strives to create transparency around the design and use of AI systems to explain how such systems work through:
+
+Short term: Openly disclosing / informing end-users when they are interacting with an AI system;
+
+Mid-term: Enabling the auditability and traceability of the decision pathways taken by AI systems using IT tools and infrastructure;
+
+Mid-term: Transparently communicating and explaining the limitations, purpose, decisions and capability of AI systems as new visualization models are developed;
+
+Ensuring the use of AI systems has a clear purpose that is accurate, truthful, not misleading, and appropriate for their intended context; aligning with the principles of Beneficial AI.
+
+Safe and Secure
+
+AI systems need to be safe, performing as intended, secure and resistant to compromise via unauthorized parties. Hence, in the design, implementation and use of AI systems, Novartis commits to the following:
+
+Technically robust systems that translate in-depth human understanding to stable operations based on a review of impact assessments and the specific context of the use-case;
+
+If the AI systems are deployed in relation to products and manufacturing environments, we are committed to reporting adverse events within 24 hours of discovery to the Novartis Safety Department and quality complaints to Quality Assurance, and then transparently communicating the risks of our medicines and devices to regulatory authorities;
+
+In relation to confidentiality, Integrity and Availability of Novartis Information, we hold ourselves accountable for the information and technology that we handle, with an obligation to safeguard our patients’ and partners’ information.
+
+Environmental Sustainability
+
+AI systems need to be designed sustainably, inter alia, assessing the resource usage and energy consumption to limit the risks to the environment. To address the environmental footprint of AI systems (e.g. assessing the resource usage and energy consumption), the Environmental Sustainability principle within the Code of Ethics would apply. This principle lays out that Novartis is committed to minimizing the environmental impact of our activities and products over their lifecycle. Novartis is aiming for carbon neutrality across the supply chain by 2030. In AI, this means addressing three broad areas:
+
+Short term: Partnering with like-minded sustainable technology platforms. Novartis will introduce sustainability as a key component in procurement of the computational infrastructure required for AI solutions and services;
+
+Mid-term: Ensuring optimal use of algorithms with internal implementation of AI, by training data scientists to be selective about the algorithms they want to train upfront, before committing them to the computational power required to deploy deep learning;
+
+Long-term: Reviewing internal operations, such as Novartis Technical Operations (NTO) to assess how AI can be used to reduce carbon footprint.
+
+Review, Learn and Adapt
+
+AI systems need to support and enable professional standards. As such, Novartis is committed to:
+
+Ensuring and maintaining professionalism and accountability in the creation and deployment of AI systems; ensuring that associates have the necessary depth of understanding of the ethical implications;
+
+Implementing and using AI systems that augment, complement and empower human capabilities and skills to improve speed, quality and maximize impact in a positive way;
+
+Enhancing the offering of our Data Science Academy to educate data scientists as well the broader group of Novartis associates on the use of AI;
+
+Empowering, educating and training associates in the short-term to have the right ethical professional awareness (knowledge, experience and required skills) as they use or operate AI systems, to ensure that ethical commitments (as laid out in the Code of Ethics) are not compromised; moving in the mid-term to a system of certification.
+
+
+
+128. Sanofi Responsible AI principles
+
+Introduction At Sanofi, our mission is to build a healthier, more resilient world. We turn the impossible into the possible by discovering, developing, and delivering medicines and vaccines for millions of people around the world. We are using AI to enhance our ability to achieve this mission by accelerating drug discovery, enhancing clinical trial design, and improving the manufacturing and supply of medicines and vaccines. However, despite the huge promise of the application of AI to the biopharmaceutical enterprise, we recognize that there are significant public concerns regarding the increasing use of AI, particularly in the areas of misinformation, loss of human oversight, liability, lack of transparency or accountability, cybersecurity and privacy. To address these concerns, we have implemented a robust governance and accountability framework across the company to help ensure that our development and use of AI is done responsibly, with a full appreciation of the potential risks and how to control for them. Key Messages 1) How we protect patients and other stakeholders and maximize AI’s opportunity responsibly: By building a robust governance framework that ensures we harness AI’s potential fully, but responsibly, we will drive AI-enabled innovation atscale both internally and externally in a manner that prioritizes fairness, transparency, safety, accountability and eco-responsibility. 2) How we mitigate the risks inherent in the application of AI: We manage AI risks by adhering to a comprehensive, thoughtful, riskbased approach that is responsive to the changing AI regulatory landscape and enforces proportionate governance and technology controls to manage AI innovation responsibly. We take on this accountability from design through deployment and use of AI systems, including those from third parties. The Pillars of our Responsible AI Framework Sanofi’s Responsible AI Use framework aligns with major international frameworks, especially the Organization for Economic CoOperation and Development (OECD)’s AI Principles[1]. In particular, Sanofi endorses and supports IFPMA’s Artificial Intelligence Principles[2] as listed below, and these principles are embedded into our Responsible AI Framework: Empowering Humans, Accountability, Human Control, Fairness and minimization of bias, Privacy, Security, and Safety by Design, Transparency, Explainability, and Ethical Use. Our framework will evolve and adapt as national legislative and regulatory frameworks emerge to ensure we are fully compliant with public expectations, and legal and regulatory requirements. Our Responsible AI Use Framework also reflects our existing dedication to both ethics and business integrity. Accountable to Outcomes: Our overarching commitment is that we hold ourselves accountable throughout the entirety of the AI system life cycle, based on our Responsible AI Pillars described below. We will adhere to all associated risk-based controls at all stages of the AI life cycle from design, development and deployment, through to use. Fair & Ethical: We will design, develop, deploy and use AI, such that we prevent bias and uphold fundamental human rights, which includes human-centered values especially respect for privacy, data protection, non-discrimination, autonomy and justice. We will adhere to existing laws surrounding these ethical values and we will take into account how our AI System impacts the world around us, both directly and indirectly. Robust & Safe: We will design, develop, deploy, and use AI systems so that they do not cause harm to users. We strive to make our AI systems accurate, adaptable, secure, and reliable from the outset. Transparent & Explainable: We will communicate when and how our AI systems are used and their limitations. We will provide opportunities for end-users to question, reject and understand AI system outputs wherever possible. We will use end-user and stakeholder’s feedback to improve our AI Systems. Eco-Responsible We will design our AI systems to minimize their environmental footprint. We will mitigate AI Risks through our riskbased approach: To mitigate risks, Sanofi employs a risk-based approach to AI regulation. Our approach includes the thorough assessment of AI risk through our Sanofi AI Risk Assessment procedures, the identification of appropriate controls depending on assigned risk level, and governance to oversee the assignment, execution and enforcement of controls. Our commitment to Responsible AI reflects our dedication to ethics & business integrity, therefore we have integrated Responsible AI into our companywide Code of Conduct - Sanofi. We have also committed to train all our employees in Responsible AI and monitor our implementation of our Responsible AI Framework to ensure that our use of AI improves the lives and well-being of our patients.
+
+129. Artificial intelligence at CSL
+
+When CSL assembled last year at its Data Science Summit in Bern, Switzerland, the company brought together participants from every aspect of its operations, from Finance to Pharmacometrics.
+
+With data science and artificial intelligence playing an ever-increasing role, Global Head of Digital Transformation and Execution Systems Karen Etchberger posed a question relevant to all: “How do we move from where we are today to a future where we can bring this ambition to life?”
+
+John Thompson, CSL’s Global Head of Advanced Analytics and Artificial Intelligence, is helping to lead that effort. Thompson has been on the forefront of artificial intelligence and its use in business for more than 30 years. He has helped build analytic systems for giants of global industry like Coca-Cola, Anheuser-Busch and Dell. Now, he’s doing the same for CSL.
+
+“This company has grown tremendously and has been making smart moves along the way,” Thompson said. “Now it’s really starting to see the value of data and analytics.”
+
+Developing a Data Science Framework
+
+CSL is taking a two-pronged approach that includes a Center of Excellence and a Community of Practices on advanced analytics and AI, Thompson said. Data scientists are part of both groups and working on numerous projects throughout CSL. The setup ensures each project is the right one to address individual team needs while benefitting CSL as a whole.
+
+“There’s a lot do,” Thompson said. “My days go from dawn to dusk every day and I feel as energized as I did when I started in the morning. It’s an exciting time to be here.”
+
+Artificial intelligence and machine learning can be used to comb through vast sets of data to find outliers or similarities that can illuminate understanding of any number of scenarios. Like other global industries, Thompson said the company will be using artificial intelligence to improve supply chain efficiency and to comply with regulatory and legal requirements.
+
+Making AI Work for Patients
+
+But CSL also wants to use those powerful engines to solve the burdens faced by patients with rare and serious diseases. A major goal in CSL Behring’s AI push is to shorten the amount of time between the onset of symptoms for a patient and an accurate diagnosis. In Pharmacovigilance – the front lines of patient safety - robotics process automation can speed the flow of information and improve operational efficiency, said Richard Wolf, Executive Director, Global Clinical Safety and Pharmacovigilance.
+
+Wolf says his team is also working with others across industry to find areas where AI and natural language processing can be utilized to ensure crucial information is readily surfaced, One day, he believes it could even serve to predict risks associated with certain medications.
+
+“We do think there is a place for artificial intelligence in our work,” Wolf said. “And we’re taking a careful and thoughtful approach toward implementing it.”
+
+Analytics can also help CSL uncover important medical insights from vast amounts of “real-world data,” such as physician notes in a patient’s chart. Real-world data are obtained outside of randomized controlled trials and generated during routine clinical practice. Prior to advanced analytics and AI, this information existed but it was difficult to gather and analyze.
+
+Haley Kaplowitz, Executive Director & Global Head of Safety Sciences, is leading an organization-wide effort to employ analytics as a key tool for gaining real-world evidence to be used in decision-making across the product life cycle.
+
+Both real-world data and real-world evidence are playing an increasing role in healthcare decisions, particularly from regulatory authorities and payers. They may also help predict patient groups at increased risk of adverse events and demonstrate product effectiveness and differentiation in the marketplace, Kaplowitz said.
+
+“The industry is under increasing pressure to provide evidence and demonstrate the value of products to multiple stakeholders, particularly in actual clinical practice,” she added. “Real-world evidence is inherent to reach this goal and increasingly crucial to ensure patient access and commercial success.”
+
+
+
+130. Integrating tech into healthcare profitable – Firm
+
+Fidson Healthcare Plc has advised its distributors to integrate technology into healthcare as it is profitable.
+
+A statement by the firm made available after a two-day conference held in Lagos for its top distributors said it was organised to foster stronger business relationships between the company and its partners while rewarding them for their unwavering support and patronage over the years.
+
+Speaking at the opening ceremony, the Managing Director, Dr Fidelis Ayebae, charged them to adopt innovative and feasible ways to run their business operations for greater returns.
+
+“The world as we know it is continuously evolving, and it is important we adapt to the changes that come with it. The advent of technology has introduced new and efficient ways to carry out business operations in ways that are cost-effective and less time-consuming. “At Fidson, innovation is one of our core values; this implies that we constantly examine, implement, and invest in new and innovative infrastructure and skills to carry out all our business operations to reduce costs and maximise profit. I will encourage you all to do the same. The integration of technology into business always pays off.”
+
+Ayebae commended the distributors for the loyalty shown to the company’s brands over the years. He stated that they were an important part of Fidson’s success story.
+
+“Our goal since we began in 1995 has been to create an indigenous organisation that embodies the high standards of the Nigerian healthcare and pharmaceutical industry. Your ongoing support throughout the years serves as evidence that you share in that vision, and we are thankful for it.”
+
+The programme featured insightful discussion sessions held by renowned healthcare and business administration experts including Dr Folashade Daniel (Cardiologist) and Chief Executive, Business School Netherlands Nigeria, Prof. Lere Baale, who enlightened the attendees on ways to improve and build shock-resistant businesses by adopting tested and well-planned business models while giving utmost care and consideration for their medical wellbeing.

@@ -1,0 +1,311 @@
+111. The New York Times is building a team to explore AI in the newsroom
+
+The New York Times will begin building a team to explore the use of generative AI in its newsroom. Zach Seward, who was recently hired by the publication to head AI initiatives, posted on Threads that the team will be “focused on prototyping uses of generative AI and other machine-learning techniques to help with reporting and how the Times is presented to readers.” 
+
+Seward’s post said the Times plans to hire a machine learning engineer, a software engineer, a designer, and a couple of editors to round out the AI newsroom initiative. So far, the Times has posted job listings for an associate editorial director for AI initiatives and a senior design editor.
+
+“The team, led by the editorial director for A.I. initiatives, will also include colleagues with a mix of engineering, research, and design talent, acting as a kind of skunkworks team within the newsroom. Together, they will partner with other teams in the news, product, and technology groups to take the best ideas from prototype to production,” the listing for associate editorial director, AI initiatives, reads in part. 
+
+In a memo posted after Seward’s hiring, the Times said that while it’s excited to bring AI tools to the company, it is firm in its belief that “Times journalism will always be reported, written and edited by our expert journalists.”
+
+The Times has had a rocky relationship with generative AI. It was one of the first news organizations that blocked OpenAI’s web crawler from scraping its content. That then snowballed into its lawsuit against the AI company and Microsoft, OpenAI’s biggest investor, alleging that ChatGPT reproduces its articles word for word and that it undermines the publication’s relationship with readers and deprives it of revenue. It is unclear whether the Times will partner with an AI model provider or build its own tools. 
+
+Many news organizations have begun exploring how (and whether) to bring AI, both generative and “traditional” machine learning, to newsrooms. Axel Springer, publisher of Politico and Business Insider, inked a deal with OpenAI to share content with the AI company and explore how to use AI in its reporting. The Associated Press also signed a similar agreement.
+
+Of course, it’s always tricky melding AI and newsrooms. So far, it has brought a proliferation of fake news and stories written by AI with fake human bylines. This experiment, though, might be different. The Times will still have human journalists write the news.
+
+
+
+112. ABC builds its own AI model
+
+The ABC is working on its own large language model – a type of artificial intelligence trained on vast amounts of data – to “enhance” its work, while also warning staff against using AI platforms like ChatGPT or Midjourney to create content for news.
+
+In an internal email sent to ABC staff last month, Matt Brown, the ABC’s news standards editor, said the public broadcaster was piloting AI technology in its news teams and developing its own.
+
+
+
+113. JoongAng Group Builds South Korea’s First AI-Driven Enterprise Network by Juniper
+
+With South Korea’s first AI-driven enterprise network by Juniper, JoongAng Group can continue to lead its diverse array of business and broadcasting services, while securely maximizing operational efficiency and flexibility for future business expansion.
+
+CHALLENGE
+
+ 
+
+The company has a wide range of businesses and is active across the newspaper, broadcasting, digital content, entertainment, and leisure sectors. Since 2008, JoongAng Group has been listed under the KOSPI stock index, which is reserved for large companies in Korea, establishing the company as a domestic powerhouse.
+
+Upon completion of its flagship JTBC Building in 2019, the company started preparations to spread its workforce across two office buildings. In a time where enterprise networking environments were rapidly shifting from a mix of wired and wireless to completely wireless, JoongAng Group understood the need to introduce a next-generation network system that would provide a unified experience for all employees in both buildings.
+
+JoongAng Group based its infrastructure on a smart office concept centered on a fast, seamless wireless network that would bridge the two buildings. If the buildings’ networks were not perfectly integrated, however, employees would have to go through cumbersome procedures, including configuring their IP settings and authenticating repeatedly, inevitably disrupting their workflow.
+
+The decision to go completely wireless reduced the spatial complexities caused by wired networks, including cables and power sources, enabling employees to excel at their work from any location in either building. The smart office environment enhanced by wireless network technology has become essential to media employees who often have meetings outside their offices.
+
+SOLUTION
+
+ 
+
+Juniper Networks wired and wireless network solutions fulfilled all of the company’s needs and were first deployed in the JTBC Building last year, followed by the JoongAng Building.“With a Juniper-powered network that offers AI-driven proactive automation and self-healing capabilities, JoongAng Group will be able to provide a secure work environment with a focus on uninterrupted workflows for all of our employees,” says Young Ki Kim, director, JOINS JoongAng.
+
+Juniper AP41 and AP43 High Performance Access Points have been deployed in conjunction with the Juniper Mist Wi-Fi Assurance cloud service to simplify network operations and automate the support experience for the distributed workforce. In particular, Juniper Access Points, equipped with Wi-Fi 6, stood out for providing enterprise-grade performance and an AI engine that has replaced manual IT tasks with AI-driven proactive automation and self-healing.
+
+Juniper’s EX9200 line of Ethernet Switches and EX3400 Ethernet Switch were also selected to enable collaboration and provide simple and secure access for the delivery of mission-critical applications—crucial for executing the company’s smart office concept. The two buildings’ networks were completely integrated in 2020, resulting in exceptional user and device experiences. JoongAng Group has now built South Korea’s first AI-Driven Enterprise network by Juniper.
+
+OUTCOME
+
+ 
+
+With Mist AI driving its network, JoongAng Group has leapt ahead of the industry in terms of network efficiency, leveraging automation and insights to lower IT costs while maximizing the end-user experience. “Because the two buildings are located next to each other on the same block, employees can move freely from one building to another, if needed,” Young says. “About 10% of our workforce frequently use both buildings. If they had to spend time configuring the network for each building, work efficiency would inevitably decrease. With Juniper Mist, our employees can spend their valuable time doing the work that they need to do.”
+
+As part of its smart office concept, JoongAng Group continues to explore more ways to leverage Juniper’s AI-driven solutions to transform the employee experience in a digital workplace. At the same time, it will continue to refine its security and emergency response system for employees and guests, especially against the backdrop of the ongoing pandemic.
+
+JoongAng Group is now considering extending its use of Juniper’s AI-driven solutions to all of its affiliates in the near future. In addition to its media division, it has various businesses that would greatly benefit from wireless networks for customer service such as its leisure and movie theater businesses.
+
+
+
+114. Panel Discussion Artificial Intelligence and Democracy
+
+The time has come to “democratize” AI
+
+Yascha Mounk
+
+While artificial intelligence (AI) might bring about technological innovation to help solve issues such as climate change, it also poses problems that could shake the foundation of democracy, such as unemployment, educational gaps, and the control of information. What does it take to make AI truly meaningful for democracy? With Managing Director Yoichi Nishimura of The Asahi Shimbun serving as coordinator, prominent US and Japanese researchers exchanged opinions about this question.
+
+Associate Professor Yascha Mounk at Johns Hopkins University defined populists as dangerous people who think, “I alone truly represent the people and those who have opinions and values different from mine are bad and dangerous,” listing US President Trump, Brazilian President Bolsonaro, and Prime Minister Modi of India as examples. He also pointed out that these political leaders were attacking the democratic systems and organizations designed to restrict their powers, such as judicial systems, thereby damaging core values that must be protected, such as individual freedom.
+
+Cathy O’Neil
+
+Cathy O’Neil, who is a data scientist and mathematician, pointed out the problems regarding widely utilized AI algorithms, saying, “Algorithms make mistakes with respect to important decisions to be made on the behalf of general citizens and yet are inaccessible to those citizens.”
+
+According to Ms. O’Neil, US company Amazon had planned to use AI to hire employees, but in an internal test of the system, it was revealed that without being programmed to the algorithm gave men a higher rating than women. She pointed out that algorithms are not founded on a factual basis but reflect subjective ideas and opinions that are incorporated into the data and so should not be trusted.
+
+Noriko Arai
+
+Professor Noriko Arai, Director of the Research Center for Community Knowledge, raised an issue regarding digitalization, through which a small number of IT giants, such as GAFA, monopolize profits. “It cannot be a sustainable system,” she observed. “The anger of those left in poverty will fuel populism. We need to think about this issue from legal, economic and ethical viewpoints.”
+
+The panelists also talked about how the expanding gap between rich and poor is related to populism. Ms. O’Neil said that she at one time developed algorithms to provide only those who were doing a lot of buying online with diverse options. She criticized these algorithms, which gave no options to those who were not frequent users of the Internet or to poor people, saying that they were “creating inequalities.” Regarding the possibility that the growing gap between rich and poor could lead to populism, she said, “I don’t think it is impossible to prevent, but in order to prevent it from happening we need algorithms that are accountable,” and pointed out the need to have laws to regulate the current systems.
+
+Associate Professor Mounk said that elites have been accepting of democracy because the system provided them with gains and that whether AI was changing the situation or not should be carefully monitored. He expressed his concerns about the possibility that AI would replace workers and, as a result, elites would no longer need the middle class, eliminating even the need to redistribute wealth and educate citizens.
+
+The panelists also referred to movements in China, where digital technologies were being utilized for the control of society and economic growth. According to Ms. O’Neil, China is using surveillance technology for social control. “It scares me a lot,” she said, but also pointed out that AI was becoming a tool to control society in the United States as well, although it was politically untouchable because politicians were beneficiaries.
+
+Professor Arai said that using AI to control society was not something happening only in China and that that was exactly what was being tried in Silicon Valley, but that GAFA had the arrogance to think that they could use AI in appropriate ways.
+
+The audience raised questions about what citizens could do in response to this issue. Professor Arai answered that people should stop readily believing whatever numerical figures they are shown. “In order to survive in this knowledge-based society, citizens need to have numerical literacy so that they are not afraid of numbers. I am focusing on educating children to help them acquire that literacy.” Ms. O’Neil emphasized a related point, saying, “But we don’t need to understand mathematics to object to a system. We need to question the system and demand our rights.” Associate Professor Mounk pointed out the need to call for the revision of tax-related laws to prevent tax evasion, in addition to demanding rights. He also said that it was necessary to think about how to protect democracy, which was still in the hands of the people.
+
+Managing Director Nishimura, who served as coordinator for the discussion, concluded with the following words: “AI could deliver great opportunities to us if we use it correctly. However, there are so many issues regarding algorithms and big data. We gave this panel discussion the title “AI and Democracy,” but maybe we need to think about “democratizing AI and data.”
+
+Yascha Mounk: Specializes in international politics. Young and energetic political scientist born in Munich, Germany in 1982. Associate professor at Johns Hopkins University. He also teaches at Harvard University. Proactively shares information via Twitter and podcasts. His writings include The People versus Democracy.
+
+Cathy O’Neil: Data scientist and mathematician. Born in 1972. After working at a hedge fund, founded an algorithm auditing firm in 2016. Her writings include Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy.
+
+Noriko Arai: Professor and mathematician, Director of Research Center for Community Knowledge, National Institute of Informatics. Engaged in a project to develop an AI robot that can pass the entrance examination for the University of Tokyo. She insists on the importance of helping junior and senior high school students to improve their ability to read and understand rather than calculate and memorize. Her writings include AI-ni Makenai Kodomo-wo Sodateru (Raising Children Who Will Not Give In to AI): 21 Century Children.
+
+
+
+115. BBC AI Principles
+
+Our BBC AI Principles are at the heart of our approach to using AI responsibly and apply to all use of AI at the BBC. They underpin the BBC’s public commitments about how we will use Generative AI.
+
+We will act in the best interests of the public
+
+BBC Values: Our use of AI will reflect the public service mission and values of our organisation: upholding trust; respect and inclusivity; boosting creativity; putting audiences at the heart of everything we do; being accountable and delivering quality; and working as one BBC.
+
+BBC Editorial Values: When we use AI to create, present or distribute content we will make sure that this complies with the BBC’s editorial values, guidance and guidelines. 
+
+Fairness: Our use of AI will be fair, equitable and inclusive for our audiences and staff. We will make sure that everyone has the opportunity to access and benefit from the range of content and services we provide and use.
+
+Security & Robustness: We will use AI in a way that is secure, robust and safe. We will assess its accuracy and reliability, monitor its performance, document its use, and maintain continuity of service.
+
+We will prioritise talent and creativity
+
+Respecting Rights: Creators, contributors and suppliers play a vital role in our industry. We will consider the rights of creators, artists, contributors and rights holders when using AI. We will make sure our use of AI respects the data protection and privacy rights of individuals.
+
+Human Creativity: We will use AI to support and empower human insight, talent and creativity.
+
+We will be open and transparent
+
+Transparency & Clear Explanations: We will be clear with audiences and staff about where we use AI and what data we collect. We will make sure they can understand why we use it, how it works and how it affects them.
+
+Accountability: We will make sure that there is proper supervision of and clear accountability for our use of AI, including our use of content or services provided by others that involve AI.
+
+Human Oversight: Our use of AI will be accompanied by effective and informed human oversight, including over the content or data involved as inputs and outputs.
+
+
+
+116. Reuter AI ethics and principles
+
+Thomson Reuters will adopt the following Data and AI Ethics Principles to promote trustworthiness in our continuous design, development, and deployment of artificial intelligence (“AI”) and our use of data:
+
+That Thomson Reuters use of data and AI are informed by our Trust Principles.
+
+That Thomson Reuters will strive to partner with individuals and organizations who share similar ethical approaches to our own regarding the use of data, content, and AI. 
+
+That Thomson Reuters will prioritize security and privacy in our use of data and throughout the design, development and deployment of our data and AI products and services.
+
+That Thomson Reuters will strive to maintain meaningful human involvement, and design, develop and deploy AI products and services and use data in a manner that treats people fairly.
+
+That Thomson Reuters aims to use data and to design, develop and deploy AI products and services that are reliable, consistent and empower socially responsible decisions. 
+
+That Thomson Reuters will implement and maintain appropriate accountability measures for our use of data and our AI products and services.
+
+That Thomson Reuters will implement practices intended to make the use of data and AI in our products and services understandable.
+
+Thomson Reuters will use employee data to ensure a safe and inclusive work environment and to ensure employee compliance with regulations and company policies.
+
+We believe these Data and AI Ethics Principles will provide our colleagues and partners with the right foundations to build trustworthy, practical, and beneficial AI for our customers. These Data and AI Ethics Principles will evolve as the related industries continue to mature.
+
+
+
+117. Grupo Globo CEO on Evolving rules and regulations surrounding AI
+
+Ever vigilant about industry trends, Andreia Saad takes note as Brazilian authorities crack down on companies that don’t adequately secure personal data. Data protection among her responsibilities at the Latin American mass media conglomerate Grupo Globo, she’s insistent about staying compliant with evolving rules and regulations. 
+
+But she’s just one woman, albeit with the impressive letterhead of legal director and data protection officer at the Rio de Janeiro-based company that employs around 14,000 throughout Latin America. Should any of those hires be remiss on privacy, Grupo Globo could face severe repercussions, but Saad’s taking every precaution to prevent such a breach. 
+
+Late last year, she oversaw the company’s release of new training programs for heightened awareness among the workforce. Program streaming and focus on digital products having brought Grupo Globo closer to its customers, much more personal data is in play, which, of course, increases risk. 
+
+“Our goal is to get all the people engaged,” Saad tells Vanguard in January. “We need everyone to know the law and be aware that they need to comply.” 
+
+While Saad’s privacy team is pretty lean, consisting of five professionals, including a manager, technical analysts and lawyers, it is proactive with virtual seminars and training programs that can be fun and educational. She even included such lessons in an escape-room exercise last year. 
+
+“I love privacy issues,” she says. “But I know they may sound like legalese to some people, so trying new techniques for engaging them is important. We are doing well in that area, keeping our people more active in understanding issues and clarifying doubts about what they should do with personal data.” 
+
+She’s wired   
+
+More at ease with technology than perhaps many of her legal counterparts at other companies, Saad’s also immersed in a digitization project that includes developing tools and protocols for the company’s increased use of artificial intelligence. 
+
+While AI has many uses that enable productivity and enhanced quality, she says it has the potential to open many legal and regulatory issues, some of which have yet to be defined by the authorities. Grupo Globo thus must prepare for future rules, with Saad overseeing a dedicated team dealing with AI’s legal and technological issues. 
+
+“We discuss on a case-by-case basis all the issues, contracts and projects that involve AI,” she says. “Technology is more important than ever for the media industry. It can be used to streamline captioning, help writers in the process of story development and scriptwriting, personalize content recommendations and much more.  It’s amazing what technology can do, but it raises so many issues of copyrights, privacy and ethics.” 
+
+Clarifying those complexities is part of Saad’s expanding role at the company, where she’s in her second go-around. An antitrust specialist early in her career, she oversaw that matter from 2010 to 2013 before returning to the firms where she had honed her skills. She marvels how the antitrust goal of ensuring fair-market competition has expanded to cover other areas, including regulation, corporate governance, privacy and data protection.    
+
+Antitrust background 
+
+Antitrust didn’t seem so far-reaching when Saad was commencing her legal career. A 2004 law graduate of the prestigious State University of Rio Janeiro, one of the best in Brazil, she began a 10-year stretch first as a trainee and later as an associate with the prominent Brazilian firm of Veirano Advogados, during which she enhanced her credentials with a degree in contracts law from Fundação Getúlio Vargas and a master’s in trade regulation, antitrust and competition law in 2009 from New York University School of Law.   
+
+That prepared Saad to go in-house with Grupo Globo, where she relished having just one client and immersing in projects from conception to completion. However, by 2013, as the new Brazilian Antitrust Law came into force, she felt it necessary to return to a major firm and garner antitrust experience in a broader range than media law. 
+
+She found that opportunity with the Rio de Janeiro firm of Mattos Filho, Veiga Filho, Marrey Jr. e Quiroga Advogados, one of the biggest firms in the country, becoming part of its prestigious antitrust team. In 2015, Saad took a leave from Mattos Filho and became an international associate at Cleary Gottlieb Steen & Hamilton in Washington D.C.,  practicing antitrust and regulatory law—highlights included being part of the team that helped Dow and Dupont finalize their $145bn merger, a major transaction that made headlines at the time. 
+
+“I had such an amazing experience at Cleary,” she recalls. “I learned so much working with brilliant teams in London, Sao Paulo and New York. I also loved Washington. I had enjoyed the chaos of New York while studying for my master’s, but Washington was the better place for me.” 
+
+Perhaps for her son Antonio as well. Though he was just a 1-year-old, Saad said the toddler seemed to soak in some of the local culture, even learning a smattering of English that he’s since expanded upon as a now bilingual 9-year-old. 
+
+Back to Globo 
+
+But much as Saad enjoyed the U.S. capital, Brazil was still home, and the door to Grupo Globo remained open for her return as a legal specialist in March 2017. She’s since ascended the ladder, and as Saad celebrates the seventh anniversary of her return, she anticipates a busy agenda, what with Grupo Globo’s growth coinciding with so much on the regulatory and AI fronts. 
+
+“There’s much to do here, especially in the new area we’re building in AI,” she says. “I love working with my team and don’t plan on leaving anytime soon.” 
+
+In-house has also proved to be her preferred locale, though Saad says she’s grateful for the many lessons learned as an associate with major law firms. As to why Saad became a lawyer, she says her mother had been one, though she was never pushed into the profession. Exact sciences were Saad’s early interest, but, as a 17-year-old, she took an aptitude test that pointed her toward law. She’s gotten the best of both worlds: a legal role at a media company where knowledge of math, economics and technology is an asset. 
+
+And she wants to do even more. An in-house department, Saad emphasizes, shouldn’t be siloed or looked upon as an obstacle to company growth. 
+
+“Legal has got to have more of a strategic role,” she says. “I want to change the way people view the legal department. I want businesspeople to recognize our role and how we are their partners. As technology evolves and legal answers become less and less obvious, I believe our support is more essential than never for the business to continue safely striving forward.” 
+
+
+
+118. Pharu and his challenge of bringing analytics to Latin American culture
+
+Pharu and his challenge of bringing analytics to Latin American culture
+
+October 27, 2023 by Carolina Figueroa
+
+“Analytics can generate value in any industry, in any activity, under any type of question, using data,” says Alexis Montecinos , cofounder and Managing Director of Pharu , which was born in November 2022 due to the need to carry out the strategy and hand-in-hand analytics towards different institutions, organizations, companies throughout the world.
+
+Pharu is a Chilean startup specialized in building analytics models for interpretation, prediction and classification of information through machine learning and artificial intelligence (AI). In this short time, they have achieved significant growth that includes two partnerships, one with the Innovation Center of the Catholic University and another with Google .
+
+Also check out: Human talent management in startups with María Graciela Trincado – The Startup Ecosystem Episode #17
+
+Alexis Montecinos spoke with El Ecosistema Startup about the challenge of bringing machine learning and artificial intelligence to the culture of Latin American companies.
+
+Their answers, below.
+
+– How was Pharu born?
+
+It is a product of what we were already doing between Optium SBI , which was my consulting firm in Boston, and Symnetics , which is the consulting firm of my partners in Chile, where Alejandro Inzunza is . So, the context is this one that I have always told, in which I was solving this and people were considering models, but without added value and under our approach it gave added value, right? Because we did analytics based on the needs of the companies and their objectives, together with their strategy.
+
+– What caught your attention about the field?
+
+Basically, with analytics you can generate value in any industry, in any activity, under any type of question, using data. And that caught my attention because, as I had moved between industries between medicine, mass consumption, retail, rent a car, supermarkets, what do I know, so many different things, that a lot of value could be generated in all of them. I loved the feel because there was always something to do with the tools that could help organizations.
+
+– How has the company's growth been from its beginnings until now? 
+
+The growth has been high and rapid because now in November we will celebrate just one year since Pharu was created. And we already have several clients, but not only that, we also have two partnerships, one with the Catholic Innovation Center, another with Google. And we have had several important milestones such as the invitation to País Digital, but we are also growing very strongly organically to develop new lines of business, so it has gone really well for us.
+
+– What were the main challenges you have had to overcome?
+
+And I would say more that it has been a process of adaptation , we had been doing this in the rest of the world, now more so in Latin America and perhaps we have had to adapt processes, certain cultures and certain types of things that are different in all organizations, but obstacles I would say no because as we had thought and planned this for a long time, we were super prepared to do it. 
+
+I believe that one of the main problems that this business has in cultural terms is that the world is still slowly preparing to completely acquire this current industrial revolution, 3.0, 4.0, whatever one wants to call it. And what does that imply? It implies that when I go to a firm and try to install a Machine Learning or Artificial Intelligence algorithm, it is not natural that people want to use it, adhere to the new technology, etc. Because effectively the majority of people working today were not from a generation in which neither school nor university had this type of technology.
+
+And therefore that is an obstacle that organizations find themselves in because one arrives, sets up the algorithms, but finally has to convince people to execute it. And since we have developed this in many places around the world, in each place the culture is different. So what is easy to adapt in Chile may be very difficult to adapt in China or vice versa. And so in other countries on the planet and therefore that makes it much more complex.
+
+– In which countries do you operate and how many clients have you had to date?
+
+Look, we have had several clients and we are in operation in several countries - the United States and Chile - because it is a combination of things that has happened recently, I don't know if I would like to give the exact number because I think the privacy of the clients and many perhaps later between the numbers, things, what they themselves publish, may have associations that perhaps they do not want and for us it has always been super important to maintain privacy, but we have many clients in several countries and in various industries.
+
+– What are Pharu's short and long term goals?
+
+In the short term we would like to continue growing as we have been growing and continue opening new lines of business. Start opening new lines of business and in the long term be, of course, a macro consultancy with several fundamental pillars, one obviously analytics as a consultancy, another creation of artificial intelligence applications and a third which is very important and is learning where we like to teach the rest of the world from scratch how this can generate value for them and we find that a very important mission.
+
+You may be interested in: Breik: “The relationship with our clients and partners has helped us get to where we are today”
+
+Main learnings
+
+– What are the main learnings that you have been able to take away from this experience that you can give to other entrepreneurs?
+
+I believe that the main learnings are that the most important thing about our environment, artificial intelligence and machine learning, is that in the end a human being occupies the algorithm and that should never be left aside because if not the algorithm, whatever, the application of artificial intelligence is not going to enter as an organization should enter and it may not generate anything. And I believe that the greatest experience we have had being in different countries and in different industries is how to make the organizational climate, the environment of the workers, effectively appropriate for them to acquire this technology and use it to generate value. that we expect.
+
+We are learning many things very quickly, but little by little we are understanding the environment, how to run the business better, how to manage the experience, but what I could maybe teach other entrepreneurs, look, this is what you have to do, these are the things. that you have to take into consideration. 
+
+Pharu has been a creation that has been going on for many years and that is why I do not want to be unfair to the environment and invent something, because although Pharu is 11 months old, we had been developing these learnings, technologies and developments before joining as Pharu for many years. We began to understand this technology long before they became famous in the world, so it has been a very considerable learning experience and therefore when we launched it in some way we understood how it worked, we understood the platforms, the technologies, the algorithms, not like we were just recently looking at the obstacles, trying to understand how to incorporate it into the organization. On the contrary, we had a lot of experience in this, so I would not like to invent something that is not true regarding what learning the entrepreneur should have. 
+
+I feel like a very, very incipient entrepreneur, we have been very lucky , we have honed a lot of professionalism in the teams that allows our product to be top level, but from there to be able to teach someone and tell them these are the things that I recommend you as entrepreneurs, I don't think I have the knowledge to give that answer.
+
+
+
+
+
+119. News Corp AI powered News
+
+News Corp Australia’s executive chair, Michael Miller, revealed that the media giant has been producing a staggering 3,000 news articles through the use of AI weekly.
+
+This represents a remarkable breakthrough in the realm of AI advancements.
+
+AI-powered news generation
+
+These AI-generated stories focus on hyperlocal topics, including weather updates, fuel prices, and traffic reports. The innovation is led by Peter Judd, News Corp’s data journalism editor, and many articles carry his byline. 
+
+The initiative is part of the Data Local team’s efforts to supplement content written by reporters for the company’s 75 “hyperlocal” mastheads scattered across the country, such as Penrith, Lismore, Fairfield, Bundaberg, and Cairns.
+
+News Corp confirms human oversight
+
+While the stories are AI-generated, a News Corp spokesperson clarified that they are overseen by journalists, assuring the credibility and accuracy of the content. However, no explicit disclosure in the articles indicates their AI origin. 
+
+The spokesperson highlighted that the AI-generated content mainly serves as service information, updating local fuel prices daily, court lists, traffic and weather updates, and death and funeral notices. 
+
+The Data Local team, consisting of four staff members, ensures that all information and editorial decisions adhere to journalistic standards.
+
+Boosting news subscriptions through artificial intelligence
+
+During the World News Media Congress in Taipei, Michael Miller emphasised that the appeal of local news draws in a significant portion of News Corp’s subscribers. He shared that 55% of all subscriptions are driven by their “hyperlocal” mastheads, which has recently increased with the launch of 24 new such titles. 
+
+These digital-only mastheads are established in regions with a population of at least 15,000 and are often staffed by a single journalist.
+
+AI in the media landscape
+
+News Corp’s adoption of AI in news generation reflects a growing trend in the media industry. Many newsrooms in Australia are exploring ways to harness AI’s potential. 
+
+The Australian Broadcasting Corporation (ABC) focuses on AI applications that enhance content accessibility, such as transcription of audio content, AI voice-powered text-to-speech delivery of articles, translation, and personalised recommendations. 
+
+However, Nine Entertainment is yet to share its specific AI policy.
+
+As AI technology continues to evolve, it poses both opportunities and challenges for the media industry, raising questions about content authenticity, journalistic oversight, and the future of news production and consumption.
+
+
+
+120.  State in battle to protect data privacy, enhance security in the AI age
+
+In an era where Artificial Intelligence (AI) is integrated into different facets of daily life, the government has said it is in the process of implementing robust safeguards to data privacy and security. The assurance by information, communication and the digital economy cabinet secretary Eliud Owalo comes at a time when the transformative potential of AI is being harnessed across the world amid growing concerns on the exposure of sensitive information to unauthorized access and use. Mr Owalo yesterday said stringent policies and regulations are being drafted to ensure the integration of AI adheres to ethical standards, preserve individual privacy rights while harnessing the potential of data-driven technologies. “Massive data is coming in to the government’s hands in the course of digitization and we have appropriate frameworks to ensure it remains private and secure. As a government, we are taking advantage of that process to strengthen the policy, legal  and regulatory framework in the face of technological advancements,” the CS said during the fourth edition of the Nation Digital Summit. The forum in Naivasha, Nakuru County, whose theme is “Syneries in Digital Transformation and Artificial Intelligence”, brought together journalists, business leaders, policy makers, academia and tech enthusiasts. Among other subjects, the exploration of AI and its implications for the future of media was discussed. Mr Owalo said the benefits of AI should not compromise data integrity. The information Communications and Digital Economy Sector Working Group on Policy and Legislative Reforms is working on areas falling under the information and communication technology (ICT) sector’s mandate. According to the CS, the law has remained static amid significant changes in technology. “Even the resolutions from this summit should be forwarded to that committee whose tenure we have extended by three months. We should all, in the public and private sectors, think together even as we benchmark with the global standards on technology matters,” he said. Nation Media Group (NMG) CEO Stephen Gitagama said the company will adopt AI to enhance creativity and problem-solving. “The versatility of AI is amazing because we are harnessing that technology to improve efficiency and productivity with a human touch. We are also aware of issues touching on copyright, ethics and objectivity challenges and are being careful not to let AI be misused,” he said. The Nation Digital Summit is an event hat aims to help organisations implement the best technology and digital strategies in accordance with global trends and consumer needs. The summit offers opportunities for learning, networking, and celebration with partners, customers, digital experts and industry leaders.

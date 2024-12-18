@@ -1,0 +1,681 @@
+61. ChatGPT for Translators: How to Use the Tool to Work More Efficiently?
+
+Test it before you reject it.
+
+That’s my approach when it comes to new technology. And that’s what I did when the ChatGPT frenzy began.
+
+Two months ago I embarked on a new testing journey and, to my surprise, I quickly joined the ChatGPT’s fan club. Now I use this tool regularly, for example when I write and translate content.
+
+How can translators benefit from ChatGPT?
+
+There are many ways in which you can use the tool to make your work more efficient. Below you can find six ways in which I use it for my localization and translation projects:
+
+1. Fighting with character limits in localization projects
+
+If you regularly localize websites, mobile apps, or games, you probably know the pain of following strict character restrictions. Fighting with character limits might be exhausting, especially if you have to constantly come up with synonyms, rephrase or shorten your translation to fit the text into a tiny button space or menu layout.
+
+Here’s where ChatGPT can come into play.
+
+You can prompt the tool to make your phrase shorter or to rephrase it when you run out of ideas. You can use the tool suggestions in your translation or treat the chat replies as rough ideas that need some tweaking:
+
+You can also prompt the tool to count the characters for you or ask it to come up with a phrase of a certain length:
+
+2. Finding collocations
+
+Sometimes when you write or translate you get stuck and there seems to be no way out. You have a perfect word to express your idea, but for some reason, your mind refuses to convert it into a catchy phrase. Of course, you could use a collocation dictionary to find the right match, but you could also ask AI for help:
+
+3. Searching for synonyms
+
+Online thesaurus is a great resource when you’re looking for synonyms, but if for some reason you get tired of switching between several tools or your thesaurus fails to amaze you, you can always turn to ChatGPT:
+
+4. Create more idiomatic content
+
+Most freelance translators are also writers. And sometimes writing takes us to a new territory, for example, when you end up creating content in your non-native language. That’s what I’m doing right now. My blogs, videos, social media posts, and other marketing content are in English, but there are days when words escape me and I’m unable to quickly come up with a snappy text. Of course, I can browse through online dictionaries in search of a perfect idiom or phrasal verb. But I can also save some time by asking ChatGPT to do the same for me:
+
+5. Reformulating poorly written content
+
+Not all source texts are created equal. Some are ambiguous, confusing, and full of mistakes. Before you translate poorly written content you need to read it several times, use common sense, do some research or let your intuition guide you to be able to determine the most likely meaning. You can also ask ChatGPT to simplify the language for you:
+
+6. Switching between formal and informal style
+
+Each time you write or translate you need to adopt a different style. When you deal with formal content for quite a long time, your mind might go blank when it’s time to switch to a colloquial tone. Again, that’s where ChatGPT can help you out:
+
+Of course, you can prompt the tool to express the same idea in a more formal tone: ChatGPT can become an efficient tool for translators to carry out quick research or generate new ideas. All you need to do is to give it a try. Plus, learn how to prompt it correctly.
+
+
+
+62. TransPerfect generative AI
+
+Generative AI won’t kill you, but it could kill your business if you don’t adapt to it. According to Venture Beat, 59% of organizations lack the resources to address expectations around generative AI. As more and more people use applications such as ChatGPT, Bard, and Claude, companies are analyzing the implications AND potential impact on their teams in customer experience, accounting, marketing, digital, and more. Given the speed at which the technology is advancing, it can be difficult to distinguish what can actually be implemented and have value today.
+
+So, how to do it?
+
+We recommend a consultative approach with the right partner and with a core axis that adds business value, improves processes, and reduces costs.
+
+Generative AI depends on the data you train with.
+
+TransPerfect leverages technology and incorporates generative AI in a lens best understood through three main categories:
+
+Technology
+
+Services
+
+Solutions
+
+In technology, TransPerfect’s AI.NOW division was launched in 2023 after years of research and development with a specific focus on commercializing a solution that helps businesses leverage translation technology while prioritizing data protection and confidentiality. Some key advantages include:
+
+Data Security and Privacy
+
+Compliance Assurance
+
+Customization and Control
+
+Integration Capabilities
+
+Risk Mitigation
+
+Over 50% savings on localization costs
+
+For services, data engineering partners stand out to help enterprises improve the way they interact with generative AI applications. This includes, but is not limited to, prompt engineering, example-based learning, and fine-tuning models to solve specific cases.
+
+In the rapidly evolving landscape of artificial intelligence, the pivotal role of data engineering partners becomes increasingly apparent, particularly in the realm of services. These strategic collaborators serve as indispensable allies for enterprises seeking to enhance their engagement with generative AI applications. With a focus on refining the intricacies of data handling, data engineering partners excel in prompt engineering, leveraging example-based learning methodologies, and meticulously fine-tuning models to address specific use cases.
+
+This collaborative approach not only amplifies the effectiveness of generative AI applications but also empowers enterprises to navigate the complexities of an ever-evolving digital landscape with unparalleled agility and innovation. Finally, our solutions are focused on quickly creating content that is scalable, gaining knowledge in market research, or creating popular multilingual chatbots in any language, based off of knowledge bases, among others.
+
+Some examples from above:
+
+E-learning
+
+Problem: Complexity in content creation
+
+Solution: Leverage training material for automated course outline
+
+Results: 25% lower costs and (turnaround time) TAT
+
+Product Support
+
+Problem: Complexity in question answering in the value chain
+
+Solution: GenAI to answer complex questions based on product information
+
+Results: Increased CSAT and reduced in 25% the teams’ workload
+
+Digital Content
+
+Problem: Cost and TAT for SEO-optimized multilingual content creation
+
+Solution: GenAI combined with SEO data points for optimized creation (with humans in the loop).
+
+Results: Over 50% reduction in costs and TAT
+
+Data Auto-Labeling
+
+Problem: High cost in human labeling
+
+Solution: AI for data labeling and classification
+
+Results: 70% cost reduction
+
+Custom AI Solutions
+
+Problem: Low availability and high cost of internal resources
+
+Solution: Dedicated AI teams
+
+Results: Faster time-to-market
+
+In any scenario, we recommend starting with a pilot to assess the pros and cons of generative AI. If it doesn’t work, it’s best to look for another use case. But if there is a clear return on investment (there usually is), we recommend iterating continuously and scaling. It is important to note that, in addition to technology, detecting where people can take AI to the desired human level is key.
+
+Generative AI has the potential to be a powerful tool for innovation and creativity, improving our productivity in the most repetitive tasks and unlocking our initial blank sheet in creative processes. As collaboration gets closer, AI will evolve and be able to solve increasingly complex problems. At TransPerfect, we are committed to the principles of responsible AI. We are flexible on models and hence we can help diverse industries.
+
+For more information, give us a shout!
+
+
+
+63. Using AI for interpretation
+
+As the size of the global localization industry is projected to reach $30 billion in 2024, several trends are poised to shape the industry’s trajectory. Let’s explore five of these trends:
+
+AI and Machine Learning Integration:
+
+The integration of artificial intelligence (AI) and machine learning (ML) technologies into localization processes is expected to continue growing. These technologies enhance translation efficiency, improve language accuracy, and assist in managing large volumes of content.
+
+AI-driven localization tools have shown a 20% increase in translation speed and a 15% improvement in accuracy based on industry case studies.
+
+Hyper-Personalization for Global Audiences:
+
+Companies are increasingly adopting hyper-personalization strategies to tailor content and user experiences for specific global audiences. Localization efforts extend beyond translation, considering cultural nuances and regional preferences to create a more personalized user experience.
+
+For example, e-commerce platforms like Amazon and Alibaba dynamically adjust content based on user location, language, and browsing history. One international fashion retailer achieved a 30% increase in online sales by tailoring product descriptions and marketing content to regional preferences.
+
+Overall, companies adopting hyper-personalization witness, on average, a 19% increase in customer satisfaction and a 15% growth in conversion rates.
+
+Focus on Multilingual SEO:
+
+Search engine optimization (SEO) is crucial for online visibility. As businesses expand globally, there’s a growing emphasis on multilingual SEO. Localization strategies now include optimizing content for different languages and regions to improve search rankings and increase organic traffic.
+
+Global companies like Nike have dedicated multilingual websites and employ region-specific SEO strategies to enhance online visibility. Websites optimized for multilingual SEO experience a 30% average increase in organic traffic from international markets.
+
+Continuous Localization in Agile Development:
+
+Agile development methodologies are becoming more prevalent in software and product development. Localization is no longer a post-development phase but is integrated into the agile development process. This approach ensures that products are localized continuously and released simultaneously in multiple languages.
+
+Tech giants like Microsoft incorporate localization into every sprint, ensuring that new features are released simultaneously across diverse language versions. Most software companies can reduce time-to-market by up to 20% by integrating localization within their agile development cycle, as well as 25% reduction in localization-related bottlenecks in software development.
+
+Audiovisual Localization for Streaming Platforms:
+
+With the rise of streaming platforms and the global popularity of video content, there’s a growing demand for audiovisual localization. This includes subtitling, dubbing, and voiceovers to make video content accessible and culturally relevant to diverse audiences around the world.
+
+Streaming services have witnessed a 40% increase in viewer engagement by offering content in local languages through dubbing and subtitling. That’s why the global audiovisual localization market is expected to reach $10 billion by 2024, driven by the surge in demand for multilingual content on streaming platforms.
+
+These trends showcase the evolving landscape of localization, where technological advancements and strategic approaches cater to the diverse needs of a globalized economy.
+
+Adapting Multimedia for Diverse Platforms
+
+1. Importance of Adapting Content for Diverse Platforms:
+
+In today’s rapidly evolving digital landscape, businesses need to rethink their content creation strategies. One-size-fits-all content is no longer effective in engaging audiences across various digital platforms. Instead, a tailored approach that takes into account the unique characteristics of each platform is essential for success. This involves understanding the audience and cultural context of each platform, whether it’s social media channels, streaming services, or e-learning platforms. By customizing multimedia content, businesses can create a meaningful impact and connect with their intended audience.
+
+A. Audience Engagement:
+
+In the age of social media dominance and digital content consumption, understanding the unique preferences and behaviors of audiences on different platforms is critical.
+
+Tailoring content to suit the interactive nature of platforms, from short-form videos on TikTok to long-form content on YouTube, fosters increased engagement and cultivates lasting brand connections
+
+For example:
+
+TikTok’s Triumph with Short-Form Content:
+
+Example: Ocean Spray and the Fleetwood Mac Challenge
+
+TikTok became a cultural phenomenon when a user, Nathan Apodaca, filmed himself skateboarding to work while sipping Ocean Spray cranberry juice and lip-syncing to Fleetwood Mac’s “Dreams.”
+
+The short and simple nature of the video resonated with TikTok’s fast-paced environment, leading to a viral trend. Ocean Spray’s brand engagement soared as users across demographics embraced the trend, showcasing the platform’s unique ability to turn spontaneous moments into widespread cultural phenomena.
+
+LinkedIn’s Embrace of Long-Form Thought Leadership:
+
+Example: Bill Gates’ Thoughtful Posts
+
+Bill Gates, co-founder of Microsoft, consistently utilizes LinkedIn to share detailed insights and engage in conversations on topics ranging from global health to climate change.
+
+By leveraging the platform’s professional context and preference for in-depth discussions, Gates fosters meaningful engagement. His thought-provoking posts generate extensive discussions, showcasing how LinkedIn’s environment encourages longer, substantive content that aligns with the platform’s professional networking and knowledge-sharing focus
+
+Global Social Media Usage:
+
+In 2021, there were approximately 4.2 billion active social media users worldwide.
+
+Users spend an average of 2 hours and 31 minutes per day on social media platforms.
+
+Multilingual Internet Users:
+
+A significant portion of internet users, around 75%, do not speak English as their first language.
+
+This highlights the importance of translating content into various languages to reach a more diverse global audience.
+
+B. Cultural Relevance:
+
+Beyond linguistic translation, the localization of multimedia content requires a deep understanding of cultural nuances.
+
+Adapting visuals, language, and context to align with the cultural sensitivities of diverse audiences ensures that content resonates authentically, avoiding unintended misunderstandings.
+
+Take Coca-Cola for example, a global brand known for its iconic red cans and timeless marketing, which has consistently demonstrated a profound understanding of cultural nuances in its multimedia content localization efforts.
+
+Visual Adaptation:
+
+In the Middle East during the month of Ramadan, Coca-Cola has, for years, altered the design of its cans to feature a crescent moon and Arabic calligraphy, acknowledging and respecting the significance of the holy month. This visual adaptation ensures that the brand aligns with the cultural and religious values of the local audience, fostering a connection that goes beyond linguistic translation.
+
+Language Tailoring:
+
+In its “Share a Coke” campaign, Coca-Cola took a personalized approach by printing popular names on its cans and bottles. When expanding this campaign to different countries, the company not only translated names but also culturally adapted them. For instance, in China, where phonetic pronunciation differs, Coca-Cola adjusted the names to ensure they sounded natural and resonated with the local audience.
+
+Contextual Alignment:
+
+The “Open Happiness” campaign, a global initiative by Coca-Cola, focused on the universal theme of joy. However, the way joy is expressed varies across cultures. In Japan, where the cultural emphasis is on subtlety and harmony, the campaign emphasized moments of quiet happiness, aligning with the cultural context. In contrast, in Latin American countries, where vibrant celebrations are prevalent, the campaign took on a more energetic and festive tone.
+
+C. Optimizing User Experience:
+
+User experience is a pivotal aspect of multimedia content consumption, and adapting content formats is essential for enhancing engagement.
+
+By tailoring content to suit the unique features and functionalities of each platform, businesses can ensure a seamless and enjoyable user experience, contributing to higher retention rates.
+
+Netflix, a global streaming giant, exemplifies the importance of tailoring content formats to enhance user experience across different platforms. The company’s commitment to providing a seamless and enjoyable experience has contributed significantly to its success.
+
+Adapting Content Formats:
+
+On its web platform and smart TV applications, Netflix optimizes content for larger screens, allowing users to fully immerse themselves in high-quality visuals. For instance, original series and films are produced with cinematic quality, enhancing the viewing experience on larger devices.
+
+On the mobile app, however, where users often consume content on smaller screens, Netflix employs a vertical video format. This adaptation caters to the way users naturally hold and interact with their smartphones, making it more convenient for on-the-go viewing.
+
+Personalization and Recommendations:
+
+Netflix’s recommendation algorithm is another example of tailoring content to suit individual preferences. By analyzing a user’s viewing history, the platform suggests content that aligns with their interests, creating a personalized experience.
+
+The “Skip Intro” feature on the platform recognizes that users often prefer to jump straight into the content without watching the opening credits. This small but impactful adaptation contributes to a more user-friendly and streamlined experience.
+
+Multi-Platform Consistency:
+
+Whether users are accessing Netflix on a smart TV, a computer, or a mobile device, the platform maintains a consistent user interface and navigation structure. This ensures that users can easily transition between devices without a learning curve, contributing to a seamless and enjoyable experience.
+
+D. Platform-Specific Strategies:
+
+Each platform has its ecosystem and user expectations. Crafting platform-specific strategies is essential.
+
+For example, on Instagram, visually appealing and concise content may thrive, while on LinkedIn, longer, thought-provoking pieces may be more effective. Understanding these nuances is key to successful multimedia localization.
+
+For example:
+
+National Geographic, a renowned global brand in the field of exploration and storytelling, effectively employs platform-specific strategies to cater to the distinct expectations and user behaviors on Instagram and LinkedIn.
+
+Instagram:
+
+On Instagram, a visually-driven platform where users often scroll through content quickly, National Geographic focuses on visually stunning and concise content. The organization’s Instagram feed features captivating images from around the world, accompanied by brief and engaging captions.
+
+For example, a visually striking photograph of a rare wildlife moment with a concise caption creates an instant visual impact, aligning with Instagram’s preference for eye-catching content that can be consumed in a matter of seconds.
+
+LinkedIn:
+
+On LinkedIn, a professional networking platform geared toward business and thought leadership, National Geographic adopts a different approach. Here, the organization shares longer, thought-provoking pieces that delve into the scientific, cultural, and environmental aspects of their explorations.
+
+An article detailing the behind-the-scenes challenges faced by National Geographic photographers, for instance, provides in-depth insights and aligns with the professional and knowledge-sharing ethos of LinkedIn.
+
+Understanding Nuances:
+
+National Geographic’s success on both platforms demonstrates an understanding of the nuanced expectations of their audience on each platform. By tailoring their content to suit the ecosystem and user behavior of Instagram and LinkedIn, they effectively engage with diverse audiences and maintain a consistent brand presence across platforms.
+
+2. Challenges and Solutions in Multimedia Translation:
+
+A. Complexity of Media Formats:
+
+The diversity of multimedia formats, including video, audio, and interactive content, poses a challenge in translation and localization.
+
+Leveraging advanced translation tools capable of handling various media formats is crucial for maintaining the integrity of the content across diverse platforms.
+
+B. Maintaining Consistency Across Platforms:
+
+Achieving consistency in messaging and branding is challenging when dealing with multiple platforms.
+
+Robust translation management systems play a pivotal role in maintaining coherence, ensuring that the essence of the brand is preserved across all localized content.
+
+C. Cost and Time Constraints:
+
+Timely localization within budget constraints is an ongoing challenge for businesses.
+
+Automation and AI-driven solutions streamline workflows, reducing costs and accelerating the translation process without compromising the quality of the final product.
+
+D. Quality Assurance in Multimedia Translation:
+
+Ensuring high-quality translations in multimedia content demands rigorous quality assurance processes.
+
+Incorporating comprehensive linguistic reviews, cultural sensitivity assessments, and user testing helps guarantee the accuracy and appropriateness of the localized content.
+
+Let’s take Video Streaming in perspective and see some statistics:
+
+Video Streaming (SVoD) – Worldwide
+
+The projected revenue in the Video Streaming (SVoD) market) market for Worldwide is expected to reach US$95.88bn in 2023.
+
+This indicates a promising growth potential for the market.
+
+It is further projected that the revenue will experience a Compound Annual Growth Rate (CAGR) of 9.47% from 2023 to 2027, resulting in a market volume of US$137.70bn by 2027.
+
+This demonstrates the increasing popularity and demand for video streaming services globally.
+
+When comparing the revenue generated in different countries, the United States stands out as the market leader.
+
+In 2023, in the United States is projected to generate US$39,250.00m in revenue.
+
+This highlights the significant contribution of the United States to the global Video Streaming (SVoD) market) market.
+
+The average revenue per user (ARPU) in the Video Streaming (SVoD) market) market is expected to amount to US$73.51 in 2023.
+
+This metric provides insights into the financial performance of video streaming platforms per user.
+
+It signifies the value generated from each user in terms of revenue.
+
+In terms of the number of users, it is projected that the Video Streaming (SVoD) market) the market will have approximately 1.6bn users by 2027.
+
+This indicates a substantial growth in user base, reflecting the increasing adoption of video streaming services worldwide.
+
+The user penetration rate, which measures the proportion of the population using video streaming services, is expected to be 17.0% in 2023 and is projected to reach 20.7% by 2027.
+
+This signifies the potential for further market expansion and penetration in the coming years.
+
+In the United States, the video streaming market is dominated by Netflix, with a wide range of original content and a large subscriber base.
+
+Conclusion:
+
+In a world where multimedia localization is a driving force, businesses must strategically adapt content for diverse platforms to create a global impact. By understanding the unique dynamics of each platform, overcoming the challenges of multimedia translation, and incorporating innovative solutions, organizations can effectively engage with global audiences, contributing to a more interconnected and culturally resonant global community.
+
+
+
+64.  Translation: Measures for the Management of Generative Artificial Intelligence Services (Draft for Comment) – April 2023
+
+Measures for the Management of Generative Artificial Intelligence Services (Draft for Comment)
+
+Article 1: In order to stimulate the healthy development and standardized application of generative artificial intelligence (AI), on the basis of the Cybersecurity Law of the People’s Republic of China, the Data Security Law of the People’s Republic of China, the Personal Information Protection Law of the People’s Republic of China, and other such laws and administrative regulations, these Measures are formulated.
+
+Article 2: These Measures apply to the research, development, and use of products with generative AI functions, and to the provision of services to the public within the [mainland] territory of the People’s Republic of China.
+
+Generative AI, as mentioned in these Measures, refers to technologies generating text, image, audio, video, code, or other such content based on algorithms, models, or rules.
+
+Article 3: The State supports indigenous innovation, broad application, and international cooperation in foundational technologies such as AI algorithms and frameworks, and encourages the prioritized use of secure and reliable software, tools, computing, and data resources.
+
+Article 4: The provision of generative AI products or services shall abide by the requirements of laws and regulations, respect social virtue and good public customs, and conform to the following requirements:
+
+Content generated through the use of generative AI shall reflect the Socialist Core Values, and may not contain: subversion of state power; overturning of the socialist system; incitement of separatism; harm to national unity; propagation of terrorism or extremism; propagation of ethnic hatred or ethnic discrimination; violent, obscene, or sexual information; false information; as well as content that may upset economic order or social order.
+
+In processes such as algorithm design, selecting training data, model generation and model optimization, service provision, etc., adopt measures to prevent the emergence of discrimination on the basis of race, ethnicity, religious belief, nationality, region, sex, age, or profession.
+
+Respect intellectual property rights and commercial ethics; advantages in algorithms, data, platforms, etc., may not be used to engage in unfair competition. 
+
+Content generated through the use of generative AI shall be true and accurate, and measures are to be adopted to prevent the generation of false information. 
+
+Respect the lawful rights and interests of others; prevent harm to the physical and mental health of others, infringement of their likeness rights, reputation rights and personal privacy, as well as infringement of intellectual property rights. It is prohibited to illegally obtain, divulge or use personal information and private [information], as well as commercial secrets.
+
+Article 5: Organizations or individuals that use generative AI to provide services such as chat, text, image, or audio generation (hereinafter referred to as “providers”); including providing programmable interfaces [i.e., APIs] and other means which support others to themselves generate text, images, audio, etc.; bear responsibility as the producer of the content generated by the product. Where personal information is involved, they bear legal responsibility as personal information handlers and are to fulfill personal information protection obligations.
+
+Article 6: Before using generative AI products to provide services to the public, a security assessment must be submitted to the state cyberspace and information department [i.e., the Cyberspace Administration of China] in accordance with the Provisions on the Security Assessment of Internet Information Services With Public Opinion Properties or Social Mobilization Capacity, and the procedures of algorithm filing, modification, and cancellation of filing must be carried out in accordance with the Internet Information Service Algorithmic Recommendation Management Provisions.
+
+Article 7: Providers shall bear responsibility for the legality of the sources of generative AI product pre-training data and optimization training data.
+
+Data used for generative AI product pre-training and optimization training shall satisfy the following requirements:
+
+Conforming to the requirements of the Cybersecurity Law of the People’s Republic of China and other such laws and regulations;
+
+Not containing content infringing intellectual property rights;
+
+Where data includes personal information, the consent of the personal information subject shall be obtained, or other procedures conforming with the provisions of laws and administrative regulations followed;
+
+Be able to ensure the data’s veracity, accuracy, objectivity, and diversity;
+
+Other supervision requirements of the state cybersecurity and informatization department concerning generative AI functions and services.
+
+Article 8: When human annotation is used in the development of generative AI products, providers shall formulate clear, specific, and practicable annotation rules conforming to the requirements of these Measures; necessary training of annotation personnel shall be conducted; and the validity of annotation content shall be spot checked.
+
+Article 9: When providing generative AI services, users shall be required to provide real identity information in accordance with the provisions of the Cybersecurity Law of the People’s Republic of China.
+
+Article 10: Providers shall explicitly disclose the user groups, occasions, and uses for their services, and adopt appropriate measures to prevent users from excessive reliance on or addiction to generated content.
+
+Article 11: In the process of providing services, providers have the duty to protect information input by users and usage records. They may not illegally preserve input information from which it is possible to deduce the identity of users, they may not conduct profiling on the basis of information input by users and their usage details, and they may not provide information input by users to others. Where laws or regulations provide otherwise, those provisions are to be followed.
+
+Article 12: Providers may not engage in content generation that is discriminatory based on a user’s race, nationality, sex, etc.
+
+Article 13: Providers shall establish mechanisms for receiving and handling user complaints and promptly handle individual requests concerning revision, deletion, or masking of their personal information; and when they discover or learn that generated text, images, audio, video, etc., infringe other persons’ likeness rights, reputation rights, personal privacy, or commercial secrets, or do not conform to the demands of these Measures, they shall adopt measures to cease generation and prevent the expansion of the harm. 
+
+Article 14: Providers shall, throughout the lifecycle, provide secure, stable and sustained services, and ensure users’ normal usage.
+
+Article 15: When generated content that does not conform to the requirements of these Measures is discovered during operations or reported by users, aside from adopting content filtering and other such measures, repeat generation is to be prevented through such methods as optimization training within three months.
+
+Article 16: Providers shall mark generated images, videos, and other content in accordance with the Internet Information Service Deep Synthesis Management Provisions.
+
+Article 17: Providers shall, in accordance with the requirements of the state cybersecurity and informatization department and relevant responsible departments, provide necessary information that could influence users trust or choices, including descriptions of the source, scale, type, quality, etc., of pre-training and optimization training data; rules for human annotation; the scale and type of human-annotated data; and foundational algorithms and technological systems. 
+
+Article 18: Providers shall guide users to scientifically understand and rationally use content generated by generative AI; not to use generated content to damage others’ image, reputation, or other lawful rights and interests; and not to engage in commercial hype or improper marketing.
+
+When users discover generated content that does not meet the requirements of these measures, they have the right to report this to cybersecurity and informatization departments or relevant responsible departments.
+
+Article 19: If a provider finds that a user has used generative AI products to violate laws or regulations; violate business ethics or social virtue, including engaging in online hype, malicious posting and commenting, creating spam, or writing malicious software; or engage in improper business marketing; etc.; service shall be suspended or terminated.
+
+Article 20: If a provider violates the provisions of the Measures, the cybersecurity and informatization department and relevant responsible departments are to impose penalties in accordance with the provisions of Cybersecurity Law of the People’s Republic of China, the Data Security Law of the People’s Republic of China, the Personal Information Protection Law of the People’s Republic of China, and other such laws and administrative regulations.
+
+Where there are no provisions of law or administrative regulation, the cybersecurity and informatization department and relevant responsible departments are to, in accordance with their duties, issue warnings, circulate criticisms, and order corrections within a set period of time. Where corrections are refused or circumstances are grave, they are to order suspension or termination of their use of generative AI provider services, and a penalty more than 10,000 yuan and less than 100,000 yuan is to be imposed. Where behavior constitutes a violation of public security management, public security management penalties are to be imposed in accordance with the law. Where a crime is constituted, criminal responsibility shall be pursued in accordance with the law.
+
+
+
+65. SDL to expand knowledge discovery and intelligent process automation to additional languages
+
+ROCKVILLE, Md., April 28, 2020 /PRNewswire/ -- Expert System, a global leader in artificial intelligence applied to text, has partnered with SDL plc, the intelligent language and content company, to enhance its AI-based Natural Language Understanding (NLU) platform with machine translation capabilities.
+
+Expert System's AI-based Natural Language Understanding platform is used to automate knowledge-intensive processes, and is integrated into its search and discovery tool, which can be used to gain insight from documents, emails, reports and presentations. The integration with SDL Machine Translation will build on this to produce a powerful end-to-end multilingual content understanding platform with knowledge discovery features. SDL Machine Translation brings state-of-the-art neural machine translation capabilities to business functions through SDL Machine Translation Edge and SDL Machine Translation Cloud.
+
+As a result, industry organizations including those in the life sciences, clinical research, insurance and government will be able to accurately translate their strategic information in up to 120 languages. Customers will also be able to adapt their language translation systems using their own data through SDL Machine Translation Edge, a secure and easy-to-use deep neural network machine learning software product.
+
+"Multilingual AI is at the top of many organizations' agenda," said Maurizio Mencarini, VP Global Strategic Partnership at Expert System. "By joining forces with SDL, we extend our native multi-language capabilities to further break down language barriers. The integration of SDL software in our Medical Intelligence Platform, for example, further advances its Digital Disease Detection capabilities to proactively identify new outbreaks of biological threats such as COVID-19. In addition, its multilingual and multi-source (social media, web, medical reports, etc.) collection functionality generates a unique Horizon Scanning capability to enable monitoring and prevention of medical and social crises." 
+
+The integration of SDL Machine Translation into Expert System's AI platform covers both cloud and on-premise deployment. This provides customers with full control over their data management and security and allows for infrastructure flexibility.
+
+Christophe Djaouani, SVP Regulated Industries at SDL, said: "We are excited to be partnering with Expert Systems to unlock new opportunities for multilingual content understanding. For example, by integrating our technologies, we can help health professionals to make sense of all the publicly available information regarding the COVID-19 crisis, along with clinical research data, and identify the best course of action in the shortest time frame. During this critical situation, our joint solution enables public authorities, finance, insurance and telecommunications service providers to leverage any source of information for decision making, while communicating with citizens and customers beyond any language restriction."
+
+Expert System and SDL will be hosting the webinar Mitigate the Impact of Future Crises with Practical, Multilanguage Artificial Intelligence to demonstrate the integration between SDL neural machine translation capabilities and the Expert System Medical Intelligence Platform.
+
+Join George Bara, VP Strategic Partnerships & Alliances at SDL, and Andrea Melegari, SEVP Defence, Intelligence and Security at Expert System, on May 6, 2020 at 10:00 am ET to:
+
+Learn more about multilingual Artificial Intelligence applied to COVID-19 Digital Disease Detection;
+
+Hear how multilingual content detection empowers NLU-based horizon scanning;
+
+Understand why you should act today to control unexpected risk scenarios related to biological threats such as COVID-19.
+
+REGISTER HERE
+
+About SDL
+
+SDL (LSE: SDL) is the intelligent language and content company. Our purpose is to enable global understanding, allowing organizations to communicate with their audiences worldwide, whatever the language, channel or touchpoint. We work with over 4,500 enterprise customers including 90 of the world's top brands and the majority of the largest companies in our target sectors. We help our customers overcome their content challenges of volume, velocity, quality, fragmentation, compliance and understanding through our unique combination of language services, language technologies and content technologies.
+
+Learn more about SDL Machine Translation at www.sdl.com/MT
+
+About Expert System
+
+Expert System is a global leader in artificial intelligence applied to text. Its flagship platform provides a unique mix of natural language understanding and machine learning algorithms to help organizations bring human-like comprehension of any kind of text to accelerate business processes, enhance knowledge discovery and improve decision making. Headquartered in Italy (EXSY:MIL), Expert System operates throughout Europe, the Americas, Canada and the Middle East across a vast range of sectors and use cases including content enrichment, customer care, compliance, third party risk mitigation and intelligence applications. It has cemented itself at the forefront of the artificial intelligence sector, working with global businesses such as AXA XL, Lloyd's of London, Zurich Insurance Group, Generali, Bayer, Bloomberg BNA, BNP Paribas, Rabobank, Dow Jones, Gannett, IMF and EBSCO.
+
+
+
+66 Lionbridge usage of AI
+
+Read our take on ChatGPT and localization and learn why our Head of Product Language Services anticipates the AI technology will be a game-changer for the industry.
+
+Win-Win-Win Automation
+
+Our machine learning-driven tools create a win-win-win situation: a win for translators, who are matched to projects that better align with their interests and skills; a win for customers, who benefit from the consistency and expertise of the most relevant translators and resources assigned to their given project; and a win for us, because we’re able to reduce inefficiency and augment customer satisfaction. Huge win.
+
+How do we do it?
+
+Tool 1: Domain Detector 
+
+The Lionbridge Domain Detector is a machine learning-driven component that automatically identifies the domain or industry to which a new translation project belongs. By detecting the appropriate domain, we can assign the most relevant and specialized translators and linguistic resources to the project.
+
+We built the Domain Detector based on a taxonomy generated over 20+ years in the industry, with 30 first-level domains and 400 million human-tagged words. And that’s just phase one.
+
+The Domain Detector analyzes the content of a new project and first identifies an overarching primary domain to which it belongs; for example, “Automotive and Machinery.” It will identify secondary and tertiary domains as well; for example, “Business and Commerce” and “Electronics,” respectively.
+
+Once we’ve appropriately identified these layers of specificity, we can get hyper-targeted when gathering the necessary resources to complete the project—from translation memories and glossaries to translators and subject matter experts. Our machine learning-based tool allows us to do this more quickly, easily, and accurately than a human alone could.
+
+And that means that we match our translators more readily with projects that excite them. It means we can quickly and easily find the rare translator who is an automotive business expert also fluent in both Hindi and French. Those people exist in our pride—and our tools help us find them and activate them faster and with a higher likelihood of a successful outcome.
+
+Tool 2: Customer Affinity 
+
+Similarly, our machine learning-based Customer Affinity tool helps us make data-driven decisions to minimize risk, increase quality, and reduce wasted time and duplicated effort on the part of our translator team.
+
+The Customer Affinity component identifies content from existing customers that is most similar to the content of a new customer, utilizing translators who already have experience with similar content. The tool is fueled by machine learning that leverages content from 400 customers and 400 million words.
+
+This means our team can select translators who are already familiar with a given subject or topic, and who have a proven ability working with that type of content. That allows translators to specialize and hone their skills with content that’s relevant and interesting to them—and it adds confidence for new customers who can rest assured that we’re not reinventing the wheel with each new project.
+
+Tool 3: Automatic Translator Identifier
+
+As mentioned above, the tools we’ve created work to identify the most appropriate linguistic resources and translators for a given job. Our new Automatic Translator Identifier uses large amounts of tagged linguistic data to compare project content with content from each translator that we have stored in our linguistic repository. The tool performs a comparative analysis and generates a list of best-fit translators for a given job.
+
+This allows us to set up our translators for success by connecting them to work that already meets their skills. It means that translators can move faster and take on more work. It means our customers have a faster path to success. And it means each new project undertaken and each new word translated helps our system become even smarter, so we can continue making things easier, more relevant, and more engaging for our community of translators as well as for our customers.
+
+Win. Win. Win.
+
+Are the robots coming? Yes—but that doesn’t have to strike fear in the hearts of translators. At Lionbridge, we plan to keep harnessing the power of AI to make our translators—and our customers—effective, efficient, and happy.
+
+
+
+67.  ChatGPT translation
+
+Nowadays, artificial intelligence is playing a significant role in almost all markets. In recent days, there has been talking about creating content, translating, learning languages, and much more with the help of artificial intelligence; and one of the most popular AI at the moment is ChatGPT.
+
+ChatGPT is a language model developed by OpenAI that can create text automatically, as well as translate text from different topics in many languages. This means that it can be used to create content and translate quickly and efficiently, articles, stories, product descriptions, copy, and more.
+
+However, because it is an artificial intelligence, and it is still learning, so much of the final product will have to be checked and edited to improve it. And despite the fact that it is a very good tool for different activities, it is important to keep in mind that, at this moment, its capabilities do not compare to that of a human mind.
+
+How Can ChatGPT Help You?
+
+Literal translations: If we need the translation of a phrase, we can quickly resort to ChatGPT. But remember, these are AI translations that most likely contain syntax, grammar, and contextualization errors.
+
+Text generation: ChatGPT can generate text autonomously, which makes it useful for tasks like writing articles, emails, text messages, and so on.
+
+Automated responses: ChatGPT can be used to generate automated responses to frequently asked questions, which can help reduce the workload of customer support agents.
+
+Keyword research: Just by typing the main or target keyword and asking the artificial intelligence for related keywords, you can get many suggestions for your articles.
+
+Language comprehension: ChatGPT can be used as a language comprehension tool. If we don’t understand an email, we can copy it and ask the AI to translate it into our language.
+
+Text summarization: ChatGPT can summarize large amounts of text, which can be useful for data analysis tasks.
+
+Writing assistant: ChatGPT can act as a writing assistant, suggesting words or phrases to complete or improve a text.
+
+Will ChatGPT Replace Humans in Certain Jobs?
+
+Although ChatGPT is a very useful tool for AI content creation, AI translation, and many other activities, it is not likely to replace humans in certain jobs, at least not in the near future. This artificial intelligence still needs to be polished and has to learn a lot to carry out work autonomously.
+
+Regarding AI content creation, ChatGPT does not cite reliable sources, it simply takes information from the web, which could not be reliable. On the other hand, it also tends to make grammar mistakes, making sentences sound “robotized” and lacking in charisma. This also happens with translations; using the AI translations with this software generates lack concordance, have cultural and grammatical errors and are very literal.
+
+The creators of this fantastic software may implement many updates to improve the performance of their tool. However, for the moment, the human mind is necessary to ensure that the final product has what it takes to hit the market. So you can rest a little easier, since experts are needed to review the content and translations that ChatGPT does.
+
+Advantages of using ChatGPT:
+
+Speed: You can create content automatically, which means it can be much faster than typing manually.
+
+Efficiency: It has a wide variety of themes and formats, which means it can be used for a variety of tasks.
+
+Personalization: It can be trained with specific content, allowing you to generate personalized articles for a company or industry.
+
+Accessibility: It is available through an API, which means that it is easy to access and use.
+
+Cost: Automatic translations through ChatGPT, just like with Google Translate or DeepL, and AI content creation are free.
+
+Disadvantages of using ChatGPT:
+
+Quality: As ChatGPT is a model based on machine learning, its quality will depend on the content with which it has been trained. This means that the generated content may contain errors or inaccuracies.
+
+Requires review and editing: Although ChatGPT can create content automatically, it is recommended that you review and edit the content before using it. AI translations and content articles may have grammar and syntax issues, which can result in confusing or difficult-to-understand products.
+
+Limitations on creativity and originality: Although ChatGPT is capable of auto-generating content, it still has limitations on creativity and originality compared to a human.
+
+Dependency on data quality: ChatGPT is a data-driven model, so if the data you use has not good quality or is not up-to-date, the generated model may not be accurate or relevant.
+
+Decontextualization: AI translations are word-for-word, therefore they do not take into account the context in which the text is used, which in many cases will lead to inaccurate or misleading translations.
+
+Not enough languages: ChatGPT AI translations may have difficulties with rare languages ​​or regional dialects.
+
+In summary, although it is true that many of the comments on the Internet about ChatGPT are written to create fear for the many jobs people could lose, at the moment, that is not the case. ChatGPT is still in the experimental phase and most importantly, it lacks the abilities of human beings, which means it makes a lot of mistakes.
+
+On the other hand, it is important to emphasize the fact that all the content, as well as the translations, this tool makes needs to be reviewed. So, use ChatGPT with caution, have a professional improve what it creates, and make sure you have a good final product for your clients or audience.
+
+
+
+68.  Globo Pacts with Google Cloud in Bid to Become a Mediatech Company
+
+Brazilian media giant Globo has forged a long-term strategic partnership with Google Cloud in its bid to become a full-fledged mediatech company. The new deal aims to bring more scale, efficiency and innovation to Globo’s operations and distribution.
+
+The brand new alliance dovetails with Globo’s recent digital transformation, with a restructuring focused on direct-to-consumer deliveries.
+
+Starting April 2021, over the next seven years, Globo will use Google’s experience in data management, artificial intelligence (AI) and machine learning (ML), as well as its global, scalable and secure infrastructure, to bolster the company’s digital evolution.
+
+“In recent years, we dove deeply into our processes, so that the company was in fact prepared for the many challenges of the future,” said Globo CEO Jorge Nóbrega, adding: “This strategic partnership will help us accelerate the main pillars of our transformation, such as focus on the public, data management, partnership for innovation and new business models.”
+
+“We’ve been facing the challenge of managing a high content consumption of programs like ‘Big Brother Brazil,’ which has been leading Globo’s platforms to one of its best audience ratings in decades and hitting historic milestones on [streaming service] Globoplay, such as the record of three million votes per minute in this 21st season,” Nobrega explained. “Therefore, having surpassed the 100 million monthly active users (MAU) mark and 100 million Globo IDs on our identity management system, Globo will benefit from the scale and AI/ML (artificial intelligence / machine learning) capabilities of Google Cloud to deliver a unique and personalized experience to our users,” he continued.
+
+Nobrega added: “By advancing our data-based strategy, and strengthening partnerships that allows us to integrate broadband and broadcast, we will be able to offer a more fluid and complementary navigation between digital and linear, but also new possibilities of hyper-segmentation of the content offer, personalizing recommendations in real time to our audience.”
+
+The deal is one of Google Cloud’s biggest customer win in Latin America to date after in June 2019 Latin America became a dedicated Google Cloud region under new leadership, said Google Cloud President Robert Enslin,
+
+“Businesses across industries are turning to Google Cloud to help them transform and modernize,” he added, citing Mercado Libre, a regional online retailer, Grupo Herdez, a leading consumer goods company in Mexico, Brazilian bank BV, Alpargatas, a manufacturing company using Workspace, and Rubin Observatory, an astronomic research in Chile.
+
+“Over the past year, media and entertainment companies have gone through immense changes, and a lot of companies are looking to build new services — streaming and otherwise — using technology, “ Enslin added. “We’re here to help them do that, and our partnership with Grupo Globo exemplifies this.”
+
+Nobrega pointed out that over 50% of the Brazilian households might have access to a connected TV ecosystem – which represents a strong opportunity to (re)start thinking TV as a mainstream media for communication, bringing all the metrics and business models typical of digital advertising to open TV.
+
+Within the scope of the partnership, Globo said it aims to:
+
+*Migrate 100% of its data centers to Google Cloud, enabling scale in the production and distribution of media, launching new channels, among other initiatives;
+
+* Transfer its content to Google Cloud, as well as digital products and services, such as Globoplay and the “G family” — G1, GE.com and Gshow;
+
+* Optimize, modernize, and unify platforms through a scalable and flexible cloud-based technological architecture that will serve as a backbone for all the services and products of the media conglomerate;
+
+* Optimize personalized recommendations in real time to its audience. Google Cloud will also accelerate the training of Globo employees with advanced machine learning knowledge.
+
+The first project will be the customized integration of Globoplay with Android TV OS, with the purpose of combining the programming of open TV (digital signal, broadcast) and TV via internet (broadband), resulting in new ways for audiences to watch Globo TV through a standard digital signal.
+
+“Having Globoplay natively embedded into the Android TV OS opens up new opportunities to provide to our consumers a seamless and unique experience of watching free-to-air digital TV and enjoying their preferred shows on demand over Globoplay,” said Nobrega. “This is the concept of hybrid TV, combining in a single experience the big reach of the Globo broadcast TV in Brazil that reaches 100 million every day on its linear channel with the highly personalized experience of the Globoplay streaming service,” he noted.
+
+
+
+69. Traker translations security
+
+Security
+
+Maintain peace of mind with the knowledge that our secure translation management platforms are operated within our ISO27001 certified information management system, demonstrating our commitment to protecting your information.
+
+Features
+
+
+
+Comprehensive Oversight
+
+By uploading your compliance standard and documents into Straker.AI's Compliance Solution, you can rest easy knowing that our advanced AI is performing a rigorous analysis of the two. Once quickly completed, you’ll rapidly receive a comprehensive scoring of how your compliance documents measured up to the desired standard.
+
+
+
+Seamless Reporting
+
+Save time and money. Simply upload the required compliance documents, the compliance standard you’re using, and step away while waiting for your report to be emailed to you.
+
+
+
+Make compliance Tracking Easy
+
+By running your compliance checks through Straker’s AI-assisted Compliance Solution, you don’t just assure yourself of accurate and timely reviews. You also make the most of automated version control to enable greater tracking, helping you keep up with, and manage the pace of change.
+
+Data privacy
+
+We take pride in our reputation, and our global translation services have received many reviews commending our respect for company privacy. Our sophisticated privacy policies ensure complete translation security, allowing us to work confidently with several of the world's largest brands.
+
+ISO 27001
+
+Protecting your information is a responsibility we take seriously, which is why our information management system is ISO 27001 certified. This certification ensures we continually improve our translation information security systems, train our employees on the importance of security, and safeguard sensitive information in every document we translate.
+
+GDPR
+
+Our strict privacy policies adhere to all international regulations and privacy laws to ensure global translation data compliance. We’re transparent about the data we collect, how we collect it with consent and how long we store this data. For more information, please go to our Privacy, GDPR and Cookies pages to download our policy information.
+
+
+
+70.  Harness the power to AI for preservation of African languages
+
+The desire for technological advancements have been with us since before the Agrarian revolution and cuneiform writing in Mesopotamia about 12,000 years ago. Human civilization demanded assistance, through technology, to enable them to work faster and more efficiently as they could not entirely depend on human labour.  These innovations have continued over the years, transforming industries  and creating better outcomes while supporting humanity to realize their desired goals in daily existence. From the clay tablets in Mesopotamia, the Egyptian papyrus reeds to the discovery of paper and eventually computers and computerized writing, language preservation has undergone remarkable transformations. This transformation and continued globalization also birthed the Language Services Industries. The language services industry in Africa, providing services for African languages in translation, interpretation, localization, media localization and publishing with the intention of promoting and preserving the indigenous African languages and culture has also been caught up in this evolution, with a continued desire to provide services that are adequate, reliable and faster for clients. Thus, Artificial Intelligence (AI) is one of those technological advancements that are being adopted to encourage machine learning, automated content creation and moderation and speech-to-text programs. Alupo et al, in an article titled ‘Realizing the potential of AI in Africa’ emphasizes that the Global South cannot distance itself from the disruptive influence of artificial intelligence in their economies, from manufacturing, to services, to governance and its potential benefits if they have to match up to the Global West. The challenge however is how the use of AI for the promotion and preservation of African languages and cultures will not alter meanings of words and distort cultural values. This article, therefore, looks into how language service providers, stakeholders and custodians included, can maximize the use of AI in the promotion and preservation of African languages in localization without interfering with the original meanings of words and phrases and also not undermining African cultures. Localization in simple terms is adapting services and products within the needs of a particular culture, language or defined populations.
+
+Understanding AI: Computer-Assisted Translation Systems Versus Machine Translation
+
+You might also like
+
+Role of Translation of Political Texts in Fostering Inclusive Governance in Ghana
+
+Transformative Role of Language in Shaping Gender Identity
+
+Visiting Rwanda: What do I learn first, Kinyarwanda or Rwandan culture?
+
+If you constantly access the internet for information, it is certain that you have found yourself on websites that are in a language you do not understand and thus used Google Translate. This is one of the most used language translators. Or you are watching a film whose language you don’t comprehend on YouTube and your movie is accompanied with words appearing magically below the screen, known as subtitles, to help you understand what the film is about. Sometimes the words are incomprehensible but somehow you manage to grasp a thing or two. This is possible because of computer aided translations systems and machine translation that is a product of artificial intelligence.  In a recent conversation with Nat King Taylor on  Africa’s LSP Podcast by Bolingo Consult which you can listen to here, Sylvain Agbolo, an African language activist, linguist  founder of Multilingualism Week Conference and translator in Accra, Ghana, emphasizes the need for language service providers and translators of African languages to acquire skills on AI to aid them in their work and enable them compete favorably with their competitors. First, we have to understand how this intelligence works and the kinds available and then look at their pros and cons in promoting and preserving African languages and cultures. 
+
+A computer-aided translation, also called computer-assisted translation (CAT) tool, is a software with a Translation Memory (TM) at its core to assist in collection of individual translation units in a database. The CAT supports translators in preparing translations by converting texts, segmenting and then availing these segments for translation. You can read a detailed explanation of CAT and how it works here. Just as the name suggests, the CAT tool’s work is to support a human translator and cannot do translations independently. Studies show that translators work 28% faster when engaging CAT tools in their translation works. They also offer translations that are fast, of high quality and ensure consistency of the translations. Moreover, it enables the preparation and segmentation of translations in a variety of formats like Microsoft Word, XML files, Excel and PowerPoint files as well as Open Office files. Some of the popular CAT tools available in the market include: memoQ, Smartcat, SDL Trados Studio, Wordfast, Across and OmegaT. 
+
+Machine translation application (Machine translation) is the opposite of CAT as it works independent of human involvement. This means that in a Machine translation program, texts are fed to a computer algorithm that automatically translates it to another language. There are three types of Machine translation methods: a) Rules-based: relies on grammar and language rules that have been developed by language experts, and also used on highly customisable dictionaries. b)Statistical machine: this method works by analyzing human translations that are already in existence in large volumes and c) Neural machine: This method works by teaching itself translation using a large neural network. It has gained popularity against rules-based and statistical machines because it provides better results than the two. Some of the popularly used machine translation application programs include: Systran, DeepL, Microsoft Translator, Amazon MT, Tilde MT, Google MT and Omniscien Technologies. 
+
+The pros and cons of translation of African languages through AI
+
+As per the discussion on artificial intelligence programs on language translation, it is obvious that humans cannot distance themselves from this technology as the demand for its use keeps increasing. Globalization keeps demanding for localization, economically, socially and culturally,  which means that there is a technological demand to service this desire for efficient and effective results. Africa can benefit greatly in the preservation and promotion of its indigenous languages through translations via artificial intelligence programs.These languages will not only be accessible to millions of people all over the world but also not be threatened to extinction.  Alana Cullen, in the article ‘How artificial intelligence “works” in literary translation, cites that Google Translate, at the time of its launch in 2006 could translate only two languages. Ten years later, 2016, it was able to translate over 100 billion words per day while supporting over 103 languages. Currently, it has gone beyond translation and transcribes eight of the world’s most spoken languages in real time. 
+
+Even though language service providers are embracing AI programs in carrying out translation, they still engage human editors and translators, known as ‘post-editors’, to cross check the results. While it is less costly to work entirely with the artificial intelligence programs, depending on them only could result in substandard work. The complexity and dynamism of language still requires human input as the machines do not have the capacity to accurately identify the nuances of language. Sylvain encourages African translators to constantly train and refresh their skills in AI as it does not mean that their services will be rendered useless if they engage in it. For it is only through the translators that the African languages will be input in the data system of the translation intelligence programs without distorting the meaning. 
+
+It is important to note that the CAT tools and the Machine Translation (MT) programs work differently and also serve different purposes. CAT tools lean towards professional use and are not suitable for non professional users and the engagement of human translation is not only limited but also costly. This therefore means that MT programs, while their cost is low and non professional users can work with it, they are not as reliable as the CAT tools. Their major advantage is that they are accompanied by human reviewers or translators to ensure data output is adequate. This is probably what can work around the complexity of the African languages that are over 2000 with each having their own grammatical structures and pronunciation.   
+
+In a discussion with Stephen Kiilu, an African Master’s in Machine Intelligence student at AIMS Senegal, currently researching on how to preserve African languages through NLP (natural language processing), he shares that the greatest challenges involved in creating AI translation is getting adequate human translators that can help generate data for intelligence systems to use in translation. NLP is an emerging artificial intelligence field that trains computers to understand human languages. Stephen explains that intelligence systems need a large pool of data, which African languages do not possess, in creating translations that can be used in real time. Most of the data on African languages is largely on bible translations which is not adequate to create a translation system for African languages. Unlike Kiswahili, which has a large pool of data through research, documentations, dictionaries online amongst others, indigenous languages, even though spoken fluently by its speakers, do not have this advantage. 
+
+Meta AI, from Meta technology company, emphasizes the concerns raised by Stephen Kiilu, noting that AI translation systems of today are not designed to serve the thousands of languages used around the world, or to provide real-time speech-to-speech translation. Meta technology is an American multinational technology conglomerate that owns Facebook, Instagram and WhatsApp, and other services and products, owned by Mark Zuckerberg. In 2022, Meta announced a new AI Model, No Language Left Behind (NLLB), that will translate 200 languages that will enable more people to have access to technology. Yet still on these social media platforms, the translation is not as adequate as desired. This means that artificial intelligence requires the input of human labor to realize its goals. It also means that Africa should invest more in technologically advancing it indigenous languages to avoid distortion of meanings and interference of culture, its norms, values and mores. And the only way for these indigenous languages to be preserved and promoted without meanings of words being distorted is to have  proactive stakeholders and custodians in the language service industry working together to achieve this goal. 
+
+In Conclusion
+
+Artificial intelligence will not take the place of humans. As discussed in this article, there is a lot of human labour that is needed to enable the success of AI in translation. If all the 2000 and more languages spoken in Africa have to be translated through AI, it means that the job market in the language services industry is bigger than can possibly be imagined. The preservation and promotion of African languages, and by extension African cultures should be treated with the urgency it deserves. Through the articles on the role of stakeholders and custodians of African languages and cultures, African languages are on the verge of extinction due to the competition with other internationally recognized languages. Yet, Africa still needs to have international recognition and relevance to compete favourably with other nations globally to achieve its economic, social, political and cultural goals. Artificial intelligence, if well explored, is the future for the preservation and promotion of African languages and cultures. There is already international backing on the importance of the promotion and preservation of African languages for sustainable development. It is therefore upon Africa to tap into its resources to harness  and maximize the use of artificial intelligence for language translation to achieve its goals.

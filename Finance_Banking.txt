@@ -1,0 +1,403 @@
+41. JPMorgan Chase Restricts Staffers’ Use Of ChatGPT
+
+JPMorgan Chase has restricted the use of ChatGPT by its staff, Bloomberg and the Telegraph reported, becoming the latest organization to limit the use of OpenAI’s chatbot in the workplace following the likes of Amazon and several U.S. universities. KEY FACTS
+
+According to Bloomberg, the ban wasn’t triggered by a particular event or mishap, but is instead part of the company’s “normal controls around third-party software.”
+
+The restriction applies to employees across the financial services giant’s various divisions, the report adds.
+
+The Telegraph previously reported that the decision was driven by concerns about sensitive financial information being shared with the chatbot that could lead to regulatory action.
+
+Users have demonstrated a multitude of use cases for the chatbot, which includes summarizing regulatory documents and earnings reports—although its accuracy remains a concern.
+
+It is unclear whether other financial institutions will follow JPMorgan Chase and place similar restrictions on the use of ChatGPT.
+
+KEY BACKGROUND
+
+Last month, Amazon warned its staffers against sharing any code or confidential information about the company with OpenAI’s chatbot—which has received billions in investment from Microsoft. Business Insider reported that this decision was undertaken after the company found examples of ChatGPT responses that resembled internal Amazon data. Apart from companies, several major educational institutions across the U.S. have banned the use of ChatGPT in their classrooms. Teachers have expressed concerns that tools like ChatGPT could make cheating in exams and assignments a lot easier.
+
+TANGENT
+
+The Chinese government wants to completely block access to ChatGPT as it does not comply with the country’s censorship laws. While ChatGPT’s website was always blocked by China’s ‘great firewall,’ some users were able to circumvent this by using third-party tools on popular web platforms like WeChat to access the chatbot. Regulators in Beijing have now ordered its tech giants including Tencent and Ant Group to crack down on such third-party tools.
+
+
+
+42. Wells Fargo, artificial intelligence, and you
+
+w e’re in a new era of artificial intelligence. It makes headlines daily, such as AI-generated songs that sound like your favorite pop star. Today’s growing ecosystem of revolutionary AI tools has sparked unprecedented interest in this area of technology. Just look at ChatGPT. OpenAI’s natural language AI chatbot become one of the world’s fastest-growing web platforms just two months after launching in late 2022.
+
+While AI is today’s trending topic, Wells Fargo has invested in AI technology for the better part of a decade. Those investments are now paying off through better experiences for customers.
+
+“Over the past two or three years, the use of AI and machine learning tools has become more streamlined, allowing them to be more easily integrated into business applications,” said Swarup Pogalur, Wells Fargo’s head of digital and AI capabilities engineering. “At Wells Fargo, we’ve been on a journey to AI adoption — from a digital adopter to a digital leader — while carefully managing our risks to ensure consistency with regulatory oversight.”
+
+New to artificial intelligence? Here’s what you need to know.
+
+
+
+The simple definition of AI is that it’s a problem-solving machine. Artificial intelligences are designed to mirror or simulate human logic by taking in information and learning from each interaction.
+
+This technology is far from science fiction. Just look in your Wells Fargo Mobile app to see it in action. Fargo™ is a virtual assistant that helps customers get answers to their everyday banking questions on their smartphone.1 Fargo™ uses Dialogflow, Google’s conversational AI, to understand what you want to do by comparing what you type or say in the app to data from countless consumer conversations.
+
+But there are many other types of AI that shape your banking experience. For example, the Customer Engagement Engine gives Wells Fargo bankers insights into what sort of goals or conversations would be the most useful for customers.
+
+“How do we draw insights from data to drive better customer outcomes and operational efficiencies? We looked at this as a significant innovation opportunity for the bank,” Pogalur said.
+
+
+
+AI gives the technology you touch daily a deeper understanding of who you are. That has countless benefits for customers.
+
+Representatives of two in three of LinkedIn’s 50 Top U.S. Companies agree that AI already helps their businesses be faster and smarter. Another one in three of top companies, a list that includes Wells Fargo, say that they expect AI to make even larger gains over the next five years.
+
+One AI-based technology platform at Wells Fargo that will have a big impact soon is the Enterprise Open Source Data Science Platform. It lays the groundwork for building and delivering innovative tools and improvements for customers much more quickly by arming Wells Fargo data scientists with AI and machine learning building blocks they can use to develop AI solutions in an accelerated manner and help design better data driven customer experiences. The platform will help the company stay agile through upcoming AI transformations.
+
+“Just like every other industry, financial services will see a significant disruption in how we build products and services we offer,” Pogalur said. “But we have a strong position around open banking, meaning as the AI space evolves, we are able to create banking products that are super-charged with AI and be where customers are.”
+
+
+
+Wells Fargo is preparing for major changes with AI in the next few years. Our engineers are building the foundational platforms and key components that will allow us to accelerate the deployment and use of AI in a safe and sustainable way.
+
+We are committed to responsible technology and strong risk management; this is especially critical for AI-based systems. Wells Fargo recently endorsed the AI Bill of Rights, in which the White House’s Office of Science and Technology Policy calls for safe and effective uses of AI that do not expose consumers to discrimination and abusive data practices.
+
+“AI Products and Solutions and the AI technology landscape is going through a phase of rapid innovation and has opened up a wealth of opportunities to reimagine how we engage with our customers and employees by enabling personalized and intuitive experiences,” Pogalur said. “Wells Fargo is very well-positioned to learn and adopt to these opportunities in a thoughtful way because we have the talent, the leadership, and the capabilities.”
+
+
+
+43. Mizuho permits 45,000 employees to use generative AI
+
+Some 45,000 employees of banking holding firm Mizuho Financial Group, Inc will be allowed access to generative artificial intelligence (AI) this week, according to reports.
+
+Employees of the Japan-headquartered firm's core lending units will be able to use Microsoft Corp's Azure OpenAI service, Bloomberg reported, citing Toshitake Ushiwatari, general manager of Mizuho's digital planning department.
+
+The news comes despite distrust among many organisations about AI tools, such as OpenAI-developed ChatGPT, due to privacy concerns.
+
+Ushiwatari, however, noted that the bank cannot shy away from generative AI's potential to lift society.
+
+"This is something we have to do, otherwise, we get left behind," Ushiwatari told Bloomberg in an interview.
+
+After the company's core lending units, the banking holding firm plans to introduce AI tools to its brokerage unit next month, Ushiwatari added.
+
+Mizuho joins the growing list of organisations that are permitting generative AI in the workplace, which include Japan-based firm Daiwa Securities Group and New York-headquartered McKinsey and Company.
+
+Using Azure OpenAI
+
+Most Read
+
+
+
+HR manager faces jail time for falsely declaring salaries
+
+
+
+Very few Singapore job postings offering remote or hybrid roles: LinkedIn
+
+
+
+Samsung under investigation after employees exposed to radiation: reports
+
+Azure OpenAI allows users to "focus on creating innovative solutions that deliver value to their organisations and customers," according to Microsoft's website.
+
+For Mizuho, Bloomberg reported that Ushiwatari's team is planning an "ideathon" as early as next month and is brainstorming ways to encourage employees to experiment with the technology.
+
+According to the report, managers and rank-and-file employees are already submitting "dozens of pitches" for ways to use the technology before it is even installed.
+
+One of the suggested uses of the generative AI tool is for "a one-stop reference point for the bank’s vast trove of internal rules, processes and other manuals," according to the report.
+
+In Japan, the use of AI tools in the workplace is becoming more accepted.
+
+A survey from automatica found that 76% of Japanese employees would welcome AI services to help them make the right decision in the workplace.
+
+
+
+44. SBI Embraces AI and ML Technologies to Transform Banking Operations
+
+SBI Embraces AI and ML Technologies to Transform Banking Operations
+
+The article discusses how the State Bank of India (SBI) is leveraging AI and ML technologies to transform banking operations. It highlights the use of AI and ML in the banking sector.
+
+In a bold move to revolutionize its banking operations, the State Bank of India (SBI) has announced its plans to leverage the power of artificial intelligence (AI) and machine learning (ML). The country's largest lender aims to enhance its decision-making processes and operations by deploying NextGen Data Warehouse and Data Lake, as well as exploring new partnerships with fintech and non-banking financial companies (NBFCs) for co-lending.
+
+SBI highlights its commitment to using cutting-edge technologies like AI, ML, and business analytics to improve its product offerings and ensure customer satisfaction. The adoption of AI and ML is expected to bring about significant changes in the way the bank serves its customers.
+
+One of the major areas which will have a profound impact is cybersecurity and fraud detection. With the increasing number of digital transactions taking place every day, SBI recognizes the need to strengthen its security measures. AI can help identify and track potential fraudulent activities, enabling the bank to minimize risks and protect its customers. 
+
+Another exciting application of AI in banking is the use of chatbots. These virtual assistants can provide round-the-clock support to customers, offering personalized assistance and recommending suitable financial services and products based on user behaviour.
+
+AI and ML technologies also play a vital role in loan and credit decisions. Traditionally, banks heavily relied on credit history and scores to determine creditworthiness. However, these systems are prone to errors and may not accurately assess an individual or company's ability to repay loans. By leveraging AI-based loan and credit systems, SBI can analyze customer behavior and patterns, providing a more comprehensive assessment of creditworthiness and minimizing the risk of default.
+
+Moreover, AI's impact on risk management cannot be understated. By analyzing past behavioral patterns and external factors, AI algorithms can predict potential risks and enable banks to make informed decisions. This is crucial during volatile times when businesses need to exercise caution.
+
+Regulatory compliance is a paramount concern for banks. AI technology, utilizing deep learning and natural language processing (NLP), helps banks stay updated with changing compliance requirements, ensuring faster and more efficient operations.
+
+Furthermore, AI-driven predictive analytics will help identify sales and cross-selling opportunities, improving revenue generation. Process automation through robotic process automation (RPA) algorithms will increase operational efficiency, accuracy, and cost-effectiveness by automating repetitive tasks.
+
+Overall, SBI's and other bank's adoption of AI and ML technologies will transform their banking operations, leading to improved decision-making, customer satisfaction, security, credit assessment, risk management, compliance, revenue generation, and operational efficiency.
+
+
+
+45. HSBC principles for ethical use of data and AI
+
+HSBC’s Principles for the Ethical Use of Data and AI ACT CONSISTENTLY WITH HSBC’S VALUES Our use of data and AI is informed by the same ethical standards and values that we bring to our day-to-day work.  We do not use AI decision-making for a purpose that could not be justified if pursued through human decision-making.  We act with integrity by considering the societal impact of our use of data and AI on our employees, customers, shareholders, and communities. We put ourselves in the position of the customer, data subject, or employee and ask what they would find reasonable.  We hold ourselves accountable for the outputs of our use of data and AI and for explaining its purpose and benefit. PROTECT PRIVACY We seek to ensure our use of data and AI respects privacy and protects personal data by design.  When using personal data, we seek to use only that data which is appropriate for the purpose.  We employ appropriate measures to safeguard and control access to data that feeds into our data and AI use.  We embed privacy considerations into design and approval processes.  We aim to be transparent with our customers and other stakeholders about how we use their data, unless there is an overriding public interest (e.g. prevention of financial crime). 2 START WITH A CLEARLY DEFINED PURPOSE Any decision about using data and AI must include a definition of its purpose and the potential value it creates for customers and other stakeholders.  We identify the legitimate purpose of any use of data and AI. This approach ensures that we have a clear idea of the outcomes it could produce, including for customers.  We use data and AI to benefit our customers, our business, and/or our stakeholders – for example to create value for our customers, make banking safer, or to prevent financial crime.  We work to identify and give careful consideration to the impact on groups that may be adversely affected, whether customers, staff, or members of the general public. ADDRESS UNFAIR BIAS AND DECISION-MAKING We are alert to the inherent risk of training AI on biased datasets, which can lead to biased outcomes and unfair decision-making.  We seek to detect unfair bias and minimise its presence in our use of AI.  We consider and debate issues of bias from both a technical and ethical perspective.  We monitor our use of AI for unintended consequences by regularly reviewing inputs and outputs. 3 BE RESPONSIBLE FOR AI We are responsible for our AI systems and for ensuring that they are understandable and produce results as expected.  We establish clear accountability for our AI systems.  We test and monitor whether AI systems are working as they should both before being deployed and on an ongoing basis.  We ensure our people understand the limitations of AI systems as well as their capabilities.  We invest in the people and technology necessary to ensure that we understand AI and can use it responsibly. ADAPT GOVERNANCE TO MEET EMERGING NEEDS We ensure our control, testing, and audit mechanisms are adequate as data and AI evolves.  We adapt existing governance and approval processes to address the ethical implications of using data and AI.  We escalate and address concerns to appropriate accountable executives.  We only work with those we trust when partnering with or procuring from third parties in relation to data and AI.  Where we rely on a product or service provided by a third party in our use of data or AI, we apply the same principles and governance mechanisms to its use by HSBC that we apply to our own products and services.  We exercise supply chain control and, where appropriate, will vet privacy and security protections of third parties before sharing personal data. 4 CONTRIBUTE TO DEVELOPMENT OF BEST PRACTICE We contribute to the development of best practice in the field of ethical use of data and AI, and we seek to learn both from our experience and from the experience of others.  We debate, discuss, and learn about the potential risks data and AI poses, and we encourage constructive challenge from colleagues at all levels of the organisation and from other stakeholders.  We provide meaningful forums for challenging and questioning design or use of AI.  We apply what we have learned from the use of data and AI.  We seek to participate in public dialogue on the ethical use of data and AI, using industry bodies, ethics committees, and other appropriate forums for the development of best practice in this area.
+
+46. How AI automation is helping
+
+n recent years, intelligent automation – the pairing of robotics and other technologies to handle repetitive tasks, support colleagues and simplify the customer experience – has transformed the financial services industry for the better.
+
+For example, at Lloyds Banking Group intelligent automation eases the burden on our colleagues during particularly busy times. And without the help of automation, meeting the unprecedented demand brought on by the pandemic would have been a gargantuan task.
+
+It’s for these reasons that Lloyds Banking Group was one of the first financial service providers to embrace intelligent automation at scale – adopting tools such as virtual assistants and messaging technology.
+
+ 
+
+What is intelligent automation?
+
+In a nutshell, intelligent automation combines robotics and other autonomous systems to automate an array of tasks. Some of the tools that make up intelligent automation include:
+
+Virtual assistant (VA)
+
+Virtual assistants, or chatbots, use natural language processing to understand a person’s intent.
+
+These automated chat conversations can answer common customer queries. In turn, this allows for self-service, which frees up our telephony colleagues to focus on more nuanced tasks such as conversations with vulnerable customers or other more sensitive or urgent requests.
+
+Robotic process automation (RPA)
+
+Robotic process automation uses software to mimic the actions of our colleagues on a large scale – focusing on highly repetitive, rules-based tasks.
+
+We have around 70 colleagues whose full-time role is to build robots with a focus to create capacity. Also, they deliver key benefits such as customer service, colleague satisfaction, risk reduction and fraud prevention.
+
+Moreover, RPA allows us to respond in an agile way to peaks in demand, such as the Bounce Bank Loans and Mortgage Repayment Holidays driven by COVID-19, as well as tax year end peaks.
+
+Intelligent products (IP)
+
+Intelligent products create meaning from Lloyd Banking Group’s unstructured data. In other words, they turn spoken and written words (e.g. calls, messages and e-mails) into machine readable text, and then apply machine learning to analyse, gain insight and give a better understanding of what action should be taken next.
+
+For instance, a successful speech analytics roll out in our Group Customer Services department has helped us understand why a customer has called us, and how they feel about their experience - giving us the tools we need to transform their journeys.
+
+As intelligent products mature, it will become increasingly vital to personalise our customers’ experiences and also ensure we provide the right outcomes .
+ 
+
+
+
+ 
+
+ 
+
+Intelligent automation in action
+
+As one of the largest financial services providers in the UK, it was our responsibility to help our hundreds of thousands of customers who were facing financial uncertainty when the pandemic hit.
+
+We saw unprecedented demand for existing services such as Mortgage Repayment Holidays, plus we needed to react extremely quickly to introduce new services and support new schemes, such as the UK Government backed Bounce Back Loans.
+
+COVID-19 was also impacting our workforce and our third-party service providers too. With this in mind, we needed to create simple digital journeys in a matter of days and weeks, rather than the months and years normally associated with such large scale programmes.
+
+Working groups were mobilized to agree an end-to-end design centred around the use of robotics to do all the heavy lifting. Through tremendous cross organisation collaboration, existing customer portals were modified, and new ones created.
+
+Customers were directed to them via channels such as virtual assistants, on-line banking, our websites and through our colleagues.
+
+The result was that within less than a week we were able to offer a new Mortgage Repayment Holiday process, and subsequently delivered a number of other new journeys such as:
+
+Business Interruption Loans
+
+Bounce Back Loans
+
+Interest & Fee Free Overdrafts
+
+Loan Re-financing 
+
+How intelligent automation is helping our colleagues
+
+Without a robotics capability, easing the huge pressure faced by our front line colleagues simply would not have been possible. And customer service would have suffered as a result.
+
+When the UK Government backed Bounce Back Loans were introduced, we expected an immediate and high response rate to the offer.
+
+The solution directed our customers to an online form through which they could apply for a loan. Once submitted, fraud checks were carried out and the digital worker then reviewed the application to confirm the customer’s eligibility.
+
+On the first weekend we received over 30,000 cases. Since May 2020 we have granted over 300,000 loans with a value of over £9 billion, and supported over £1 billion on the first day following the launch. The new process ensured that customers had the money in their account the very next day.
+
+As a result, we topped the customer satisfaction scores in a survey conducted by UK based ‘Money Saving Expert’ earning an 81% net positive score – beating the likes of Barclays and HSBC. Moreover, we were able to use robotics to grant customers in financial difficulties interest and fee free overdrafts of up to £500.
+
+In the first week we received over 20,000 requests. To help handle this demand, customers were directed to an online form. The robots accessed the forms and performed validation checks and selected the correct tariff code based on the account type.
+
+In short, instead of focusing their attention on the thousands of overdraft request phone calls, our colleagues were able to focus on cases which saw big spikes during the pandemic.
+
+Is intelligent automation secure?
+
+Intelligent automation boasts platforms that are safe and secure for our businesses to use in terms of availability and data. And the creation of these same secure online platforms is enabling customers and colleagues to share electronic documents – shortening the time to complete servicing journeys.
+
+Incredibly, over four million documents have been processed through our Document Upload capability, eliminating the need for customers post or email documents, and saving around £3.2 million in paper saving and processing time.
+
+We have also hosted 80,000 remote video meetings across our retail brands where customers can receive a face-to-face experience whilst sitting in their own home.
+
+This also meant that branch colleagues can continue to provide that much needed face-to-face experience for the customer, whilst ID Verify allows customers to verify themselves remotely instead of being referred and having to make the journey into branch.
+
+ 
+
+How Lloyds Banking Group will use intelligent automation in the future
+
+The ways customers currently interact with us will result in more use of voice, text and video data in the future.
+
+It follows that intelligent automation represents a big opportunity for Lloyds Banking Group to get closer to, and have better conversations with, our customers. Plus, these same tools will give our colleagues much needed support during especially busy times.
+
+With this in mind, it’s our aim to get a better understanding of customer queries in the future so that we can predict behaviours and needs.
+
+Using this data effectively will bring Lloyds Banking Group closer to our customers, build trust, reassurance, confidence and empathy by delivering future customer needs and personalisation.
+
+
+
+47. Brazil’s Itaú in 'very good position' to harness generative AI
+
+Itaú Unibanco, Latin America’s largest private sector bank, sees itself as ready to reap gains with generative AI, although it is adopting a very prudent approach towards technologies using large language models (LLM).
+
+“We feel that we're in a very good position to harness the potential of generative AI," the bank’s chief data officer (CDO), Moisés Nascimento, said at the AWS Summit event in São Paulo. 
+
+Itaú's professionals are brainstorming hundreds of potential use cases involving generative AI with the idea of organizing everything later and working out the potential applications in an R&D AI lab the bank is setting up with AWS.
+
+Despite that, nothing is expected to go live until the bank is certain about the implications and risks associated with the technology. Itaú has also vetoed third-party generative AI applications to avoid leaks of codes and systems, and is carefully monitoring how its workers interact with these platforms, said Nascimento.
+
+“We don’t have anything in production yet because we're being very cautious with the technology,” he said, mentioning ethical, security and bias concerns related to generative AI.
+
+The CDO is also in favor of creating a general framework to regulate AI.
+
+The bank is closely following the evolution of two bills being discussed in congress on this topic, as well as European and North American discussions on that front, Nascimento said.
+
+One of the more advanced bills was submitted by senate president Rodrigo Pacheco in May, but it remains to be voted on in the special commissions and by the full house.
+
+That bill is a result of recommendations made by lawyers and jurists in a working group created in 2022 that is centered on five key topics for AI: principles, the rights of those affected, risk classification, governance obligations and requirements, and oversight and accountability.
+
+The proposal brings together various bills previously presented in congress in a single regulatory framework for AI. 
+
+The initiative also foresees the launch of regulatory sandboxes.
+
+“I do believe some kind of regulation is necessary,” Nascimento said in the event. “Companies like Itaú and AWS have a key role in that. But [this regulation] is not a simple answer."
+
+AWS is the bank’s main cloud partner, although Itaú now openly admits working with other major providers. Itaú last year completed the migration of its entire data lake to the cloud, said Nascimento. 
+
+Overall, the bank has moved 70% of the total data workloads it had mapped for the AWS cloud.
+
+Itaú invested around 300mn reais (US$168mn) in business in technology in 1Q23, compared with 400mn reais in the same quarter of last year. 
+
+The bank will release its 2Q23 results on Aug 7.
+
+
+
+48. Ethical and responsable use of AI in Argentina worker’s rights
+
+On August 24th UNI Global Union and the Banco La Nación Argentina have signed a global agreement that strengthens labour relations and workers’ rights throughout the bank’s operations. The agreement, announced during the UNI Finance Global Conference, reaffirms policies of inclusion and against discrimination, guarantees the right to form or join a union for all workers, and addresses key issues related to digitalization in the sector.
+
+It covers the banks 17,713 workers, not only in Argentina but also in the United States, Spain, Uruguay, Bolivia, Brazil, Paraguay and China – countries where it operates through branches, agencies, sub-agencies, a customer service centre and a representative office.
+
+Silvina Batakis, President of the National Bank, said that this agreement “provides a real regulatory framework to the world of finance which today is a global and complex world and therefore needs clear operating rules in defence of all bank and insurance workers.”
+
+The agreement establishes standards against sexual and labour harassment as well as support for victims of such harassment, and it also creates a mechanism to for UNI and the bank to address reported breeches of union and labour rights. Also, in terms of digitalization, it promotes social dialogue to help protection against online violence and harassment, the development of digital skills for workers, the ethical and responsible use of artificial intelligence, among other issues.
+
+Christy Hoffman, General Secretary of UNI Global Union, said: “This agreement lays a solid foundation for the application of regulations regarding labour, union, and digital rights to strengthen workplaces, not only in Argentina but in all countries where the National Bank operates.”
+
+UNI Global Union represents more than 20 million service sector workers worldwide. It has signed over 50 global agreements, which secure and enforce the rights of workers, with leading company across various industries which cover more than 14 million workers.
+
+
+
+49. How AI will shape the future of banking
+
+Artificial intelligence is set to revolutionise the financial services industry in the years ahead, says Westpac’s chief technology officer David Walker, driving major efficiency gains and allowing for more personalised customer experiences.
+
+“Generative AI, I believe, will be the most disruptive technology innovation since the advent of the personal computer and, more recently, the inception of the internet,” said Walker in his opening address at TECHx23, the bank’s week-long technology expo. 
+
+“It’s something that is going to change the way that we all individually and personally interact, and it’s going to be incredibly important for the bank going forward.”
+
+The ninth annual TECHx conference – which brought together almost 5000 attendees across the bank – is an opportunity for staff to learn about tech innovation, hear from industry thought leaders, and connect with colleagues in the community.
+
+The impact AI will have on the industry is likely to evolve across three distinct waves, Walker said.
+
+“We’re at the peak of the first wave – this stage is very much a partnership in making decisions, [AI providing data] that humans have to interpret.”
+
+But that’s just the beginning. In the future, AI will increasingly act on behalf of humans, gaining greater autonomy in decision making and problem solving. Short-term
+
+The finance sector’s immediate focus is on boosting productivity across different processes with artificial intelligence. A recent study by PWC found that by 2030, generative AI will have helped to increase global GDP by 26 per cent.
+
+Earlier this year, Westpac conducted an in-house experiment to understand whether integrating generative AI would improve productivity and experience for the bank’s engineers.
+
+The experiment found that, when compared to a control group performing tasks solo and manually, software engineers who were aided by generative AI saw a 46 per cent productivity gain. 
+
+AI-pair programming, a technique that involves the use of AI to assist a developer in writing code, was found to deliver equal – or better – quality code.
+
+The quality of developers’ experiences significantly improved as well.
+
+“Engineers went from being somewhat sceptical at the beginning, to the point where they are strong advocates for it,” Walker said.
+
+For senior engineers, use of AI removed toil from their work allowing them to focus on more value-added tasks, while junior engineers found it more beneficial from a training and guidance perspective.
+
+Rolled out to over 700 engineers across Westpac over the last 4 months, they are writing 22 per cent more code every day.
+
+Mid-term
+
+The move towards hybrid intelligence, where both human and artificial intelligence can interact with each other, is next on the horizon. This stage will see AI using ’domain-based expertise’ – making judgement calls, evaluating inputs, and guiding users, while humans are still in charge.
+
+The opportunity here is to create ‘ambient’ user experiences – technology systems which will seamlessly and intuitively interact with Westpac’s customers and employees, based on the needs and context of their requests.
+
+Creating ambient user experiences involves re-thinking and re-imagining a world beyond mobile banking apps; where conversations, personalised video, and new customer experiences are favoured.
+
+Ambient computing is poised to revolutionise user experiences. It could be the banking app offering customers quick access to withdrawal options and promotions when they are near Westpac ATMs, or a smart home device proactively suggesting allocating funds to savings based on spending patterns when reviewing the user’s daily schedule.
+
+“These interfaces and this ability to just converse with technology in a different way, and a more meaningful way, will create these new experiences.”
+ 
+
+Long-term
+
+As technologies mature, and new services and products are available, autonomous AI will eventually be the norm – representing a shift from AI as a tool, to AI as reasoning machines.
+
+“The third [wave], which is a little bit further out, is this idea of creating a personalised financial concierge capable of looking over our digital shoulder and helping us in our everyday activities, particularly in giving us the advice that we need at the right time,” said Walker.
+
+But while autonomous AI can be powerful and meaningful, the prospect of AI acting on our behalf places even more importance on its responsible use, Walker said.  
+
+“Responsible AI is a community concern, and collectively we all need to understand how we apply the techniques and technologies to ensure that we adopt AI at scale, but also responsibly,” said Walker.
+
+“As AI grows, we need to build in the ethical boundaries, we need to make sure it’s transparent, and we also need to make sure it’s aligned to our values.
+
+At a time of fast-technological change, it’s important that organisations are constantly looking to evolve, Walker said.
+
+“Our goal is to become a future ready organisation at every opportunity.”
+
+
+
+50.  Embrace, Challenge, Transform: The Future of Digital Banking and Transacting in Africa
+
+Embrace, Challenge, Transform: The Future of Digital Banking and Transacting in Africa
+
+Mpumelelo Makhubu-Mukogo, Head: Digital at Standard Bank Global Markets Digital Solutions
+
+21 August 2023, Johannesburg: Banking in Africa is on the brink of its next transformative era. Gone are the days of discussing the Fourth Industrial Revolution as a concept; we are already immersed in a world augmented and powered by artificial intelligence (AI), Big Data, and cloud computing. Now, the next frontier beckons, with generative AI, secure online watermarked fingerprints and cryptocurrencies taking centre stage.
+
+Africa has demonstrated its propensity for embracing technology, particularly in the financial services sector. With around 8 out of 10 people on the continent owning mobile phones and over 570 million people online in 2022, up 470% from 2010 (a significant contrast to the global increase of 159%), access to information and services has become easier. Now more than ever before, digital access to financial services in Africa is at a ripe stage. However, to further and continue this digital transformation journey, we must solve the existing infrastructure challenges, collaborate more and strengthen institutional connections.
+
+Embrace 
+
+To remain relevant, banks and central banks must evolve to embrace and adopt the opportunities presented by new technologies such as blockchain, mobile money and cloud technology. However, new opportunities also come with risks, which require updated regulations that are effective but do not stunt innovation especially those that are being driven by fintechs. Fintechs should not be seen as threats, but as partners that could help established players in meeting the needs of customers. 
+
+On a continent where physical cash still accounts for more than 70% of transactions, there is a tremendous opportunity to apply lessons learned from Mobile Money adoption and get more people into the banking economy in a safe and accessible way.
+
+Mobile Money solutions are among the fastest-growing payment methods on the continent, and we can make the next exponential step by leveraging these Mobile Money solutions beyond just payments or peer-to-peer transactions. Africa has a young, digital-native and rapidly urbanising population, the continent is a hotbed of start-ups and fintechs helping solve financial challenges and many countries and territories are easing regulations to speed up technological adoption in banking. 
+
+We need to embrace technology as we always have, while learning from the other early adopters to produce the best new-age solutions for our customers. Mobile Money solutions have vast potential to evolve into more complete banking products, including lending, saving and investing – and banks must lead in that charge. 
+
+Challenge 
+
+There is arguably no market in which the growth of - and demand for - more inclusive and accessible financial services is more prevalent than in Africa. Our rapid commercial growth and globalisation over the past decade have made more inclusive financial services even more critical. The growth of Small to Medium Enterprises and entrepreneurship in several African countries and accompanying innovation in fintech - particularly blockchain technology – has the potential to drive the improvement of financial infrastructure across the board. 
+
+As Standard Bank, we are no strangers to peer-to-peer (P2P) payments, which have been widely used to enable informal and small business ventures at the heart of many African economies by easing the logistics and cost of payments. It no wonder that Africa’s cryptocurrency adoption rate was 1 200% between June 2020 and July 2021, with more than $100bn worth of cryptocurrency payments made to Africans during that period – the bulk of which were remittances.
+
+Another key area that needs development is efficient and lower-cost cross-border payments to facilitate Intra-Africa trade as well as trade outside of the continent. One solution which seeks to address the Intra-Africa need is the Pan African Payment and Settlement System (PAPSS), which enables cross boarder instant payments across African countries, without the complexity, time and money it takes to make these payments using traditional correspondent banking methods. 
+
+With PAPSS, participants do not need to first convert local currency to a hard currency like USD as an expensive, time-consuming intermediary step when making a payment to a participant in another African country. Wide adoption of PAPSS across the continent will revolutionize payments on the continent and contribute towards economic growth. It is for this reason that we as Standard Bank South Africa, have signed a memorandum of understanding to be one of the banks providing settlement of these transactions. We also aim to be a participant bank in most of the markets we operate in. 
+
+ Several African countries have seen a rapid uptake of cryptocurrencies as a means to access more efficient payment rails provided by blockchain networks and yield returns on income with assets like Bitcoin or Stablecoins, which are designed to maintain stable value through being pegged to an asset such as the US Dollar.  
+
+Because of the volatility of cryptocurrencies, the real potential for increased financial inclusion in Africa lies in the blockchain infrastructure that underpins them, rather than in the currencies themselves – Stablecoins aside. The distributed ledger system can instantly eliminate fraud and human error in transactions and foster transparency in financial records, which can enable the creation of corruption-resistant and robust welfare systems. It can also provide mechanisms for fair and transparent microfinance and increased purchasing power, to support the creation and growth of small enterprises that serve communities. Blockchain technology can kickstart new trade opportunities between nation-states and give Africans the opportunity to take part in a technological revolution and form part of the decentralised economy.
+
+At Standard Bank, we are starting to make significant progress in leveraging blockchain and smart contracts via our Aroko payment platform. This end-to-end digital payment solution uses distributed ledger technology, with its smart contract capabilities, to enable businesses to have automatic foreign exchange (FX) payments and settlement. We also provide FX and money markets products to innovators via our world-class application programming interfaces (APIs), where we are able to provide both indicative or executable FX and money market rates through direct integration with customers’ systems.
+
+Transform 
+
+Where, then, does that leave traditional banking? It’s clear that the answer is not to compete with fintechs nor ignore these 4IR technologies, but rather to complement and use these technologies through participating in our own right, and via partnerships. 
+
+Digital Banking solutions which will matter now and, in the future, are those built by not only leveraging emerging technology but through collaboration between traditional incumbent banks, central bank regulators, and fintechs in solving the challenges which inhibit access to financial services in and outside of Africa at true scale. 
+
+Ultimately, the aim is to contribute towards sustained economic growth and development in Africa, and we are likely to move towards this faster through partnerships with these start-ups, MNOs and fintechs, which are often more innovative and agile in solution delivery. By layering a culture that supports agility and measured risk-taking on top of a base of sound technologically innovative solutions, we can set alight the true potential of Africa.

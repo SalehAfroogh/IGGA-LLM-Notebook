@@ -1,0 +1,370 @@
+101. AI in game development
+
+You can train artificial intelligence to create the words, visuals, and even narrative of a game.
+
+But can you train A.I. to elicit the fun a great game offers?
+
+Five leading technologists working at the intersection of interactive games and A.I. convened at the Game Developers Conference in San Francisco last month to discuss the effect—good and bad—of tools like GPT-4 and Midjourney on game development. The panel included Mark DeLoura of Level Up Games, Pete Wurman of Sony AI America, Danny Lange of Unity, and Paul Stephanouk and Steve Collins of Candy Crush maker King.
+
+Their conclusion? The use of AI in making games is mostly a good thing—though like any tool, the trick is where to best use it.
+
+"It's very much [about] looking at our organization and figuring out how to adopt AI," said Collins, King's chief technology officer, in introductory remarks. King invested heavily in the area by acquiring Sweden-based Peltarion in 2022, he said, and now employs more than 50 people dedicated to machine learning at scale. "Where can we automate decision points in a way that we think of the holistic success of the player over time?”
+
+A particular challenge, the experts agreed, is how fast AI is evolving. "The tools we're using today are erupting with features," said Stephanouk, and the use cases of a popular tool like ChatGPT are exploding. As the head of creative for the popular franchise Candy Crush, Stephanouk said his team is "using these [AI] tools as interactive prompts" as part of the creative process. "We're already seeing ideation processes that leverage these tools,” he said.
+
+Lange sympathized. "It's at full speed, everywhere," he said, noting that game developers were using generative AI for the creation of graphics, textures, narrative storylines, and more. "It's really gonna change everything on the creative side."
+
+And that's where things get exciting for players. Wurman, who's working on "Gran Turismo Sophy," a racing AI agent for the long-running automotive game series, said game-makers will no longer have to "cheat" to make robot drivers more realistic to race against. "Having a race that feels like you're racing other human drivers? It's really going to change the way these kinds of games are made," he said.
+
+The panel had differing views on where AI would make the most impact in game development. Wurman cited "repeated, low-level work" as the place where AI could help out the most. DeLoura took a more democratic tack: "They're tools that are way more available to everybody," making it more possible for the average high school student to make an engaging game. Lange was excited about "feedback loops" to make good technology even better; Stephanouk was excited about the ability to relate visual criteria to language criteria.
+
+"I almost said the word game-changer," he said, laughing. "Ugh. But it is."
+
+And let's not forget narrative. "Wouldn't it be great to use generative AI to create lore and quests for a player who takes the road less traveled and moves into areas of the game that were not as refined?" DeLoura asked.
+
+Of course AI in games comes with the same concerns as AI everywhere else, and the assembled experts didn't shy away from addressing concerns about training bias and ethically sourced datasets. Wurman cited a science-fiction magazine that had to shut down its story submission process because of a rash of entries by ChatGPT. "If these tools become really easy, people can make games with no effort, low quality, and no artistry in it," he said. "That can become a very noisy environment for players."
+
+Stephanouk agreed. "This is going to commoditize some types of development," he said. "If you think the app store is full of [trash] now, just wait." Still, "authenticity will rise to the top," he said, as players search for signal in the noise and connect more deeply with the developers who lovingly crafted their favorite game title.
+
+Whatever the future(s) of games and AI, Collins reminded the panel's audience—packed to the gills, with hundreds of conference attendees waiting outside the doors—that the biggest factor was the human in between: "It's not a technical problem, necessarily."
+
+
+
+102. AI in game industry
+
+SEED's GM Uma Jayaram delivered this keynote address at MIT Technology Review Arabia in December 2021. 
+
+The topic: How AI is transforming entertainment and culture and what ethical and aesthetic considerations to consider when using AI in social contexts.
+
+Watch the video below.
+
+
+
+103. Tencent AI policy
+
+Tencent’s mission is to enhance the quality of human life through Internet services. Artificial Intelligence (AI) enables us to do this in powerful new ways. Through both fundamental and applied research, we are advancing the state-of-the-art in the field, and applying AI to products and services that can make the benefits of AI accessible to everyone, everywhere.
+
+We apply AI across key areas of our businesses to improve the user experience and support the growth of enterprise partners:
+
+Content: to create more personalized recommendations for users and deliver new experiences
+
+Social: to create more natural, engaging and entertaining interactions between humans and machines
+
+Games: to connect the virtual and real worlds and enhance the gameplay experience
+
+We are also pursuing key applications across industries:
+
+Medical: to assist physicians in the early detection and prevention of disease
+
+Agriculture: to help farmers grow more food using fewer resources
+
+Industrial: to assist companies to upgrade their capabilities through AI
+
+Manufacturing: to help businesses optimize their infrastructure and operations
+
+We believe AI has tremendous potential to improve productivity, increase business agility, enhance customer engagement and accelerate product innovation. We aim to help enterprises achieve digital upgrade by applying advanced technology, a deep understanding of connections and user behavior, and our ecosystem to create AI breakthroughs that can solve business challenges.
+
+Thousands of Tencent researchers work at our offices around the globe. Key research areas include machine learning, natural language processing, computer vision, and speech recognition.
+
+Machine learning research covers machine learning theory, numeric optimization, large scale distributed computing, heterogeneous computing, supervised, unsupervised and reinforcement learning.
+
+Natural language processing research covers semantic analysis, knowledge reasoning, question answering & chat, and machine translation.
+
+Speech recognition research covers speech enhancement, acoustic/language modeling, and text-to-speech.
+
+Computer vision research covers image and video editing, pattern matching, generation, analysis, and understanding, object detection, tracking and recognition, optical character recognition, 3D vision, simultaneous localization, and mapping and vision-based reinforcement learning.
+
+
+
+104 Letter from the president on AI
+
+I would like to begin by wishing everyone a happy New Year.
+
+ 
+
+People’s lives took a turn for the better in 2023 thanks to the COVID-19 pandemic largely subsiding, after having raged for so long, and to the lifting of the restrictions it had triggered. At the same time, 2023 was also a year of tumult exemplified by an intensification in geopolitical risks and sharp inflation stemming partly from monetary policy moves made by central banks grappling with the pandemic. Regions, countries, and even we as individuals found ourselves in a time of transition as the world struggled to establish what the “new normal” would look like following the pandemic.
+
+ 
+
+With uncertainty on the rise in society as a whole, change was also underway in the realm of digital entertainment, where we position our core business. In 2023, we saw the release of eye-catching products and services in multiple domains where the commercialization and adoption of emerging technologies had seemed a more distant eventuality. The potential of these offerings also garnered greater attention than ever before.
+
+ 
+
+For example, whereas the extended reality (XR) domain had previously developed primarily around business applications for the metaverse and other virtual spaces, 2023 saw the rise of many new services fusing virtual spaces with the real world. A case in point is the way the architecture sector, which previously had limited integration of XR in its business, began increasingly adopting these technologies because they enable the conversion of real-world architectural structures into data, a process also facilitated by the widespread use of commercial drones. In the realm of digital entertainment, where the focus has been on pioneering the development of new content, the experiential value of digital content itself increased dramatically as devices came to market that were capable of delivering even more immersive, realistic experiences using virtual reality (VR) and augmented reality (AR). The next step will be applying these technologies to new forms of content that fuse the real and virtual worlds.    
+
+ 
+
+Artificial intelligence (AI) and its potential implications had for some time largely been subjects of academic debate. However, the introduction of ChatGPT, which allows anyone to easily produce writing or translations or to engage in text-based dialogue, sparked the rapid spread of generative AIs. Its release made it apparent that the applicability of generative AI was by no means limited to text, and the subsequent months saw a quick succession of launches of new services and content that expanded generative AI into a variety of domains with close ties to digital entertainment, including images, video, and music. I believe that generative AI has the potential not only to reshape what we create, but also to fundamentally change the processes by which we create, including programming.
+
+ 
+
+As such, 2023 was a year of numerous innovations in the realm of digital entertainment. It was also a milestone year for the SQUARE ENIX GROUP in that we both celebrated our 20th anniversary and also set forth on a new path under the management team that I head.
+
+ 
+
+Since assuming the roles of president and representative director of SQUARE ENIX HOLDINGS in June 2023, I have worked to reassess our entire Group. Customers, shareholders, investors, employees, and other stakeholders have generously shared their time and insights on numerous occasions to help me do so. These insights have assisted me in identifying the direction we should take to achieve further growth and in beginning to lay the groundwork to make that a reality.
+
+ 
+
+In our Digital Entertainment business, we are working to strengthen both our content development and publishing capabilities.
+
+ 
+
+On the content development side, we are working not only to vet our existing pipeline of titles under development, but also to put the capabilities in place to ensure that development efforts that have yet to begin result in products and services that meet the expectations of our customers more than ever before. Specifically, we have begun optimizing our resource allocation across our entire development chain in order to accelerate an effort that was already underway to strengthen our internal development capabilities. We are also expanding knowledge sharing with the goal of standardizing our processes and enhancing our efficiency.
+
+ 
+
+On the publishing side, which consists of our sales and marketing functions, we are working to enable greater global collaboration and to promote the shift to digital. By sharing information within our Group on the features unique to different geographical markets and on the best practices for addressing them, we are bolstering our publishing capabilities globally. We see this as an effective means not only to maximize our sales of new titles, but also to deliver our rich back catalog to more customers and in turn to expand the fan base for our Group’s intellectual properties (IPs).
+
+ 
+
+We are also working to put organizational structures in place that will enable closer collaboration between our content development and publishing functions. Our goal is to strike a balance between a product-oriented and a market-oriented approach so that we are able to share customer views with our content development team and thereby create content that makes our customers even happier than ever before.
+
+ 
+
+We also intend to be aggressive in applying AI and other cutting-edge technologies to both our content development and our publishing functions. In the short term, our goal will be to enhance our development productivity and achieve greater sophistication in our marketing efforts. In the longer term, we hope to leverage those technologies to create new forms of content for consumers, as we believe that technological innovation represents business opportunities.
+
+ 
+
+With a focus on comics, our Publication business provides content spanning a wide range of genres in both digital and printed formats. Our Amusement business meanwhile provides real-world entertainment, primarily through its TAITO STATION amusement facilities. Both businesses enable us to reach broad customer segments beyond those that engage with our Digital Entertainment business, thus bolstering awareness of our Group. They help us to convey the appeal of our content in a more multidimensional way, which I see as vital. These businesses naturally have potential synergies with our Digital Entertainment and other businesses, and they also play a role in our multifaceted approach to leveraging our IP, including via film and animation adaptations. As such, I see them as capable of contributing to our Group’s growth and intend to continue to focus on them.
+
+ 
+
+In terms of new business domains, we previously identified three focus investment fields, namely blockchain entertainment/Web 3.0, AI, and the cloud. Last year we redefined our overarching mission and goals for these three fields. We are currently working to modify our organizational structure and optimize our resource allocations to support these efforts.
+
+ 
+
+In addition to our focus investment fields, we will also endeavor to create mechanisms that enable us to diversify our earnings sources. These initiatives will be the most important determinants of our Group’s ability to adapt flexibly to a changing business environment and to continue to create high-quality content. They will also help us create an environment that allows each and every one of our employees to demonstrate the full measure of their individuality and creativity. 
+
+ 
+
+Many of the initiatives that were undertaken in 2023 were designed to bring the whole of our Group together to create content that truly satisfies our customers and to establish the capabilities to deliver that content to as many customers as possible.
+
+ 
+
+2024 will mark the starting point for our Group to achieve additional strides forward and further growth. We will articulate our new corporate strategy in the form of a Grand Design and devote ourselves to executing each of our initiatives. Never fearing change and always maintaining a challenger’s mindset, we will work together as one to drive our businesses forward.
+
+ 
+
+I wish you all the very best for the new year.
+
+
+
+105. Ghostwriter using AI in script writing
+
+As games grow bigger in scope, writers are facing the ratcheting challenge of keeping NPCs individually interesting and realistic. How do you keep each interaction with them - especially if there are hundreds of them - distinct? This is where Ghostwriter, an in-house AI tool created by Ubisoft's R&D department, La Forge, comes in.
+
+Ghostwriter isn't replacing the video game writer, but instead, alleviating one of the video game writer's most laborious tasks: writing barks.  Ghostwriter effectively generates first drafts of barks - phrases or sounds made by NPCs during a triggered event - which gives scriptwriters more time to polish the narrative elsewhere.  Ben Swanson, R&D Scientist at La Forge Montreal, is the creator of Ghostwriter, and remembers the early seeds of it ahead of his presentation of the tech at GDC this year.  
+
+The Beginnings of Ghostwriter
+
+Ben's interest in creative applications of Natural Language Processing began while studying his PhD in Computer Science at Brown University, where he took a class with two creative writers from Brown and Rhode Island School of Design on Digital Literature. In this class, Ben was introduced to the idea of creating art using generative models and has since been exploring the possibilities of combining this technology and creative writing. This interest followed him to Google where he worked at Stadia Games and Entertainment in 2019, and then Latitude at AIDungeon, where he furthered his research in machine learning and published a paper on the subject in 2021.
+
+In 2021, Ben became interested in joining Ubisoft, as he was intrigued by a GDC talk from the Watch Dogs team. "I actually saw a talk on the narrative design of Watch Dogs: Legion, and I was very impressed," he explains. "I thought to myself, 'I wish I was working on something like that with teams of professional scriptwriters,' so, I applied."
+
+This fortuitous timing allowed Ben to connect with Ubisoft La Forge who had already been scoping for a solution to some of their technological questions. "It was perfect timing because they wanted someone to do exactly what I wanted to do."
+
+Ben's wish to work with professional and like-minded teams became a reality as he began collaborating with members of the La Forge team in China, whose expertise in UX/UI and web application development resulted in a now operational tool: Ghostwriter.
+
+
+
+
+Ghost of AI Present
+
+Ghostwriter is the result of conversations with narrative designers who revealed a challenge, one that Ben identified could be solved with an AI tool. Crowd chatter and barks are central features of player immersion in games - NPCs speaking to each other, enemy dialogue during combat, or an exchange triggered when entering an area all provide a more realistic world experience and make the player feel like the game around them exists outside of their actions. However, both require time and creative effort from scriptwriters that could be spent on other core plot items. Ghostwriter frees up that time, but still allows the scriptwriters a degree of creative control.
+
+"Rather than writing first draft versions themselves, Ghostwriter lets scriptwriters select and polish the samples generated," Ben explains.  This way, the tech is a tool used by the teams to support them in their creative journey, with every interaction and feedback originating from the members who use it.
+
+As a summary of its process, scriptwriters first create a character and a type of interaction or utterance they would like to generate. Ghostwriter then proposes a select number of variations which the scriptwriter can then choose and edit freely to fit their needs. This process uses pairwise comparison as a method of evaluation and improvement. This means that, for each variation generated, Ghostwriter provides two choices which will be compared and chosen by the scriptwriter. Once one is selected, the tool learns from the preferred choice and, after thousands of selections made by humans, it becomes more effective and accurate.
+
+
+
+
+Challenges and Global Support
+
+Teaming up with Ubisoft La Forge with this state-of-the-art tech did not come without challenges. AI in video games is not a new concept, with most associating this technology with NPC behaviors. Yet, this concept of machine learning is restrictive to its actual implications, as the industry now sees a place and need for not just AI tools, but machines that can learn through human feedback. Ben's research and work on Ghostwriter and his collaborations with teams across the globe have resulted in an AI infrastructure at Ubisoft that takes into account this potential, while working hand-in-hand with narrative designers to help kickstart their creative stories and games.
+
+However, working with like-minded teams and getting the tool from conception to Ubisoft was only half the battle, as Ben says the focus has now shifted to supporting adoption by productions. By collaborating closely with scriptwriters, the team can learn their needs in order to better fit the tool into the unique worlds of each game. A tech like Ghostwriter requires scriptwriters to learn how to not only use the tool, but also integrate it in their video game production process.
+
+The team's ambition is to give this AI power to narrative designers, who will be able to eventually create their own AI system themselves, tailored to their own design needs.  To do this, they created a user-friendly back-end tool website called Ernestine, which allows anyone to create their own machine learning models used in Ghostwriter. Their hope is that teams consider Ghostwriter before they start their narrative process and create their models with a vision in mind, effectively making the tech an integral part of the production pipeline.
+
+
+
+
+Future of Ghostwriter
+
+Ben is very optimistic about Ghostwriter's later implementation in video games and believes in its role in the future of our games. Through its user-friendly interface and processes and its powerful AI infrastructure, scriptwriters who decide to include the tech in their production will eventually be able to scale up their games, be more ambitious in their narrative designs, all while having full control over their work.
+
+
+
+106. Supercell AI fund venture
+
+Twitter and top executives from Google and video game company Supercell are among those backing a London venture capitalist’s new fund dedicated to investing in early stage startups with artificial intelligence at the heart of their business models.
+
+Air Street Capital, a boutique venture capital company founded and run by Nathan Benaich, said Friday that it had closed a new $17 million fund.
+
+Benaich, Air Street’s founder and sole general partner, is a veteran early-stage investor who has previously worked for venture firm Playfair, in London, and Berlin’s Point Nine Capital. He was a seed investor in Mapillary, a Swedish company that collected street-level imagery to build highly detailed digital maps, which was acquired by Facebook in June for an undisclosed amount.
+
+Benaich has a Ph.D. from the University of Cambridge in using advanced computational methods, including machine learning, in cancer research. He is well known in U.S. and European technology circles for cofounding two annual conferences that bring together academic machine learning researchers with those applying the technology in commercial settings: the Research and Applied Artificial Intelligence Summit (RAAIS) and London.AI. He also coauthors an annual “State of A.I.” report that many consider an important barometer of the technology’s adoption and impact.
+
+In addition to Twitter, which is investing in Air Street Capital directly from its own balance sheet, investors in the new fund include, among others: Ilkka Paananen, the billionaire founder and chief executive of Finnish video game company Supercell, maker of the popular game Clash of Clans; Jeff Dean, a senior vice president at Google’s research and health divisions; and Shakil Khan, a London investor known for his early backing of Spotify. The European private equity firm Vitruvian Partners is also investing in the new fund.
+
+Air Street invests primarily in what is known in venture capital as the “seed stage,” when startups are first getting up and running. The new fund will make between 20 and 25 investments, each averaging about $700,000, Benaich said. The investments will be split about 50/50 between startups in the biomedical industry and those using A.I. in other industry niches.
+
+Benaich told Fortune that the thesis behind his new fund is that more generalist venture capital firms cannot properly assess very early stage artificial intelligence companies, because the business models and metrics for success are new. “The playbook for what ‘great’ looks like in this category of companies is still being written as we speak,” he said.
+
+He also said that many venture capital firms, which invested in a wide range of different sorts of technology companies, did not fully understand the cutting edge of A.I. technology and what kinds of businesses these new methods enable. “Generalism for technical fields like machine learning is dead,” he said.
+
+He described Air Street’s job as finding A.I. startups—in some cases talking to academic researchers when they are just beginning to think about becoming entrepreneurs—and nurturing these very young startups until they are mature enough to start to resemble a traditional software as a service (SaaS) or enterprise software or biotech company. These companies will then “graduate” on to larger venture capital investors who specialize in those kinds of business models.
+
+Although Benaich is Air Street’s sole general partner, he has recruited several entrepreneurs who have previously built successful A.I.-enabled businesses to serve as “operational partners,” or advisers to the fund’s startups. These include Luc Vincent, an executive vice president at ride-hailing company Lyft who leads its self-driving initiatives, and Phil Keslin, a Google alum who is a cofounder and chief technology officer at Niantic, the company that created Pokémon Go.
+
+Ryan McDermott, the managing partner of San Francisco–based Resolute Partners Group, an asset manager that invests money for several prominent entrepreneurs in the computer gaming industry, told Fortune he had put money into Air Street Capital’s new fund because he concurred with Benaich’s views on the impact A.I. will have on certain industries, particularly in life sciences.
+
+“We are seeing the complete re-creation of how we see therapies coming to market and the speed and the novelty of those drugs,” McDermott said.
+
+But he also praised Benaich’s connections among A.I. company founders and his sharp eye for spotting emerging trends in the field. “He has got this amazing network, and he is going to be the go-to guy for a lot of people,” McDermott said.
+
+Air Street Capital has already made eight investments from the new fund, Benaich said. These include LabGenius, a London company using robotics and machine learning to discover new drugs; Mission Barns, a San Francisco company that, similar to Memphis Meats, is growing meat in cell cultures; and Allcyte, an Austrian startup that is using machine learning to predict how blood cancer patients will respond to certain therapies based on analysis of images of their cells. It also has a stake in Graphcore, a U.K. company creating computer chips that are specifically designed for artificial intelligence.
+
+
+
+107. AI trust and safety
+
+At Wildlife, we make player safety a top priority. Our Trust and Safety team is dedicated to protecting our players from harmful behavior. We monitor all in-game user-generated content by using state-of-the-art AI scanning.
+
+Our Trust and Safety team reviews flagged content, including reports sent directly from users and notifications from our AI systems. We take action whenever it is necessary to ensure the safety and well-being of our players.
+
+When the most severe harmful content is detected, we partner with international law enforcement and child protection agencies to report this content.
+
+
+
+108. Globant AI Manifesto
+
+At Globant our mission is to make the world a better place, one step at a time. Leveraging our cross-industry expertise and Artificial Intelligence (AI) knowledge, we aim to reinvent businesses, helping organizations thrive while changing how they impact society.
+
+Our mission
+
+The use of AI is impacting businesses and industries, bringing new challenges, and along with this, a great responsibility.To incorporate AI into the organization, we must unite and embrace a common vision, overcoming ethical challenges and social risks.
+
+Our principles
+
+Globant has defined a set of principles that includes what we believe in, and what we encourage. We invite you to read them, embrace them and share them:
+
+Augmented Intelligence: AI should exist to cooperate with humans and to improve humanity. Collaborating with humans on complex tasks and facilitating their work, relieving them from tedious tasks and elevating them.
+
+Respectful Data: A data-driven culture means having clean and accurate data, being compliant with laws and regulations, and guaranteeing the privacy and intimacy of all individuals. Meet strict reliability, security and integrity standards.
+
+Fairness: We will actively promote data-driven outcomes that are unbiased in terms of race, ethnicity, gender, nationality, income, sexual orientation, ability, and political or religious belief. We can’t expect to always have an unbiased history, so the way we use the results needs to take the fairness of the application into consideration as well.
+
+Transparency: Create transpatent products in their purposes and results. We are committed to pursuing algorithmic accountability. AI products must preempt the risks of user data misuse and protect from imprudent use. Must exercise caution by anticipating adverse consequences. Limitations and risks should be explicit, enabling policymakers to hedge for critical cases.
+
+Social Contribution: Ensure access to relevant forms of knowledge, promoting fundamental skills and critical thinking among the community. Open, promote and make AI research more accessible to the community.
+
+Sustainable AI: The way to frame the problems to solve, the usage of foundational models, training strategy and other factors need to consider how to minimize the ecological and human detrimental impact. Reduce the impact of large energy consumption on model training and serving, while improving digital sobriety and minimizing addictive behaviors.
+
+What we will not support
+
+We will not pursue any AI applications which contravene or may contravene any law or regulation, the public order and good morals, which includes, among any others:
+
+Misinformation: We will not collaborate on AI systems developed to spread untrustworthy information, misinformation or disinformation. While those categories may seem contentious, appropriate sourcing of information and proper alignment of objectives can dampen unfortunate impacts.
+
+Malicious Use: The same algorithm can be used in different contexts and ways. The dissemination or misuse of algorithms threatens people’s capacity to trust in the use of algorithms and their legitimacy.
+
+Taboo Exploitation: We must be conscious of the misuse of sensitive characteristics such as race, ethnicity, gender, nationality, income, sexual orientation, ability, and political or religious belief. These characteristics may be leveraged for a fairer approach to AI, but their sole consideration poses concerns that need to be addressed.
+
+Reckless AI: Implementations that may cause or directly facilitate injury to people. Good intentions without proper consideration can cause increased damage.
+
+Law Contradiction: Projects that contravene widely accepted principles of international law and human rights, such as data protection, Information security and others.
+
+
+
+109.  AI in Wargaming
+
+This report presents findings from CETaS research undertaken on behalf of the Dstl-sponsored AI Research Centre for Defence (ARC-D), examining the potential for the application of artificial intelligence (AI) and automation in wargaming. The research focused specifically on segments of manual analytic wargames with partially simulated elements and aimed to identify ways that AI could 1) increase the efficiency of preparing and implementing a game, 2) support player decision-making and 3) improve the insights that can be gained through wargames.
+
+Given advances in non-defence AI, and game AI in particular, there is growing interest in leveraging AI for wargaming and simulation. The envisaged benefits are specific to the context of use, but examples include reducing the number of personnel required, increasing the speed of development of game mechanics, improving player immersion, speeding up game execution, and identifying innovative strategies and actions. 
+
+The research identified two key features of the current landscape of AI-enabled wargaming that make it harder for decision-makers to determine whether AI can in fact achieve these benefits: 1) This is a nascent debate, which has been heavily influenced by AI hype. While many ideas are circulating on how AI could improve wargaming workflows, few real-world case studies offer concrete evidence of effectiveness. And 2) AI-enabled wargaming is a subject that prompts highly varied opinions between subject matter experts. Much disagreement can be attributed to differences in expertise and experience, for example between wargamers and experts in modelling and simulation, or between technical experts and strategic decision-makers.
+
+Within this context, this report aims to advance the debate by taking an evidence-based approach to assessing the feasibility of specific AI use cases for wargaming, outlining both their risks and potential benefits. Beyond specific AI applications, this report explores two possible investment pathways for AI in wargaming: 1) narrow, specialised AI applications for the near-term, and 2) high-risk, high-reward AI investments. We conclude that the benefits AI can bring to wargaming could be significant, but there would be benefit in first introducing automation in specifically tactical or abductive wargames in the near term to manage risks. While some narrower applications of AI can be deployed in the near-term, the most ambitious and transformative applications require further research and investment. Similarly, further investment in cross-cutting enablers is required before AI can be introduced effectively into strategic-level wargames.
+
+
+
+110. Future production with AI
+
+
+
+Home
+
+Innovation & iiQKA
+
+Industrie 4.0
+
+The future of Industrie 4.0
+
+With KUKA into the future of Industrie 4.0
+
+What does the future of Industrie 4.0 hold? One thing is certain: it has already begun. Artificial intelligence is making its way into production. Machines are starting to learn independently and to make production more efficient by themselves. And the physical and digital worlds are merging more and more.
+
+
+
+Industrie 4.0: A glance into the future
+
+The term Industrie 4.0 has been around for several years. And the corresponding technologies – for example the Internet of Things, cloud computing or artificial intelligence (AI) – were not invented just yesterday. Nevertheless, significant technical advances are being made almost daily. Three trends stand out in particular.
+
+Artificial intelligence (AI) is already one of the driving forces of digital transformation – and will become even more so in the future. AI is making the predictive maintenance of machines possible, for example. And robots deployed in the smart factory are transforming into autonomous assistants that can learn independently, act logically and communicate with each other.
+
+Likewise, machine learning is making its way into the factory as one of the most important areas of AI for KUKA and will soon become an integral part of the smart factory. Learning machines can “understand” the patterns and cause-and-effect relationships that they generate themselves. They “learn” and react in real time by independently refining their algorithms.
+
+No less revolutionary is the principle of mixed reality. It combines the technologies of virtual reality (VR) and augmented reality (AR). Virtual reality means that the user is completely cut off from the real world and is in a virtual environment that can be viewed through glasses. In augmented reality, on the other hand, the real environment remains visible but is overlaid with digital content (virtual objects, information). The technology of mixed reality now allows virtual content to be combined with the real world. In contrast to augmented reality, content in mixed reality is not simply projected, but appears as a hologram realistically integrated into the physical world by means of mobile devices or head-mounted displays, such as the Microsoft HoloLens. This hologram can be moved and modified as if it were a real object.
+
+The future has thus already begun. But what practical use do these technologies have in industry? Take a look at some of KUKA’s innovation projects.
+
+Mixed Reality Interface: data within easy reach
+
+In our Mixed Reality Interface pilot project we are breaking new ground in human-robot interaction: using a head-mounted display (e.g. Microsoft HoloLens) or an app on a tablet or smartphone, users can see data regarding the robot’s protective space and workspace as well as the robot path directly at the cell and thus intervene to adapt the programming accordingly. This makes commissioning tasks much more intuitive and user-friendly.
+
+KUKA.Sim: smart simulation software for KUKA robots
+
+With our simulation software KUKA.Sim, robots can be programmed outside the production environment. The software allows users to interact with a digital twin – an exact virtual replica of the later production process. Whether designing the process or visualizing material flows and bottlenecks or the PLC code: the 3D simulation created by KUKA.Sim covers all planning processes. The virtual and real controllers work with identical data: what is planned virtually will later take place exactly the same way in reality. This ensures maximum planning reliability for the production processes with low effort and costs.
+
+Find out more about KUKA.Sim.
+
+KIVI: artificial intelligence reduces maintenance effort
+
+If the service life of individual robot components can be predicted, cost-intensive failures and production downtime can be avoided. This is exactly what the research project “Artificial Intelligence for Lifetime and Availability Prediction of Industrial Robots” (KIVI), funded by the Bavarian State Ministry for Economic Affairs, Energy and Technology (StMWi), is addressing. The aim is to continuously monitor the condition of industrial robots and enable predictive maintenance (condition monitoring and predictive maintenance). For this purpose, several sensors first transmit data on the vibration behavior of individual robot components in operation. Artificial intelligence is then used to evaluate the data: it identifies patterns in the emergence of wear conditions, from which it develops behavioral models. The result is a prototype AI toolbox that is now already in the evaluation phase. As soon as it can be deployed commercially, manufacturing companies will be able to increase the availability of their systems and make the production process more efficient – which, not least, will also help to conserve resources.
+
+Advantages of monitoring and preventive maintenance through AI
+
+Translearn: robots learn how to learn
+
+The starting point of all optimization processes for industrial robots is data. Producing and collecting data, however, costs a lot of time and money. For reasons of economy, data can also be collected nowadays by simply simulating robot interactions. The problem: even highly advanced simulations cannot yet replicate reality perfectly. The strands of action learned in them cannot be easily transferred to real robots. This difficulty is often referred to as the “reality gap”.
+
+This is exactly where our “TransLearn” project comes in: We want to overcome the reality gap by identifying errors in the simulation. The goal is to seamlessly transfer the simulation results to real robots.
+
+This brings many advantages: in simulation, robots can be programmed faster and better, which reduces programming costs. In addition, robots can learn better and more independently if this happens both in simulation and in the real system. Thanks to such an optimized learning process, industrial robots will no longer need to be programmed at all in the future, but only instructed. In this way, they can also learn independently how to shorten their cycle times or consume less power.
+
+OPERA: controlling robots more precisely.
+
+With OPERA, users can see the probable motion sequences of their cobots. Collaborative robots, so-called cobots, learn by the user manually guiding them through the desired motion sequences. This is therefore also referred to as hand-guided programming. It makes a lot of things easier, especially for small and medium-sized companies. Despite the intuitive handling, however, the process still requires some finesse in terms of exactness and error tolerances, which means that an expert still has to be involved in the programming.
+
+This is exactly where the OPERA project comes in: since not all sources of error in cobots can be identified deterministically, we have developed probabilistic models. Users can now very easily see in a 3D model where inaccuracies occur in the motion sequences of their cobot and react accordingly. They thus benefit from more flexibility and accuracy and greater system stability.
+
+Find out more about the OPERA project.
+
+With OPERA, users can see the probable motion sequences of their cobots.
+
+VWS4LS: a digital twin advances automation
+
+The wiring harness (also “wiring assembly” or “on-board electrical system”) is one of the most elaborate and complex individual components of an automobile. This is because there are as many individual wiring harnesses for a new series as there are equipment variants: hundreds of thousands. As such one-off products, wiring harnesses are correspondingly expensive to manufacture. Together with other partners, we are therefore working on the implementation of an “Asset Administration Shell for the Wiring Harness” (VWS4LS). Based on the “Asset Administration Shell” technology, digital information on each wiring harness is supplemented in this project in such a way that an interoperable digital twin can be created for the development, production and assembly of the wiring harness in the automobile.
+
+KUKA is focusing on the creation of product and process descriptions and on deriving the robot motions required for the respective production sequence from the corresponding information in the asset administration shells.
+
+Find out more about the VWS4LS project.
+
+BaSys 4.2: making manufacturing processes more flexible
+
+Companies with state-of-the-art production processes must be able to react quickly to variable demand or changing conditions. The production process in particular therefore frequently requires adjustments – to the process itself, to the production resources, but also to the product to be manufactured. This kind of “continuous engineering” should therefore be possible at all times. With BaSys 4, a basic system for production systems has already been developed that makes production processes efficiently adaptable. With the BaSys 4.2 project funded by the German Federal Ministry of Education and Research (BMBF), we are now working on implementing further Industrie 4.0 infrastructure elements based on the concepts and standards of the Plattform Industrie 4.0. We are focusing on the three topics “Middleware”, “Capabilities” and “Virtualization”. By doing so, we aim to advance standardized capability models and realize their use in automated capability checks.
+
+The goal is versatile production systems that can react intelligently and transparently to changing requirements.

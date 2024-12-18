@@ -1,0 +1,594 @@
+131. Synthetic and manipulated media policy
+
+You may not share synthetic, manipulated, or out-of-context media that may deceive or confuse people and lead to harm (“misleading media”). In addition, we may label posts containing misleading media to help people understand their authenticity and to provide additional context.
+
+What is in violation of this policy
+ 
+
+In order for content with misleading media (including images, videos, audios, gifs, and URLs hosting relevant content) to be labeled or removed under this policy, it must:
+
+Include media that is significantly and deceptively altered, manipulated, or fabricated, or
+
+Include media that is shared in a deceptive manner or with false context, and
+
+Include media likely to result in widespread confusion on public issues, impact public safety, or cause serious harm
+
+We use the following criteria as we consider posts and media for labeling or removal under this policy as part of our ongoing work to enforce our rules and ensure healthy and safe conversations on X:
+
+1. Is the content significantly and deceptively altered, manipulated, or fabricated?
+
+In order for content to be labeled or removed under this policy, we must have reason to believe that media are significantly and deceptively altered, manipulated, or fabricated. Synthetic and manipulated media take many different forms and people can employ a wide range of technologies to produce these media. Some of the factors we consider include:
+
+whether media have been substantially edited or post-processed in a manner that fundamentally alters their composition, sequence, timing, or framing and distorts their meaning; 
+
+whether there are any visual or auditory information (such as new video frames, overdubbed audio, or modified subtitles) that has been added, edited, or removed that fundamentally changes the understanding, meaning, or context of the media;
+
+whether media have been created, edited, or post-processed with enhancements or use of filters that fundamentally changes the understanding, meaning, or context of the content; and
+
+whether media depicting a real person have been fabricated or simulated, especially through use of artificial intelligence algorithms
+
+We will not take action to label or remove media that have been edited in ways that do not fundamentally alter their meaning, such as retouched photos or color-corrected videos. 
+
+In order to determine if media have been significantly and deceptively altered or fabricated, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been altered or fabricated, we may not take action to label or remove them.
+
+2. Is the content shared in a deceptive manner or with false context?
+
+We also consider whether the context in which media are shared could result in confusion or suggests a deliberate intent to deceive people about the nature or origin of the content, for example, by falsely claiming that it depicts reality. We assess the context provided alongside media to see whether it provides true and factual information. Some of the types of context we assess in order to make this determination include:
+
+whether inauthentic, fictional, or produced media are presented or being endorsed as fact or reality, including produced or staged works, reenactments, or exhibitions portrayed as actual events;
+
+whether media are presented with false or misleading context surrounding the source, location, time, or authenticity of the media;
+
+whether media are presented with false or misleading context surrounding the identity of the individuals or entities visually depicted in the media;
+
+whether media are presented with misstatements or misquotations of what is being said or presented with fabricated claims of fact of what is being depicted
+
+We will not take action to label or remove media that have been shared with commentary or opinions that do not advance or present a misleading claim on the context of the media such as those listed above. 
+
+In order to determine if media have been shared in a deceptive manner or with false context, we may use our own technology or receive reports through partnerships with third parties. In situations where we are unable to reliably determine if media have been shared with false context, we will not label or remove the content.
+
+3. Is the content likely to result in widespread confusion on public issues, impact public safety, or cause serious harm?
+
+Posts that share misleading media are subject to removal under this policy if they are likely to cause serious harm. Some specific harms we consider include:
+
+Threats to physical safety of a person or group
+
+Incitement of abusive behavior to a person or group
+
+Risk of mass violence or widespread civil unrest
+
+Risk of impeding or complicating provision of public services, protection efforts, or emergency response
+
+Threats to the privacy or to the ability of a person or group to freely express themselves or participate in civic events, such as:
+
+Stalking or unwanted and obsessive attention
+
+Targeted content that aims to harass, intimidate, or silence someone else's voice
+
+Voter suppression or intimidation
+
+We also consider the time frame within which the content may be likely to impact public safety or cause serious harm, and are more likely to remove content under this policy if immediate harm is likely to result.
+
+Posts with misleading media that are not likely to result in immediate harm but still have a potential to impact public safety, result in harm, or cause widespread confusion towards a public issue (health, environment, safety, human rights and equality, immigration, and social and political stability) may be labeled to reduce their spread and to provide additional context. 
+
+While we have other rules also intended to address these forms of harm, including our policies on violent threats, civic integrity, and hateful conduct, we will err toward removal in borderline cases that might otherwise not violate existing rules for Posts that include misleading media.
+
+What is not a violation of this policy
+ 
+
+We seek to protect public conversation surrounding various issues. Media often accompany these conversations and encourage further discourse. In the absence of other policy violations, the following are generally not in violation of this policy:
+
+Memes or satire, provided these do not cause significant confusion about the authenticity of the media;
+
+Animations, illustrations, and cartoons, provided these do not cause significant confusion about the authenticity of the media.
+
+Commentary, reviews, opinions, and/or reactions. Sharing media with edits that only add commentary, reviews, opinions, or reactions allows for further debate and discourse relating to various issues and are not in violation of this policy.
+
+Counterspeech. We allow for direct responses to misleading information which seek to undermine its impact by correcting the record, amplifying credible information, and educating the wider community about the prevalence and dynamics of misleading information.
+
+What happens if you violate this policy?
+ 
+
+The consequences for violating our synthetic and manipulated media policy depends on the severity of the violation.
+
+Post Deletion
+For high-severity violations of the policy, including misleading media that have a serious risk of harm to individuals or communities, we will require you to remove this content.
+
+Labeling
+In circumstances where we do not remove content which violates this policy, we may provide additional context on posts sharing the misleading media where they appear on X. This means we may:
+
+Apply a label and/or warning message to the post
+
+Show a warning to people before they share or like the post;
+
+Reduce the visibility of the post on the platform and/or prevent it from being recommended;
+
+Turn off likes, replies, and Reposts; and/or
+
+Provide a link to additional explanations or clarifications, such as relevant X policies.
+
+In most cases, we will take a combination of the above actions on posts we label. 
+
+Account locks
+If we determine that an account has advanced or continuously shares harmful misleading narratives that violate the synthetic and manipulated media policy, we may temporarily reduce the visibility of the account or lock or suspend the account. 
+
+
+
+132.  Linkedin engineering responsible AI
+
+LinkedIn was founded with a clear vision to create economic opportunity for every member of the global workforce. In 2023, we are seeing transformative advances in AI that have the potential to help us accelerate our progress toward that vision. 
+
+AI is not new to LinkedIn. LinkedIn has long used AI to enhance our members’ professional experiences.  By leveraging the power of AI, we help our members connect, increase productivity, and achieve success in their careers.  
+
+While AI has enormous potential to expand access to opportunity and ultimately transform the world of work in positive ways, the stakes are high. The use of AI comes with risks and potential for harm. That’s why, consistent with our commitment to build a trustworthy platform, we must continue to use AI responsibly.  Inspired by, and aligned with, Microsoft’s leadership in Responsible AI, we are sharing the Responsible AI Principles that we use at LinkedIn to guide our work: 
+
+Advance Economic Opportunity: People are at the center of what we do. AI is a tool to further our vision, empowering our members and augmenting their success and productivity. 
+
+Uphold Trust: Our commitments to privacy, security, and safety guide our use of AI. We take meaningful steps to reduce the potential risks of AI.
+
+Promote Fairness and Inclusion: We work to ensure that our use of AI benefits all members fairly, without causing or amplifying unfair bias.  
+
+Provide Transparency: Understanding of AI starts with transparency. We seek to explain in clear and simple ways how our use of AI impacts people. 
+
+Embrace Accountability: We deploy robust AI governance, including assessing and addressing potential harms and fitness for purpose, and ensuring human oversight and accountability. We are committed to learning from, and helping, others as AI best practices, norms and laws evolve.
+
+Underlying these principles is our commitment to listen and learn about how AI can continue to be a tool to accelerate progress towards economic opportunity for all.
+
+
+
+133.  Alibaba Cloud Unveils New AI Model to Support Enterprises’ Intelligence Transformation
+
+Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today unveiled its latest large language model, Tongyi Qianwen. The new AI model will be integrated across Alibaba’s various businesses to improve user experience in the near future. The company’s customers and developers will have access to the model to create customised AI features in a cost-effective way.
+
+ 
+
+Alibaba Cloud also announced lower cost options for key cloud products, including their Elastic Compute Service (ECS) and Object Storage Service (OSS), by introducing new ECS instances, OSS Reserved Capacity (OSS-RC) and OSS Anywhere Reserved Capacity (OSS-ARC). The move will make computing more accessible and affordable for companies looking to unlock emerging opportunities in the new AI era in China.
+
+ 
+
+“We are at a technological watershed moment driven by generative AI and cloud computing, and businesses across all sectors have started to embrace intelligence transformation to stay ahead of the game,” said Daniel Zhang, Chairman and CEO of Alibaba Group and CEO of Alibaba Cloud Intelligence. “As a leading global cloud computing service provider, Alibaba Cloud is committed to making computing and AI services more accessible and inclusive for enterprises and developers, enabling them to uncover more insights, explore new business models for growth, and create more cutting-edge products and services for society.”
+
+ 
+
+Integrating Tongyi Qianwen into Alibaba’s businesses and building tailored models with customers
+
+ 
+
+Tongyi Qianwen (通义千问 in Chinese) will be integrated into all business applications across Alibaba’s ecosystem in the near future to further enhance user experience, from enterprise communication, intelligent voice assistance, e-commerce, search, to navigation and entertainment. With Chinese and English language capabilities, the model will first be deployed on DingTalk, Alibaba’s digital collaboration workplace and application development platform, and Tmall Genie, a provider of IoT-enabled smart home appliances.
+
+ 
+
+·      Tongyi Qianwen-powered DingTalkis designed to make workplace communications more efficient. For example, it can summarize meeting notes, turn meeting conversations into text, write emails, and draft business proposals or promotion campaign plans through simple prompts. Users can instantly create a mini application on DingTalk by photographing a draft idea written on paper.
+
+ 
+
+·      Tongyi Qianwen-powered Tmall Genie will be able to engage in more dynamic and vivid conversations with users in China. For instance, it can develop and tell stories to children, provide healthy diet recipes, offer travel tips and recommend background music for a workout.
+
+ 
+
+To further enable enterprises to reap the benefits of AI-driven innovation, Alibaba Cloud will offer its clients access to Tongyi Qianwen on thecloud and help them build customized large language models. By fine-tuning Tongyi Qianwen with customers’ proprietary intelligence and industrial know-how in a secure cloud environment, enterprises can establish tailored AI models to suit their specific business needs. This is expected to spark a new wave of growth momentum for customers, eliminating the need for resource-intensive and expensive pre-training processes for building foundational models. Tongyi Qianwen is now available for general enterprise customers in China for beta testing.
+
+ 
+
+In addition, developers will soon be able to access Alibaba Cloud’s Tongyi Qianwen to create their AI applications at scale. This will further bolster the AI software ecosystem across sectors ranging from logistics to media, finance, manufacturing, energy, retail and more. Tongyi Qianwen as an API is also available for developers in China to apply for beta testing now.
+
+ 
+
+Multimodal capabilities, including image understanding and text-to-image, will soon be added to the Tongyi Qianwen model to provide users with more compelling AI features.
+
+ 
+
+“Generative AI powered by large language models is ushering in an unprecedented new phase. In this latest AI era, we can create additional value for our customers and broader communities through our resilient public cloud infrastructure and proven AI capabilities,” said Jingren Zhou, CTO of Alibaba Cloud Intelligence.
+
+ 
+
+“We are witnessing a new paradigm of AI development where cloud and AI models play an essential role. By making this paradigm more inclusive, we hope to facilitate businesses from all industries with their intelligence transformation and, ultimately, help boost their business productivity, expand their expertise and capabilities while unlocking more exciting opportunities through innovations.”
+
+ 
+
+Tongyi Qianwen is based on Tongyi, Alibaba’s proprietary pre-trained model framework that unifies various AI models, including models that can turn text into images and short videos. Last year, Alibaba Cloud launched ModelScope, an open-source Model-as-a-Service (MaaS) platform with hundreds of AI models, including a Tongyi-based text-to-image model for global developers and researchers. So far, with over 1 million active users, ModelScope has made 800 models available with over 16 million model downloads to date. 
+
+ 
+
+More accessible and affordable computing for enterprises and students
+
+ 
+
+Designed for small and medium-sized (SME) enterprises, the new ECS Universal instance family provides the same stability of its similar product, while saving costs of up to 40%. It is suitable for SMEs conducting web applications and websites, enterprise office applications and offline data analysis.
+
+ 
+
+OSS-RC enables customers to reserve storage capacity in a specific region for one year. It reduces the capacity cost by up to 50% from pay-as-you-go prices. When customers have no requirement to store their data in a specific region, they can create an OSS “Anywhere Bucket” to store data in a region chosen by Alibaba Cloud. OSS-ARC can then reserve capacity for objects stored in OSS Anywhere Buckets. It reduces the capacity cost by up to 70% from pay-as-you-go prices.
+
+ 
+
+To make computing resources more accessible to developers in China, Alibaba Cloud has also announced free trials of core products for up to three months, including ECS and PolarDB databases. Alibaba Cloud will also provide 1,000 free training courses on cloud technologies and around 500 hands-on experiments based on real business scenarios for developers to access cloud technologies easily.
+
+ 
+
+In addition, Alibaba announced its Cloud for Youth program is partnering with UNESCO Chair on Artificial Intelligence in Education to bring more computing resources to students in China’s rural areas. Unveiled in 2021, Alibaba’s non-profit Cloud for Youth program helps to narrow the digital gap in China by providing cloud computers to schools in underdeveloped areas. The goal is to help youths strengthen their technical foundation in digital capabilities and cultivate local digital talents.
+
+
+
+
+ 
+
+About Alibaba Cloud
+
+Established in 2009, Alibaba Cloud (www.alibabacloud.com) is the digital technology and intelligence backbone of Alibaba Group. It offers a complete suite of cloud services to customers worldwide, including elastic computing, database, storage, network virtualization services, large-scale computing, security, management and application services, big data analytics, a machine learning platform and IoT services. Alibaba maintained its position as the third leading public cloud IaaS service provider globally since 2018, according to IDC. Alibaba is the world’s third leading and Asia Pacific’s leading IaaS provider by revenue in U.S. dollars since 2018, according to Gartner.
+
+
+
+134. Wechat AI privacy policy
+
+Introduction
+
+We encourage WeChat users to report any potential violations of Community Guidelines to us via the in-app user reporting function on the WeChat app. Once we receive your user report, our content moderation team will review the user report to determine whether there has been a violation of these Community Guidelines. Please note that we will only take action against a reported user if we determine that there has been such a violation. If we determine that the reported user has not violated these Community Guidelines or if there is, in our view, insufficient evidence to prove that the reported user has committed such a violation, we will not take any actions against the reported user. In addition to human review, we also use artificial intelligence (“AI”) and other content moderation tools to assist us with the review of user reports and identification of violating content on the WeChat platform. Go to Policy Enforcement to see how we enforce our policy.
+
+Policy Enforcement
+
+We reserve the right to determine, at our sole discretion, whether content on the WeChat platform violates the Community Guidelines. If we determine that there has been a violation of the Community Guidelines, we may take any or all of the following steps against a violating user:
+
+(a) issue a warning regarding the user’s behaviour;
+
+(b) refrain from displaying or remove the relevant content relating to such breach (or reasonably suspected breach). Please note that if the relevant content has been received or viewed by a user (e.g. through a single/group chat or as a Moments post), we would not be able to hide or remove such content, as it would already be stored and on the user’s device cache, and the user should delete such content on his or her own device. However, we may restrict the further distribution or visibility of content in certain instances for users who have not already received or viewed the relevant content;
+
+(c) display a notice to recipients of the relevant content to take precaution due to a suspected or confirmed breach of these Community Guidelines;
+
+(d) restrict the user from using certain account functions or suspend or terminate the user’s account;
+
+(e) where we reasonably believe that the user has committed a crime or are otherwise required to do so under applicable laws, notify and cooperate with appropriate governmental and/or law enforcement authorities in the relevant jurisdiction.
+
+We will consider a range of factors when determining whether and what actions to take against a reported user who has violated the community guidelines based on the information we have relating to each violation, including but not limited to:
+
+(a) the severity of the violation;
+
+(b) whether the violation was committed intentionally or otherwise;
+
+(c) the number of other users who have been adversely affected by the violation;
+
+(d) whether the violation amounted to unlawful conduct under applicable laws;
+
+(e) whether the user has committed the same or a similar violation in the past; and
+
+(f) whether other users have lodged user reports against the same user for the same or a similar violation.
+
+We will inform the reporting user of our decision whether or not to take action against a reported user once we have completed our review of the user report submitted by the said reporting user. If we decide to take any action against a reported user, the reported user will also be informed accordingly.
+
+If you are: (i) a reported user whom we have actioned against or (ii) a reporting user who has made a user report but we have decided not to take any action against the user you have reported, but you disagree with our decision, please lodge an appeal to us by filling up the feedback form located at the WeChat Help Center, and we will attend to your request as soon as possible.
+
+
+
+135.  Spotify using AI
+
+Spotify uses artificial intelligence in a ton of smart ways to create an incredible listening experience across its audio streaming platform. This includes an AI DJ feature that curates a personalized selection of music for you based on your preferences, AI that translates podcasts into different languages, AI-powered music and podcast recommendations, and AI-driven search capabilities.
+
+(Maybe that's why Spotify is the world's most popular audio streaming service, with upwards of 574 million active users across more than 180 countries.)
+
+Understanding how Spotify uses AI is valuable for a few reasons:
+
+If you use Spotify, you may discover new uses for the platform…
+
+Even if you don't use Spotify, it can help anyone who produces a podcast understand how their content is getting found on the platform…
+
+And even if you don't have a podcast, the company is a sterling example of how important it is for any brand to build AI Native and AI Emergent companies.
+
+So, let's dive in.
+
+How Does Spotify Use Artificial Intelligence?
+
+Spotify uses AI in a handful of core ways that impact users.
+
+Spotify AI DJ
+
+The most high-profile and popular AI feature in Spotify is AI DJ. 
+
+Spotify's AI DJ is an AI-powered disc jockey that will choose what to play for you based on your specific music tastes and listening behavior. The AI DJ curates tracks for you based on your individual user data, then narrates its selections in a hyper-realistic voice created by generative AI. 
+
+AI DJ will switch up songs and vibes based on your real-time feedback (just hit the DJ button and it'll change it up), and it can surface music you haven't listened to in awhile or new selections based on what it thinks you'll like. 
+
+Discover Weekly
+
+Spotify's Discover Weekly is a series of custom-made AI playlists, uniquely crafted each Monday for every user by the platform's AI algorithms. 
+
+Each personalized playlist is a compilation of 30 songs, carefully chosen to align with each user's specific listening preferences. It's designed to introduce listeners to new tunes by considering various factors, such as their streaming history, songs they've added to their playlists, and their likes and dislikes. 
+
+This feature has gained widespread popularity as a means for Spotify users to unearth new music, offering a gateway to explore unfamiliar artists and genres.
+
+Spotify Wrapped
+
+A popular seasonal use of AI at Spotify is the company's yearly Spotify Wrapped feature. At the end of each year, Spotify users can access Spotify Wrapped which is a personalized summary of their listening patterns throughout the year. It highlights your most frequently played artists, songs, albums, and podcasts, as well as stats on total listening minutes and favorite genres. Spotify will even curate a playlist of your top 100 tracks in the last year. 
+
+AI-Powered Recommendations
+
+Spotify’s AI models recommend music, podcasts, playlists, and other content to users. 
+
+To do that, Spotify's AI models use data on your behavior and preferences to predict what you might want to listen to next. That data includes what you listen to, how long you listen to it, what playlists you create, and much, much more. These AI-powered recommendations are served up in various areas on Spotify's Home screen, such as the “Shows you might like" section, which recommends new podcasts based on your interests.
+
+Spotify leans heavily on reinforcement learning, a type of machine learning model that uses signals to optimize toward a goal. While Spotify doesn't reveal the secret sauce behind its AI, it likely optimizes recommendations towards a range of user-centric metrics, like increased likes or saves of tracks and increased user engagement with the platform. Basically, Spotify's AI is engineered to get you to come back to listen more and more often.
+
+In this way, Spotify's AI-powered recommendations are the company's competitive advantage. Spotify doesn't have a monopoly on music streaming. While it does own the exclusive rights to some podcasts, you can typically find your favorite music, podcasts, and audiobooks on other platforms. What Spotify does have that's unique is a superior way to surface the right audio at the right time for you specifically.
+
+This ability to hyper-personalize audio recommendations to each and every Spotify user is impossible without AI. This means, in a very real sense, Spotify as a business today would not exist at its current scale without AI. According to the company, at least half a trillion events are processed daily to inform machine learning models. And the more data these models gather, the better they are at making higher-quality recommendations.
+
+AI-Powered “Daylists”
+
+Spotify has also now launched an innovative feature called "daylists," offering users three unique, algorithmically-generated playlists daily, each with a quirky and ultra-specific title. 
+
+These titles, ranging from "Midwest Emo Flannel Tuesday Early Morning" to "Witchy Ethereal Tuesday," have sparked considerable amusement on social media, enhancing the service's popularity since its introduction. The titles, created by AI, are based on thousands of descriptors related to genre, mood, and themes, and are the brainchild of a team comprising data scientists and music experts at Spotify.
+
+Molly Holder, Spotify's Senior Product Director, describes these playlists as "hyper-personalized, dynamic, and playful," aiming to reflect users' unique audio identities, according to The New York Times.
+
+The daylists align with Spotify's strategy of hyper-specificity, resonating with 80% of its users who appreciate the platform's personalized offerings. Notably, users have expressed both amusement and bemusement at the titles, often sharing them on social media for their uniqueness and sometimes bizarre relevance to their personal tastes. This innovative approach to playlist naming appears to be a modern twist on the classic mixtape, offering a new way for users to engage with and share their music.
+
+Podcast Voice Translation
+
+In 2023, Spotify announced Voice Translation for podcasts, an AI-powered feature, which translates podcasts into different languages—all in the podcast host's original voice. The tool uses OpenAI technology to match the AI-generated voice to the speaker's individual tone and style automatically. This means a podcast host can record an episode in English, then translate it into other languages in their own voice. Currently, the feature is being piloted with popular podcasters like Lex Fridman and Bill Simmons, with plans to expand access to these AI-powered capabilities over time.
+
+Natural Language Search
+
+Spotify uses artificial intelligence to power natural language search. 
+
+Previously, Spotify used exact words typed into a search bar to match content to queries. This approach was better than nothing, but it was limited: it didn’t always provide high-quality results because it could only match terms very close to those used in a song, album, or podcast title.
+
+Natural language search is different. Using AI technologies like natural language processing (NLP) and deep learning, natural language search understands the semantic correlation between words, so it doesn’t need to exactly match your search with the words in a title to find what you’re looking for. That’s because natural language search can understand synonyms for different words, paraphrasing, and any content that means the same thing as what you searched.
+
+This AI-powered feature is critical to navigating the platform, allowing you to quickly and easily find music, podcasts, and audiobooks—even if your search doesn't match the exact keywords in the title of the audio.
+
+Spotify’s Artificial Intelligence Investments and Acquisitions
+
+It's no surprise, then, that Spotify has acquired AI companies, or companies related to AI, at a steady clip for almost a decade. 
+
+In 2013, Spotify acquired Tunigo to power better music recommendation algorithms. 
+
+In 2014, the company acquired Echo Nest, a music intelligence company that Spotify used to improve recommendations.
+
+In 2015, Spotify acquired data science company Seed Scientific.
+
+In 2017, Sonalytic was acquired by Spotify. Sonalytic uses machine learning to detect audio and recommend music.
+
+Also, in 2017, Spotify acquired Niland, an AI startup, to optimize music searches and recommendations.
+
+In 2018, Spotify  started a regular event called Machine Learning Day, which brings together company researchers to discuss core topics in AI.
+
+In its most recent AI-related acquisition, Spotify acquired Sonantic, an AI-powered text-to-speech generator. The acquisition was announced in 2022. One of the first applications of Sonantic is in the company's AI DJ feature, which provides AI-generated commentary for each user's AI-generated playlist.
+
+
+
+
+
+136.  Skype Translator AI policy
+
+
+
+Unlock now
+
+
+
+When I use translation on Skype, is my conversation content collected and how is it used?
+
+When you use Skype’s translation features, Skype collects and uses your conversation to provide the translation service. Voice conversations are only recorded when translation features are selected by a user. As you speak, we collect and process the audio to auto-detect the language you are speaking and use voice-to-text processing to transcribe your words. Then, we translate that written transcription.
+
+With your permission, your data may be used to help improve Microsoft products and services. To help the translation and speech recognition technology learn and grow, sentences and automatic transcripts are analyzed and any corrections are entered into our system, to build more performant services. This may include transcription of audio recordings by Microsoft employees and vendors, subject to procedures designed to protect users’ privacy, including taking steps to de-identify data, requiring non-disclosure agreements with vendors and their employees, and requiring that vendors meet the high privacy standards set out in European law and elsewhere.
+
+Unless you separately consent to TruVoice or choose to contribute your voice clips for Skype translator improvement, the audio we collect for this feature is used only as described above, and all audio is deleted by the end of your call.
+
+How do I turn translation off?
+
+To stop translation during a call:
+
+Tap or click the translation button.
+
+Select Stop translating .
+
+Translation will be disabled and a notification will be sent to the chat.
+
+To turn translations off from Skype Settings:
+
+In Skype, select Settings .
+
+Select Privacy .
+
+Select Translation and language auto-detection .
+
+Select Disable . Translation and language auto-detection will be disabled.
+
+Help us improve Skype Translator
+
+How to enable Translation and language auto-detection?
+
+Auto-detecion of the translated language detects the spoken langauge and translates automatically.
+
+In Skype, select Settings
+
+Select Privacy .
+
+Select Translation and language auto-detection to enable or disable this feature.
+
+What is Truvoice AI?
+
+Truvoice AI uses your voice to deliver the translation you have opted into, for everything you say in real-time for a more natural conversation. Truvoice AI can be enabled or disabled in Skype at any time:
+
+In Skype, select Settings .
+
+Select Privacy .
+
+Select Truvoice AI to enable or disable the feature.
+
+Note : To enable or disable Truvoice AI, Translation and language auto-detection needs to be enabled.
+
+To turn on translation with Truvoice while on a call:
+
+Select More to open additional options.
+
+Select Translate .
+
+Truvioce translation opt-in notification will be sent to the participant on the call
+
+Note : To turn off translation with Truvioce while on a call, simply select More , and select Translate again.
+
+Will my translation settings be synced across my devices?
+
+Yes. When you make a change, your translation settings will automatically sync across your devices connected to your Microsoft account.
+
+If I agree to allow the manual (human) review of voice data, can I change my permission?
+
+Yes, you can change your permissions at any time by changing the toggle in Translation settings to off.
+
+In Skype, select Settings .
+
+Select Privacy .
+
+Select Voice Clip Contribution to enable or disable the feature.
+
+Are my translated conversations encrypted?
+
+Conversations using translation are encrypted in transit to and from Microsoft’s servers.
+
+Does Skype plan to use my communications content to sell advertising?
+
+No, Skype doesn’t use the information collected through translation features to sell advertising.
+
+
+
+137. Improving user experience and boost sales with AI
+
+As consumers seek out simple, intuitive online shopping experiences, Mercado Libre is seeing its artificial intelligence (AI) efforts to improve the user journey pay off. 
+
+The Latin American eCommerce platform shared in its fourth quarter 2023 financial results, reported Thursday (Feb. 22) that, throughout the fiscal year, the number of items sold rose by 22% year over year. Plus, unique active users grew by a whopping 47%, and gross merchandise volume rose 30%. These increases came as the company improved the digital buying experience in an effort to drive conversion.
+
+“In 2023, we considerably improved the navigation in fashion, apparel and sports, with standardized filters across brand sellers,” Marcos Galperin, the company’s founder and CEO, told analysts on a call. “This enables consumers to find what they need more quickly on the product pages. Users can also see the ‘more like this’ section to find similar items or products that you’ve clicked on, rather than simply going back to the search results. This feature is powered by artificial intelligence.”
+
+He added that AI is also powering additional consumer-facing features such as product review summaries, product information summaries and personalized notifications about items left in carts. The company is also using AI to offer sellers pricing tools and pre-filled responses to common customer questions.
+
+Indeed, if U.S. consumers are any indication, easy-to-use digital platforms can be key to customer acquisition and retention. The PYMNTS Intelligence study “The Online Features Driving Consumers to Shop With Brands, Retailers or Marketplaces,” which drew from a census-balanced survey of more than 3,500 U.S. consumers, found that 40% consider how easy a given online store is to navigate when deciding where to shop. 
+
+“We continue to look at the specific needs of each vertical to improve the user experience because we believe this will drive offline consumption online,” Galperin said.
+
+Notably, around the world, pure-play eCommerce has taken a slight dip in recent years from its pandemic peak.
+
+The recent PYMNTS Intelligence study “2024 Global Digital Shopping Index: The Rise of the Click-and-Mortar™ Shopper and What It Means for Merchants,” commissioned by Visa Acceptance Solutions, which drew from a survey of nearly 14,000 consumers across seven countries, found that 29% of consumers surveyed are remote shoppers, using online channels exclusively. This share is down from 34% in 2020.
+
+Granted, younger consumers continue to disproportionately shop remotely via eCommerce channels. The study found that that share rises to 32% for Generation Z and 31% for millennials. Plus, higher income consumers are more likely to make purchases in this way, with remote shoppers representing 34% of shoppers in this income bracket.
+
+Overall, it seems that Mercado Libre’s strategic focus on enhancing the user journey through AI may be paying off, as evidenced by its strong growth in consumer adoption throughout fiscal 2023.
+
+By prioritizing simplicity and intuitiveness in its online shopping experience, it appears the Latin American eCommerce platform has successfully attracted and retained a growing number of active users, leading to substantial increases in items sold and gross merchandise volume. 
+
+
+
+138. The ITU recognizes the Carlos Slim Foundation and América Móvil for their technological innovation in health care
+
+The ITU recognizes the Carlos Slim Foundation and América Móvil for their technological innovation in health care
+
+Carlos Slim Helú received the WSIS award for the development of the digital platform Monitor FCS, from Houlin Zhao, Secretary General of the ITU.
+
+Monitor FCS, developed for addressing the COVID-19 pandemic, has analyzed information on more than 50 million reports of symptoms, which made it possible to trace positive cases, help break the chain of infections and maintain safe spaces.
+
+Mexico City, June 6, 2022. The International Telecommunications Union (ITU) granted América Móvil the World Summit on the Information Society Prize for the development and implementation, together with the Carlos Slim Foundation, of two apps for the monitoring, prevention, tracing and care of the population during the COVID-19 pandemic.
+
+The WSIS prize granted in the category of e-Health to the app Monitor FCS, recognizes that the app facilitated caring for and monitoring the health of the employees of América Móvil, Carso Group, Carlos Slim Foundation and other companies, as well as their relatives.
+
+Carlos Slim Helú received the prize from the Secretary General of the ITU, Houlin Zhao, given his participation as Co-President of the Broadband Commission of the Union, before the plenary of the commissioners and the President of Ruanda, Paul Kagame, which held the organization’s annual spring meeting in Kigali, under the title “Promoting the inclusive digital transformation”.
+
+The Honorary and Lifetime President of América Móvil pointed out that one of the priorities of the Group is health care and the wellbeing of workers, which is why the platform Monitor FCS was developed, to which around 500 thousand people were registered, which generated more than 50 million reports of symptoms that were analyzed to determine if a person was exposed to risks or if it was necessary to isolate possible contacts early and thereby keep workplaces safe, protecting each employee.
+
+Mr. Slim Helú added that the platform, developed by Arturo Elias Slim, prevented around 85 thousand infections, and made it possible to implement efficient work protocols to substantially reduce the risks, thanks to which the rate of infections among the employees of América Móvil and other companies of the Carso Group was considerably lower than the national and local averages.
+
+“Monitor FCS is a good example of the fact that the use of technologies helps to improve people’s health and health care”, concluded the also Co-President of the ITU Broadband Commission.
+
+In mid-March 2020, faced with the pandemic caused by COVID-19, América Móvil, in coordination with the Carlos Slim Foundation and Claro Shop, a company of the Carso Group, developed in less than two weeks the digital platform Monitor FCS, a mobile and web app that can trace in real time and individually the state of health of employees and their relatives, facilitating a transparent, reliable and automated flow of information that is used to their benefit.
+
+Through Monitor FCS, there has been daily monitoring in real time of the state of health of employees, their relatives and collaborators of América Móvil and Carso Group in Latin America, as well as the public in general with the COVID-19MX app.
+
+With the use of the app, it was possible to detect more than 21 thousand cases, and take immediate actions such as isolation, contact tracing and adherence to the rest of the prevention and control measures in the COVID-Carso Protocol in the companies of the Group, which helped to avoid, in addition to some 80 thousand infections, 7 thousand hospitalizations and around 3 thousand deaths.
+
+The app has incorporated artificial intelligence models for the detection of probable cases of COVID-19, simplified health status reporting processes and facilitated integration with platforms that support work health management like MIDO that are able to determine and monitor chronic illnesses such as obesity, diabetes and hypertension and like the app Mi Salud Integral which assists in the adoption of healthy habits.
+
+Fundamentally, the app complies with all privacy protocols and ensures that individual information remains secure.
+
+Simultaneously, through América Móvil and its subsidiaries Claro and Telcel, agreements were reached with health authorities of different Latin American countries, through which apps similar to Monitor FCS could be developed, like COVID-19MX, to collaborate in the actions of prevention, containment and care of the general population during the health emergency. In this way, the authorities were able to better identify the chains of infection.
+
+The WSIS prize granted by the ITU recognizes the contribution of América Móvil and of the Carlos Slim Foundation to developing mobile apps that bring health services closer to people, wherever they may be, facilitating diagnosis, medical care and epidemiological oversight.
+
+
+
+139. Accel’s AI Investments Keep The Focus On Applications And Tooling
+
+This article is part of our series of profiles that spotlight an investor firm’s AI strategy, including a list of its AI portfolio. In a previous interview, we talked to Sameer Dholakia from Bessemer Venture Partners, who predicted a fast adoption curve of AI through APIs. 
+
+With 40 years of investing under its belt, global venture capital firm Accel has long seen the potential of artificial intelligence. Now the firm is making fresh bets in AI startups.
+
+The power of AI unleashed by large language models like ChatGPT has led to significant investor interest in applying AI to everything from chips to data storage and AI infrastructure, as well as tooling and applications built on the technology.
+
+We spoke with Accel partner Daniel Levine about the firm’s AI investment outlook.
+
+The firm is making investments in AI across its team in India, London and the U.S., as well as its growth team. Levine likens it to investing in software, where the responsibility does not sit with one team or person but is distributed. While not every investment is necessarily in an AI company, AI is key to the firm’s strategy. Accel is unlikely to invest in chips or data centers, said Levine. But the tooling and applications side of the technology is in its wheelhouse.
+
+“You’ll see new companies for which AI makes the difference between the product being so-so and potentially [being] a game changer in its category,” said Levine.
+
+For many software companies, that poses a significant opportunity and threat. This technology can propel a company forward, but can also leave a company trailing as competitors take advantage of the possibilities it presents.
+
+Ground-floor investment
+
+Levine led Accel’s 2017 Series A funding in Scale AI, a company which trains data for AI capabilities. Scale has raised close to $600 million since then, from its Series B through Series E, which were led, respectively, by Index Ventures, Founders Fund, Tiger Global, Dragoneer and Greenoaks.
+
+Co-founded by Alexandr Wang and Lucy Guo, Scale AI started out in this generation’s equivalent of a garage — the basement of investor Levine’s San Francisco home. The company hired thousands of contractors to annotate pictures for self-driving technology companies which today include Waymo, Lyft and Toyota. It has since expanded to natural language training as well as computer vision processing, supporting companies such as OpenAI, Pinterest and Airbnb.
+
+Levine understood from his early days at Crunchbase — he was a colleague of ours who joined straight out of Yale — that having people looking at data under the hood is a necessary part of the process.
+
+Application
+
+“We’ll always play at the application level,” with the goal to make users more productive, said Levine.
+
+Accel led the 2020 Series B funding in Toronto-based Ada, an application layer customer service chatbot that utilizes AI.
+
+“We could assume that over time, AI can make support agents more efficient,” said Levine. These tools balance when a human or an algorithm is involved to provide a better service. “There’ll still be cases when you’re going to want to talk to a person either on chat or phone. But there are definitely a lot of cases where you want to talk to an algorithm because it’s faster, it’s more convenient and it’s consistent,” he said.
+
+Levine referenced project management software Notion — not an Accel portfolio company — several times in our conversation. “Notion AI is a very important product for them,” he said. Notion hosts wikis, docs and projects for companies, and has launched AI tools to help with writing, summarizing and planning, to make users more effective.
+
+Tooling
+
+Tooling and infrastructure companies are a core AI investment focus for Accel. These are the companies that assist other companies with their tech products. One of its portfolio companies, AssemblyAI, for example, provides infrastructure around understanding audio.
+
+Accel also announced this week it led a Series C funding in London-based generative video company Synthesia, which makes video production possible for companies without actors, cameras or studios.
+
+Another area of interest for Levine and Accel are new database products for understanding bias or trust and safety around AI, what the model is doing, and how it drifts.
+
+The companies that comprise Accel’s AI portfolio span more than a decade and are not only represented by the new wave of companies. The companies listed here were founded as early as 2011 and the most recent in 2021. Levine’s investments in companies that predate AI but have since integrated these capabilities include Sentry, an error-monitoring tool for software teams, and visual workplace collaboration platform Whimsical.
+
+“You’ll see a lot of companies that in hindsight will look like they’ve replaced existing software players,” he said.
+
+Levine has also led Accel’s investments in, and serves on the boards of EdgeDB, Gem, Mux, ReadMe, Scale, Sentry, Sprig, Vercel and Whimsical.
+
+
+
+140. MTN SA introduces Siya as it intensifies its AI Strategy in a bid to boost efficiency and revenue
+
+MTN South Africa is intensifying its artificial intelligence (AI) strategy to boost efficiency, enhance revenues, and improve both customer and employee experiences.
+
+The company has implemented AI solutions in multiple business operations such as customer value management, network operations, and customer service. These implementations aim to refine user experience and reduce expenses.
+
+In line with the current era marked by data-driven strategies and digital transformation, the company’s vision is to become an API- and AI-led entity to promote a culture of AI adoption within South Africa.
+
+The anticipation for the upcoming year to be a significant one for AI is high, as many companies are expected to integrate their AI applications across different business sections, as projected by global research firm Omdia.
+
+MTN SA’s CEO, Charles Molapisi, believes that leveraging the mobile network operator’s data to its fullest extent can unveil new sources of revenue and enhance margins through intelligent automation.
+
+By harnessing the power of AI and APIs, we are not only future-proofing our operations, but ensuring our customers can look forward to a more streamlined, efficient and data-driven experience.
+
+Technologies incorporated throughout MTN SA’s operations encompass machine learning, digital assistants, and robotic process automation. Furthermore, the company provides access to AI APIs, empowering developers to integrate AI functionalities into their applications.
+
+Bloomberg Intelligence suggests that the surging demand for generative AI and AI services could potentially expand the market from $40 billion to a staggering $1.3 trillion over the coming decade.
+
+MTN’s CEO, Molapisi, emphasized that the company’s AI strategy is an extension of the programs earlier rolled out across its operations.
+
+In the last year, the company has upgraded its call centers throughout Africa, infusing cloud-based AI and machine learning capabilities to elevate the customer experience.
+
+The telecommunications company also plans to provide AI-as-a-service and conceptualize AI solutions that align with core business offerings and address enterprise requirements.
+
+As a preliminary step, MTN launched SiYa, its internal AI-driven chatbot designed to assist employees. SiYa aids in handling inquiries, providing information about company policies, and sharing insights from MTN’s knowledge base.
+
+The company articulates that the insights derived from SiYa’s interactions will be crucial in shaping the future of customer engagement at MTN.
+
+“SiYa’s growth doesn’t stop with employees; he evolves in tandem with the learning and development of the chatbot. This progression will eventually enable SiYa to guide customers in making device purchases and seamlessly collaborate with human advisors, marking a significant departure from conventional processes,” concludes Molapisi.

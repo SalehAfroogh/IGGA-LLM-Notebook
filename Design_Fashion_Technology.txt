@@ -1,0 +1,245 @@
+91. Nike leveraging AI in operations
+
+Background
+
+Nike, a global leader in sportswear and athletic footwear, has long been at the forefront of innovation and customer engagement. In recent years, the company has made substantial investments in Artificial Intelligence (AI) and other emerging technologies to transform not just its products but also its customer experience, supply chain, and IT operations. This drive towards tech-enabled solutions has been especially significant in the face of the global pandemic, which pushed consumers and businesses more towards digital platforms. Nike has collaborated with partners like Cognizant to modernize its IT infrastructure, offering both onsite and remote support across a wide range of hardware and applications. With a focus on sustainability, customer engagement, and operational efficiency, Nike’s AI journey represents a compelling case study in corporate innovation.
+
+Key Takeaways
+
+Nike employs AI to enhance customer experience through hyper-accurate shoe fitting, personalized offers, and virtual assistants.
+
+Advanced analytics and AI-driven strategies have been adopted in Nike’s supply chain to improve speed, accuracy, and sustainability.
+
+Collaboration with IT major Cognizant to bring in hyperautomation and AI into Nike’s technology operations, aiming for improved service productivity and cost savings.
+
+Challenges include data privacy concerns, achieving 24/7 customer service accessibility, and ensuring the sustainable use of technology.
+
+Deep Dive: How Nike is Leveraging AI Across its Operations
+
+Approach
+
+Nike’s approach to AI is holistic, covering a wide array of applications from customer experience to supply chain management. In customer engagement, Nike uses AI-powered apps that offer hyper-accurate shoe fitting and personalized recommendations. The company also employs AI for deep customer analytics, aided by its acquisition of Zodiac, a data analytics firm. On the supply chain side, Nike has integrated AI and machine learning to predict product demand and to forward-position popular products, reducing lead times and improving service quality.
+
+Implementation
+
+Nike has been pragmatic in its AI implementation. Customer-facing AI solutions include an app that employs augmented reality and a 13-point measuring system for shoe fitting. In its supply chain, the company has opened multiple regional distribution centers fueled by AI algorithms to meet localized demand more effectively. Furthermore, through a five-year agreement with Cognizant, Nike is enhancing its global technology operations. This includes multilingual IT customer service, deskside and dispatch depot, as well as application and infrastructure support.
+
+Results
+
+Nike’s AI initiatives have been quite successful. The AI-powered apps have not only improved customer relationships but have also provided valuable data for product design and inventory management. Nike has also tripled its digital order capacity in specific markets thanks to AI-enhanced supply chain operations. The collaboration with Cognizant is expected to bring new self-service capabilities, improve service productivity, and offer significant cost savings.
+
+Challenges and Barriers
+
+While Nike has seen significant gains from its AI investments, challenges do exist. Data privacy is a significant concern given the vast amount of customer data collected through various apps. The ambition for 24/7 customer service through AI tools like chatbots also poses its own set of challenges, including maintaining the quality of service. Additionally, the drive for sustainability requires Nike to continuously scrutinize its tech-enabled operations for environmental impact.
+
+Future Outlook
+
+As consumer behavior and technology continue to evolve, Nike is poised to further its AI capabilities. Plans likely include the expansion of AI in customer service applications, increased automation in the supply chain, and deeper collaborations with tech partners like Cognizant. Given its past performance and strategic focus, Nike’s AI initiatives will undoubtedly continue to play a significant role in shaping both the company and the broader retail industry.
+
+Conclusion
+
+Nike’s journey in AI represents a well-rounded strategy that touches multiple facets of the business, from customer experience to supply chain and IT operations. By focusing on delivering personalized experiences, optimizing operations, and tackling challenges head-on, Nike serves as a textbook example of how AI can be effectively implemented in a large, global enterprise. Its efforts in AI have not only improved its bottom line but have also set the stage for future innovations that will likely continue to redefine the retail landscape.
+
+
+
+92. Ralph Lauren testing AI
+
+Ralph Lauren is leveraging early learnings from existing artificial intelligence use cases to test generative AI across a range of business functions, company leaders shared. 
+
+The apparel manufacturer and retailer is already using AI and machine learning in inventory optimization, forecasting, and consumer engagement, and it will test use of generative AI for such use cases as copy editing, graphics, and computer programming, CFO and COO Jane Nielsen said in an earnings call with investors, according to a transcript.  
+
+The strategy aligns with efforts by other companies in the industry that are similarly exploring the use of the fast-moving technology. The experimental nature also dovetails with other pilots by Ralph Lauren during its most recent quarter, including launching its first NFTs in partnership with the Poolsuite platform and its Web3 community, 
+
+See also: Generative AI Frenzy Burns On As Most Execs Rank Benefits Over Risks: Gartner
+
+Ralph Lauren, which is leaning into the luxury market as part of its longtime growth plans, added 1 million new consumers to its direct-to-consumer business during the fourth quarter, to reach a total of 5 million new DTC consumers this fiscal year. It also reached 52 million social media followers globally.
+
+“Our direction of travel from a strategic standpoint is to pivot the company further into DTC,” said CEO Patrice Louvet. “Our DTC today is about 63%, 64% of [revenue] for the total company. And as we guided during Investor Day [in September 2022], we expect the numbers to be north of that in the coming years.” 
+
+Sales for Ralph Lauren’s digital ecosystem. which includes directly operated sites, pure-play, department store dot-coms, and social commerce, increased high-single digits during the year. Owned digital sites alone saw sales grow mid-single digits, and the company has put user experience enhancements through digital content and more customer personalization on its roadmap for the upcoming fiscal year.
+
+Though Q4 revenue grew 2% in North America, retail comp-store sales dipped 4%. Physical retail remains a core component of its bid to drive connected commerce, and Ralph Lauren welcomed 21 new stores and concession-based shop-in-shops around the world in Q4. This included a particular emphasis in China, which the company expects to remain one of its fastest-growing markets. 
+
+The company, which has closed two-thirds of its wholesale doors in North America over the last three to four years, plans to open 250 stores over the next three years. 
+
+
+
+93. AI designer creating fashion grails from iconic runways
+
+Though their eyes have a holographic quality and their flesh appears to have been oxygen-starved, there’s an uncanny magnetism to the models that Field Skjellerup works with. The fashion archivist has been experimenting with AI for the best part of two years, feeding images of vintage Japanese fashions through a GAN model – a recent innovation in machine learning – to eerie and convincing effect. He’s created sculptural puffers with slashed waistbands, metallic concertina skirts, and avant-garde parkas festooned in artfully-arranged piles of rubbish. Prompted by images of Junya Watanabe AW04, Hussein Chalayan’s AW00, and Kosuke Tsumura’s Final Home project, the images look as though they’ve been pilfered from some kind of cybernetic mind bank. 
+
+“I’ve spent the majority of my adult life working dead-end jobs for minimum wage and I have little to no relationship with any educational institution,” he says. “But this is such a powerful tool. I’ve managed to create the blueprint for the most hyped pair of sneakers in the world, and I think that’s really saying something.” Skjellerup’s referring to a series of Nike shoes that he showcased on Instagram last week, which look almost exactly like the kind of thing Simone Rocha would design, surfaced in laser-cut mesh, rubberised petals, and ribboned laces. Far from the haunted DALL-E renderings that have been popularised online – all scorched edges and Francis Bacon wails – Skjellerup’s creations manage to look real. “People think they’re physical products and have asked me how to purchase them. I’m just waiting on the call from Nike!”
+
+As exciting as this may be for STEM enthusiasts, the advancements made in AI fashion often give way to real-life anxieties. If a machine can learn the handwriting of a brand and outpace its atelier, what’s to say that designers won’t be rendered obsolete? “I feel like people’s fears are warranted but the idea that artists will be eradicated is a little far-fetched,” Skjellerup says. “There will be job losses but I think new movements will arise from automation, people will put an onus on ‘human-made’ products. Am I setting an example for this kind of thing? I’m not sure I have an answer for that yet.” If creativity was once understood to be a uniquely human accomplishment, then AI has also inherited its prejudices – regurgitating images of rakish models with the spindly legs of a vaudevillian puppet. The algorithm can make our lives easier, but it’s often as flawed as we are.
+
+Ultimately, humans choose how these systems are made and what data they are exposed to – and the consequences can often be severe. In January 2020, Robert Williams, a Black man in Detroit, was arrested for a crime he did not commit because of an incorrect facial-recognition match. AI (much like the cameras they have been trained by) are rubbish at recognising people with darker skin tones, which is a standard that dates back to when film cameras were optimised to capture the faces of light-skinned people. “I’d admit this has been the trend with the majority of my published imagery to date,” Skjellerup says. “Given the racial bias in these pre-trained models, it’s easy to fall back on whiteness as the default. My hope is that the companies creating them will change but I’d personally like to make improvements in producing imagery that includes all kinds of people.”
+
+For Skjellerup, who also runs an impressive sales platform of archival Comme des Garçons, Issey Miyake, and Yoshiki Hishnuma (amongst hundreds of other grails) AI is first and foremost a research tool. Albeit somewhat fictional, his work has the potential to breathe new meaning into some of fashion’s most seminal collections – locked into a constant process of sampling and recontextualising. It means that even the most legendary designers will be able to live forever – their body of work absorbed and reproduced by the algorithm. “The development of AI tools will mark the biggest change in all mediums of art for the next 100 years,” he says. “Integration will be fraught with ethical and legal discussions and radical new ways of art making. Not only will people use these systems to play into pre-existing processes but new modes of expression will also be created.”
+
+
+
+94.  AI and change in management
+
+Shiseido, the 140 year-old Japanese cosmetics business, is using innovation and technology to drive gradual transformation across all of its 26 brands to prepare them for the future.
+
+“The company realised that the traditional way of working wasn’t sustainable any more,” Alessio Rossi, the company’s New York-based global chief digital officer, told an audience at the recent dmexco conference.
+
+“So they had to shift gears and promote change across the organisation, not just in digital, but innovation can come from the supply chain or anywhere.” (For more details, read WARC’s report: Change management at scale: how Shiseido is using data and AI.)
+
+Internal initiatives include the Shiseido Digital Centre of Excellence, launched last year to oversee change management related to all things digital and to prioritise areas of focus, and SHISEIDO+, a digital academy enabling staff to learn how to integrate new technology into what they do.
+
+“Shiseido has the objective to become a leading company in consumer intimacy in the beauty industry, which is really powered by data,” Rossi explained.
+
+“We think if we know more about them, we have to talk less, we have to interrupt less, we can interject in consumers’ lives in a way that is relevant.”
+
+Artificial intelligence is playing a vital role in this, by making sense of the huge volumes of data the company and its brands have access to.
+
+A project involving IBM Watson’s artificial intelligence tool Lucy, for example, is helping marketing staff understand the data by asking Lucy questions, framed in natural, conversational language and getting answers to things like the correlation between investment in social media spending and growth in market share.
+
+Rossi acknowledge that staff could be fearful of the implications of AI for their own jobs but offered reassurance.
+
+“AI at Shiseido isn’t replacing anybody, it’s helping people and actually creating jobs because training Lucy to understand beauty is not an easy exercise.
+
+“We’re creating a new class of professionals that didn’t exist before.”
+
+95. Joins stanford developement program
+
+LVMH Moët Hennessy Louis Vuitton has announced its collaboration with Stanford University’s Institute for Human-Centered Artificial Intelligence Institute (Stanford HAI) to explore the applications of AI technology in its business.
+
+As part of LVMH’s commitment to leveraging cutting-edge technologies to enhance customer experiences and optimize operations, the Group has been utilizing artificial intelligence in various parts of its value chain for several years. Recent generative AI breakthroughs show new opportunities for major innovation and efficiency but also challenges and risks. LVMH will accelerate the efforts to learn and experiment how it can help the business.
+
+” Artificial intelligence is a powerful technology. We acknowledge the value that it can bring as support and complement to human talent, emotions and creativity, that are core to our Maisons.” said Antonio Belloni, LVMH Group Managing Director. “We are proud to partner team up with Stanford HAI in our efforts to learn how to leverage and manage AI potential.”
+
+LVMH will collaborate with Stanford HAI on research projects, concentrating on areas such as AI safety, human-centered design, human-computer interaction, and foundation models to develop new applications of artificial intelligence technology in customer experience, product design, marketing content & communication, manufacturing, supply chain management and more.
+
+“Stanford HAI’s mission focuses on how to properly design and build human-centered AI to have positive human impacts,” said James Landay, vice director and director of research for Stanford HAI. “It’s key to collaborate with industry leaders like LVMH who are steeped in design expertise to ensure technology is developed with people top-of-mind.”
+
+
+
+96. AI and innovation
+
+SUMMARY 1. STRIVE FOR OPERATIONS EXCELLENCE THROUGH AI 2. INNOVATION
+
+AI AND INNOVATION 4 Awareness Proof of concept Adoption TECHNOLOGY MATURITY Industrialization SIMPLIFIED – ILLUSTRATIVE Blockchain AR & VR Chatbot Assistants Disruptive materials 5G Delivery 4.0 Image Recognition Voice Commerce Kering AI factory's focus DATA SCIENCE AND ARTIFICIAL IN AI IS BRINGING A WIDE SCOPE OF GAME-CHANGING APPLICATIONS 5 ROBOTICS MACHINE LEARNING EXPERT SYSTEMS PLANNING & OPTIMIZATION SPEECH VISION LANGUAGE PROCESSING Predictive analytics Topic extraction Deep learning Classification Translation
+
+THE AI FACTORY RELIES ON A LARGE RANGE OF DATA SOURCES 6 DATA LAKE & AI PLATFORM OPEN DATA Postal code Geolocation mapping Special events SUPPLY DATA Inventory in network Replenishment data Store data PRODUCT DATA Price Style Color & Size Product Attributes SALES DATA Sales in value Product volumes Sales location and date CRM DATA Client contact Segmentation Purchase behavior Opt-in/Opt-out WEBSITE DATA Web views Online Conversions
+
+AI WILL BRING A COMPETITIVE ADVANTAGE TO BRANDS: HENCE, WE ARE LEVERAGING THE BEST CAPABILITIES AND TALENTS TO ACCELERATE 7 IMPLEMENT CUTTING EDGE TECHNICAL CAPABILITIES FOCUS ON MVP AND INDUSTRIALIZATION RATHER THAN POC ENSURE CLOSE INCLUSION OF BUSINESS REQUIREMENTS • Upgrading Kering data lake to store all data sources and ensure data availability; Manage huge amount of unstructured raw data • Leverage cloud platform (scalability, AI) and ability to rollout models in production • Strategic bias in favor of Minimum Viable Products (= the most minimal form of a complete solution) to test in real conditions as soon as possible • Aiming for rapid industrialization at full scale for projects with proven added value • Onboarding the brands from day 1 • Starting all projects with a sponsor brand • “The hardest part of AI is not the code, it is the change management around” BUILD A UNIQUE TEAM OF TALENTS • One team / One roof / One floor blending data scientists, data engineers, data developers & data managers • Leverage agile method to foster innovation and adopt new technologies Phase 1 Prototyping & validating opportunities 2018 2019 2020 Phase 2 Building capabilities Phase 3 Scaling up & industrializing
+
+WE PRIORITIZED AI PROJECTS AMONG A LARGE SPECTRUM ON THE VALUE CHAIN 8 Trend prediction Buying product scoring Supply chain Replenishment & Store-to-Store optimization Store location evaluation Ideal store layout Customercentric store assortment CRM & clienteling Price Premium optimization Precision media Store workforce planning Automatic product tagging Markdown optimization Performance management: Sales forecasting (global, country, store level) DESIGN BUYING & MERCH. PRODUCTION LOGISTICS STORE LAYOUT MARKETING SALES Demand planning I P P Collection structure optimization I P S S I I I I I I C I I Ideation P Prototyping & validation C Building capabilities S Scaling up & industrializing
+
+FOCUS ON SUPPLY CHAIN PYTHAGORAS PROJECT: ASSIST PLANNERS IN OPTIMIZING STORE REPLENISHMENT STRATEGIES 9 LIVE IN JUNE 2019 • Develop a new AI-driven short-term sales forecast model and (as a second step) a replenishment-optimization model in close relationship with Gucci replenishment teams • Integrate AI outputs in existing planning tools • Assist planners in optimizing product quantities to ship to stores in order to reduce inventory shortages and overstocks • Start with two categories in Europe 06.19 07.19 08.19 09.19 10.19 11.19 12.19 01.20 EXPECTED BENEFITS What? How? Key milestones Forecast live in planner’s tools Rollout of forecast to all products and regions launched Launch study on replenishment optimization
+
+INCREASED FORECAST ACCURACY • ~20% more accurate on one of the categories • Forecast "Newness" products with no historical data • Maximize sales at full price • Maximize gross margin LOWER RISK OF INVENTORY SHORTAGES OR OVERSTOCK Thanks to an improved reaction to market variability, in particular for items with a few weeks of historical data SMOOTHER PROCESS Thanks to a more reliable forecast and simplified validation tool FOCUS ON SUPPLY CHAIN PYTHAGORAS PROJECT: ASSIST PLANNERS IN OPTIMIZING STORE REPLENISHMENT STRATEGIES 9 LIVE IN JUNE 2019 • Develop a new AI-driven short-term sales forecast model and (as a second step) a replenishment-optimization model in close relationship with Gucci replenishment teams • Integrate AI outputs in existing planning tools • Assist planners in optimizing product quantities to ship to stores in order to reduce inventory shortages and overstocks • Start with two categories in Europe 06.19 07.19 08.19 09.19 10.19 11.19 12.19 01.20 E FOCUS ON PRICING PROJECT: FIND THE OPTIMAL MARKDOWN LEVEL Develop new AI-driven price-sensitive sales forecast model • Develop a pricing optimization model • Find out the optimal markdown level for each product • Start with women’s and men’s shoes in Europe for new 2019 Fall season What? How? First results & next steps • Promising results for the sales forecast: high accuracy, although some outliers need to be understood • Price sensitivity analysis: forecasts are dependent on prices and this sensitivity is variable across products • We are running optimization methods to find the best combination of discounts BEYOND SUPPLY AND SALES, WE BELIEVE THAT AI WILL HAVE A WIDE IMPACT ON A LARGE RANGE OF KERING ACTIVITIES 12 Used for current projects Being assessed for future projects • Inbound message ranked by priority • Personalized e-mail proposition • Media spend optimization (precision marketing) • Resume screening • Employee churn prediction • Career path counselling • Counterfeit detection • Trademark tagging on product images Planning & Optimization _ Machine Learning _ Image Recognition _ Language Processing _ Machine Vision _ Expert Systems INNOVATION ROADMAP 16 IN-STORE / ONLINE / CLIENT SERVICES In-store: Technologies to augment Client Advisors Online: Technologies to improve user experience and drive more conversion Client services: AI-based technologies to augment Client Services Advisors and improve performance and monitoring INNOVATION ECOSYSTEM SET-UP Partnership with Venture Capitalists Start-up scouting TECH SCOUTING Blockchain Voice / Chatbot Image recognition INTRAPRENEURSHIP / CULTURE Idea crowdsourcing Co-design MATERIAL DISRUPTIONS NEW BUSINESS MODELS New ways to consume luxury (e.g. subscription, second hand, rental) New ways to engage with consumers DISRUPTIONS IMPACTING OUR BUSINESS MODEL TECHNOLOGIES IMPROVING VALUE TO CUSTOMERS & OUR PERFORMANCE ENABLERS INNOVATION FUNNEL 17 1 IDEAS 2 POC 3 MVP 4 ROLLOUT INVESTIGATION EXPERIMENTATION PROJECT LIVE
+
+• Assess tech/solution maturity • Assess what is at stake • Identify use case • Test feasibility • Test fit with business need • Identify features that deliver the most value • Roll-out at small scale • Maximize learnings for the least efforts • Run in production • Deploy RESULTS FOCUS Prioritized list of use cases Go / No go on feasibility & usability Feedback on solution Industrialized version of solution
+
+97. AI powered Case study
+
+CASE STUDY: Sitation's AI Powered Content Creation tool, RoughDraftPro Solves Product Content Creation Challenges At Scale Inaccurate and Missing Product Descriptions on 3,000+ priority Amazon products Incomplete Product Records and Data Gaps Inconsistent Branding Across Global Sales Platforms Lack of Resources to Create Quick and Accurate Challenges Havaianas, in pursuing its corporate goals for large growth in the US market, recognized the need for specially-created and localized product content at scale. The digital team soon realized that generating top-notch and precise product content at an enterprise scale was beyond their existing resource capacity. Leveraging Sitation's AI content tool, RoughDraftPro, and a direct PIM integration for automation, Havaianas was able to generate product content for its US product assortment on Amazon in a matter of days. High Quality and Consistent Product Content Especially Crafted for the Havaianas target consumer on Amazon.com Quick creation of Product Titles, Descriptions, Feature Bullets, and SEO Keywords for 3,000+ items Create a scalable and repeatable approach to include brand tone and voice for future content creation Goals H Approach Havaianas leverages AI Content Tool, RoughDraftPro for a consistent & scalable solution Leveraged machine-assisted process to correct existing inaccuracies Crafted prompt models to accurately reflect brand tone and voice, and data format requirements Integrated with Akeneo PIM for workflow and automation Sitation transformed product content into precise, hyperlocalized, and on-brand product representations at scale. RoughDraftPro generated results that matched the specific marketplace format requirements, while incorporating the vivacious spirit the brand is loved for. Results Accurate and Consistent Product Information Across 3,000+ Priority PLPs at Amazon Foundational Prompts to Facilitate Continual Content Creation at speeds of up to 30,000 pieces/hour. Product Data Completion and SEO Strategy True to Brand Tone and Voice Product Descriptions Akeneo Integrated Product Descriptions RoughDraftPro and content creation is one of the many facets of a successful, ongoing Havaianas and Sitation Partnership. RoughDraftPro facilitates content creation and refresh for crucial sales channels at scale, while maintaining the authentic brand identity of Havaianas across thousands of globally offered shoes and apparel. Silvain explains, "if we weren't using RoughDraftPro and working with Sitation, we would still be in a place of creating one product description at a time without the staff to do it." 
+
+98. Falabella hires Amelia as a digital assistant for its employees
+
+Through a statement, ​Amelia, the leading company in conversational business artificial intelligence software, confirmed that the Chilean giant Falabella hired its digital services assistant to improve the internal experience of its 100,000 employees with 24-hour internal support , 7 days a week.
+
+As confirmed by the document, the retail company sought to optimize the handling of support tickets and eliminate long wait times for information technology (IT) services, such as account unlocking and password resets, among others.
+
+In this way, Falabella frees up the time and resources of its IT team, made up of up to 100 people, so they can focus on more challenging problems.
+
+"We hired Amelia as the first point of contact for IT support, as she can integrate seamlessly with our support platform, and now our users can easily interact with her through conversational AI to get help," explains Oscar Muñoz , director of employee experience technology at Falabella.
+
+Regarding the above, it is worth mentioning that Amelia will provide a hand to Falabella employees with IT-related queries through voice and chat. 
+
+After the news was announced, Chetan Dube, CEO of Amelia, highlighted Falabella for its work in providing its employees with extraordinary experiences and stimulating them in terms of productivity, innovation and growth.
+
+"By hiring Amelia as an IT services digital assistant, the company is taking important steps in its digital transformation journey, thanks to conversational AI and automation. We are excited to work with Falabella to bring new levels of service and efficiency to its workforce,” says Dube.
+
+Headquartered in New York City with offices in 15 countries, Amelia's technology currently impacts more than 200 brands in various sectors worldwide.
+
+
+
+99.  How Cotton On Is Taking the Aussie Aesthetic Global with AI
+
+How Cotton On Is Taking the Aussie Aesthetic Global with AI
+
+Is content creation slowing you down? Let’s pick up the pace. Learn how Aussie brand Cotton On is using visual AI to save time and make smarter decisions, faster.
+
+Discover how Cotton On uses Dash Hudson to:
+
+Use AI to create high-performing photos in real-time to effectively increase engagement.
+
+Leverage data-backed insights to select content to re-post and which Australian influencers to showcase and collaborate with.
+
+Craft strategic campaigns across the brand’s most important marketing channels
+
+Revolutionizing Content Creation
+
+
+Cotton On knows its laid-back Aussie style is best showcased on the ultimate visual marketing channel, Instagram. The missing piece? Data to back the social team’s creative process. In the especially crowded space of apparel on social media, the Aussie brand needed its content to stand out amongst a sea of competitors and to create imagery faster to scale effectively. To do so, Cotton On uses Dash Hudson’s AI technology to build a data-driven content strategy. Yes, it’s possible—and powerful in today’s saturated social world.
+
+"We’ve seen a big increase in engagement using Dash Hudson. The user interface makes it so easy to judge why you had a great week, and how you can repeat that success. It also reveals what those moments were that lead you to such an incredible engagement rate. It makes it so easy to take the learnings and put them into action."
+
+Mariah Fox,
+Former Global Social Media Manager at Cotton On
+
+Predicting Content Performance
+
+‍
+
+Dash Hudson’s visual intelligence technology, Vision, collects and analyzes all of a brand’s photos from social and from within its own content management system. Vision is then able to see what items, colors and visual elements are actually inside an image — not unlike how the human eye sees a photo. It then determines, based on a brand’s recent performance, what types of photos its consumers care about most. This means that brands can know if a photo — be it a product shot or fresh from a photo shoot — will perform before it’s posted or used in a campaign.
+
+‍
+
+"Vision is changing the way we do things in head office. We now say that if Vision says it’s not going to perform highly, we’re not posting it."
+
+Mariah Fox,
+Former Global Social Media Manager at Cotton On
+
+‍
+
+Create Better Content in Real Time
+
+‍
+
+The accuracy of Vision’s predictions for Cotton On have been so on point, that the social team uses the visual cues to guide the creative team in their creation of new content. Each time the brand shoots a campaign, the team uploads the images into Dash Hudson to see Vision predictions in real time. In this way, the team can make adjustments to their shooting style to align with the tastes of their audience on social. Before implementing Vision feedback, about 15% of the images Cotton On posted from campaign shoots performed above the brand’s average engagement rate. After bringing the technology on set, 70–90% of photos created were above average performers. This means the team saved time and money on set, while curating a trove of high quality content to use on Instagram.
+
+‍
+
+"We ran all of our assets through Vision, and saw that it really rated influencer visuals higher. While this is something we felt to be true, when the data clearly tells you something, you can’t argue with it."
+
+Mariah Fox,
+Former Global Social Media Manager at Cotton On
+
+‍
+
+The (New) Cotton On Way 
+
+‍
+
+Embracing new technology has enabled the team at Cotton On to take a data-driven approach to their creative and drive performance across channels. They’re now able to better engage their audience by serving them up more of what they love. Multiple teams at Cotton On are now using Dash Hudson to create their own channel strategies, and the social team has become a hub for brand assets and innovation within the organization.
+
+What We Can Learn From Cotton On's Strategy
+
+
+
+Embracing the Role of AI in Content Performance
+
+Cotton On's challenge was to stand out among the immense volume of content on Instagram. They wanted to ensure their images not only looked great but also resonated with their audience. Vision thorough analysis and performance prediction helps the brand do that.
+
+
+
+Influencer Content and Earned Media Strategy
+
+Vision also aids Cotton On in selecting influencer imagery that aligns with their audience's preferences, ensuring that their owned, earned and influencer content consistently engages their audience. The technology has become integral to Cotton On's social media strategy, influencing decisions on what content to post.
+
+
+
+Extending AI Insights Beyond Social Media
+
+The insights Cotton On has gained from Vision have spilled over into other marketing areas, like email campaigns. The brand now predominantly uses Vision-approved influencer images in their email marketing, leading to higher click-throughs and conversions.
+
+
+
+100.  South Africa to adopt AI
+
+Artificial Intelligence adoption in South Africa is considered low, as experts suggest that large organisations are not AI-ready. However, there is little evidence to prove these sentiments. The research explained the current AI adoption criteria of four large organisations in South Africa from different industries and compared the differences. This explanatory study followed an interpretive philosophy with an inductive approach to explain the AI adoption process of organisations through semi-structured interviews. The findings revealed that organisations are AI-ready, and the low adoption is mainly because AI use cases have not been evident. Organisations view AI as a tool to enable the business to solve business problems and in return create business value. The findings provide an explanation of the decision criteria used by large South African organisations for adopting AI.

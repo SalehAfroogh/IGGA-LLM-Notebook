@@ -1,0 +1,291 @@
+81. About half of McKinsey staff allowed to use generative AI: report
+
+Employees of global consulting firm McKinsey and Company have been given permission to use generative artificial intelligence (AI), including ChatGPT, in the workplace, according to a report.
+
+"About half of [our employees] are using those services with McKinsey's permission," said Ben Ellencweig, senior partner and global leader of McKinsey's AI consulting arm QuantumBlack, according to Venture Beat.
+
+The organization has more than 30,000 employees across 67 countries. Ellencweig, however, clarified that the firm has rolled out guidelines and principles of generative AI use, which includes a prohibition on uploading confidential information.
+
+Embracing AI in workplaces
+
+The revelation adds McKinsey to the list of employers around the world embracing generative AI and the assistance they offer to workplaces. Recently, Japan-based firm Daiwa Securities Group also allowed around 9,000 employees to use ChatGPT in workplaces to ease the burden imposed by routine tasks.
+
+The reports come amid growing acceptance of generative AI among employees across the world. In fact, findings from automatica revealed that employees in the United States (63%), Japan (76%), and China (87%) want ChatGPT to help them in workplace decision-making. 
+
+In McKinsey's case, they did not disclose what they use generative AI for, but they noted that their tech staff "have them all in a sandbox, [and are] playing with them every day," reported Venture Beat.
+
+Using AI safely
+
+Alex Singla, another senior partner and global leader at QuantumBlack, unveiled a five-step approach on how to integrate generative AI in workplaces safely. As reported by Venture Beat, these suggestions include:
+
+IT stack and infrastructure: Think about IT stack and infrastructure and where the AI tools and data will be located
+
+Data: Determine whether to use structured or unstructured data, how to organise them, and what protections they require
+
+Choose the right AI model
+
+UI and UX: Consider the user interface and user experience of the AI to be used
+
+Change management: Ensure those using AI will be supported, including how their work duties will be changed
+
+The recommendations come as employers around the world get warnings on how generative AI can impact workplaces. For some employers, including Samsung, Amazon, Verizon, among others, they have implemented restrictions on using AI to stamp out potential privacy risks. 
+
+
+
+82. Deloitte Launches Innovative ‘DARTbot’ Internal Chatbot
+
+Deloitte today announced its development and deployment of “DARTbot,” an internal chatbot powered by cutting-edge Generative Artificial Intelligence. DARTbot is capable of generating intelligent responses and providing valuable insights to support nearly 18,000 of Deloitte’s U.S. Audit & Assurance professionals in their daily tasks and decision-making processes.
+
+Deloitte is infusing Generative AI applications and capabilities across its organization to help its professionals become more efficient and productive. These applications and productivity tools are focused on proprietary functional and industry content that is applied with Deloitte’s Trustworthy AI™ framework, managing AI risks such as hallucinations, and improving user confidence and trust.
+
+As part of this ongoing commitment, Deloitte is rolling out purpose specific Large Language Models (LLMs) and chatbots to support specialized teams across its business, including DARTbot to support Audit & Assurance professionals.
+
+“Integrating Generative AI into our technology solutions, combined with the experience, critical thinking and professional judgment of our professionals, will allow us to deliver deeper insights and a differentiated client experience with distinction and trust,” said Dipti Gulati, U.S. CEO, Audit & Assurance, Deloitte & Touche LLP.
+
+Designed with user experience in mind, DARTbot’s user-friendly interface allows Deloitte’s Audit & Assurance professionals to seamlessly interact with the chatbot. The system is meticulously integrated with vast datasets of relevant industry knowledge and leading practices, exhibiting the accuracy and reliability of its responses, and facilitating further analysis by providing references to source materials.
+
+With the deployment of DARTbot, Deloitte aims to transform the way its professionals work, enhancing their productivity and enabling them to focus more on applying professional objectivity, skepticism, and evaluating bias. The chatbot acts as a virtual assistant, providing real-time guidance, answering queries, and assisting professionals in navigating complex accounting questions. 
+
+"We are excited to introduce DARTbot as an invaluable resource for our Audit & Assurance professionals. This internal chatbot represents Deloitte's ongoing commitment to leveraging cutting-edge technology to empower our teams and deliver exceptional client service. DARTbot will help our professionals quickly research complex accounting questions and elevate the overall audit and assurance experience," said Chris Griffin, managing partner, U.S. Audit & Assurance transformation and technology, Deloitte & Touche LLP.
+
+One of the key priorities throughout the development process was ensuring data security and confidentiality. Deloitte has implemented robust security measures, leveraging state-of-the-art encryption protocols and access controls. The chatbot operates within a dedicated, secure, self-contained environment that does not use any user input data to train the model.
+
+“DARTbot represents a significant milestone in Deloitte's ongoing commitment to harnessing the power of emerging technologies. Through continued internal innovation, we’re able to assess and deploy new technologies to benefit our professionals and provide deeper insights to our clients,” said Will Bible, partner, U.S. Audit & Assurance digital transformation and innovation leader, Deloitte & Touche LLP. 
+
+Deloitte is also increasing AI fluency, training more than 120,000 professionals as part of the next generation of AI talent via the AI Academy, a Deloitte Technology Academy program, as well as investing more than $2 billion in global technology learning and development initiatives to boost skills in the application of key technology areas, including AI, to key industry and functional issues.
+
+
+
+83.  The future is AI. The future is human
+
+ Safely unlock AI’s potential with responsible AI services
+
+HIGHLIGHTS
+
+Enterprises are experimenting with large language models (LLMs) and looking to unlock the promise of AI and generative AI (GenAI) for their business.
+
+To mitigate the risks associated with AI and GenAI, businesses need to implement LLM-based solutions responsibly.
+
+Our portfolio of responsible AI services, covering the entire life cycle of AI adoption, help enterprises get the best out of AI, safely and responsibly.
+
+OVERVIEW
+
+Responsible AI is the key to success with AI.
+
+Hoping to unlock the promise of AI and generative AI (GenAI), enterprises have been rapidly prototyping solutions using large language models (LLMs) to solve their business problems. LLMs have lent themselves well for adoption by businesses and have shown promising results in industry-specific as well as industry-agnostic use cases. Across industries, enterprises are looking to deploy LLMs in production to realize increased productivity and other benefits. However, to identify and mitigate the risks associated with GenAI and AI in general, businesses need to implement AI-based solutions responsibly—with transparency, explainability, and in an unbiased and trustworthy manner. While there have been conversations around ethical AI, frameworks for responsible AI and AI usage are still evolving. Enterprises have not really explored or invested in responsible AI—until now.
+
+Our proven framework for responsible AI implementation can help enterprises unleash the potential of AI and GenAI while ensuring responsible usage across their organizations.
+
+SOLUTION
+
+We offer responsible AI services for every stage of AI adoption. 
+
+We have a comprehensive portfolio of responsible AI services covering the entire lifecycle of AI adoption—from conceptualization of a solution to implementation to operations. Our services for responsible AI are built on a framework of five core tenets—secure, accountable, fair, transparent, and identity preserving—with metrics mapped to each of these tenets. By leveraging these services, enterprises can get the best of out of AI, safely and responsibly.
+
+Our curated responsible AI offerings are aimed at driving purpose-driven, sustainable outcomes and include:
+
+Responsible AI adoption strategy consulting: Working closely with CXOs and AI leaders at organizations, we define responsible AI principles and implementation strategies, identify or develop responsible AI frameworks and tools, create plans to implement AI responsibly, and establish governance models as well as approaches for the operationalization of AI-based solutions.
+
+Responsible AI assessment: No matter where they are on their AI or GenAI journey—whether they are just starting out or have already implemented a solution—we help enterprises assess their maturity level for these technologies by scoring them against relevant metrics, and identify and mitigate potential risks and biases. Outputs from AI that may not align with an organization’s or jurisdiction’s requirements, policies, or ethical guidelines and results that foster existing biases are real risks. Using TCS’ patented solutions and services along with those of leading cloud service providers and our proven framework, we help mitigate risks and make enterprises compliant and AI and GenAI-ready.
+
+Responsible AI design and implementation: Using our responsible AI framework and capabilities from both TCS and the leading cloud service providers we partner with, we embed ethical AI into the fabric of the AI systems being developed. Through this service, we help address challenges around security, privacy, bias, fairness, accountability, and explainability in already developed AI and GenAI-based solutions. At each phase of adoption—conceptualization, design, build, testing, and deployment—we ensure that models comply with the tenets of our framework, setting the stage for success with AI.
+
+Responsible AI governance service: By applying our frameworks, methods, tools, and processes, we provide governance support for ethical use of AI and help ensure that enterprises’ AI initiatives comply with responsible AI principles. As part of this service, we offer enterprises our expertise in setting up an AI Office.
+
+Throughout, our subject matter experts work closely with companies’ GRC (governance, risk, and compliance), security, and AI teams to ensure that the implementation of AI and GenAI-powered solutions meet responsible AI principles and comply with regulations.
+
+BENEFITS
+
+Unlock the power of AI safely. 
+
+Our services help enterprises address the many challenges that come with AI-based solutions. With us, they can:
+
+Ensure responsible adoption of AI with clearly identified risks and mitigations.
+
+Ensure AI is used solely for the intended purpose, and outcomes that may not align with an organization’s policies or ethical guidelines are checked.
+
+Deploy robust security and privacy controls to prevent unauthorized or unintended use.
+
+Adhere to lawful, ethical, and social responsibilities.
+
+Comply with country-specific laws and guidelines related to AI-based solutions.
+
+Enable continuous monitoring and alignment of AI-based solutions to enterprise goals.
+
+THE TCS ADVANTAGE
+
+Get an edge with our rich pool of AI talent and strong partnerships.
+
+A partnership with us comes with the following advantages:
+
+Deep expertise: TCS has decades of experience in researching and developing AI-based solutions to solve complex business problems. Our Research and Innovation unit builds cutting-edge, customized AI models and solutions for customers across the globe.
+
+Scale and skilled resources: TCS is the second largest IT services company in the world, with over 600,000 people. We have a large workforce of AI-skilled associates to support enterprises across geographies in their AI transformations.
+
+Strong partnerships: TCS has strong partnerships with all the major players in the AI ecosystem. Through our partnerships, we enable innovative solutions for enterprises.
+
+
+
+
+
+84. Responsible ai
+
+Responsible AI
+
+Trend 16: AI security emerges as the bedrock of enterprise resilience
+
+Responsible AI is not only an ethical imperative but also a strategic advantage for companies looking to thrive in an increasingly AI-driven world. Rules and regulations balance the benefits and risks of AI. They guide responsible AI development and deployment for a safer, fairer, and ethical AI ecosystem.
+
+Staying informed about associated compliance requirements is vital for organizations and individuals, especially amid industry lawsuits related to generative AI. Novelist John Grisham has taken OpenAI to court, and programmers allege Codex crawl their work but don't treat attribution, copyright notices, and license terms as legally essential. Meanwhile, visual artists have targeted Stability AI, Midjourney, and DeviantArt for copyright infringement. Regulations to significantly impact the industry's trajectory, shaping growth, innovation, market entry, and ethical practices. Businesses must proactively respond to evolving AI regulations, incorporating them into a strategy for compliance, trust, and long-term success.
+
+AI's dual role presents a dichotomy: it can automate hacking, sidestepping traditional security, yet simultaneously bolster security through anomaly detection, threat prediction, and real-time monitoring. This interplay necessitates continuous adaptation to stay ahead of risks. AI security is vital for the integrity of applications across domains, shaping the industry's future by addressing critical concerns like data privacy, integrity, and fairness.
+
+Businesses should approach AI security with a multifaceted strategy by implementing robust security measures, regularly updating AI models, conducting risk assessments, educating employees, using AI-based security tools, addressing ethical considerations, and collaborating with experts. Businesses can also leverage AI-driven security tools for advanced threat detection, anomaly detection, and real-time monitoring, augmenting their overall security posture. Lastly, collaborating with AI security experts and staying updated on emerging threats and best practices is essential for proactive adaptation to the dynamic security landscape. These comprehensive measures collectively fortify AI security, instilling trust and resilience in AI initiatives while safeguarding systems and sensitive data.
+
+
+
+85.  ChatGPT a game changer for artificial intelligence
+
+ChatGPT is the topic on everyone's lips. What can it do? How does it do it? And is my job safe? We take a closer look at this revolutionary generative artificial intelligence and analyze what it can (and cannot) do. In particular, we focus on its impact on business and ability to transform a wide range of activities along your value chain. Given its significant capabilities, top managers would be ill advised to bury their heads in the sand. Generative AI needs to be addressed – so you can harness its potential for your business.
+
+
+
+The launch of ChatGPT in November 2022 caused something of a storm. Just three months later, the website was enjoying around one billion visits a month and 25 million visitors a day. These shockwaves are still being widely felt across the business world.
+
+ChatGPT is perhaps the best of the artificial intelligence (AI) chatbots released to date. It quickly went viral because of its unique characteristics, especially its human-like, intuitive answers, its knowledge and its versatility. Of course, it still demonstrates certain limitations, such as the information it draws on not being completely up-to-date and its poor tracking of sources. But the race is now on to overcome these deficiencies, and the true potential of what ChatGPT can do remains unknown.
+
+ChatGPT is an example of generative AI, which uses deep-learning algorithms to create novel content, ranging from text and images to music and 3D models. This technology has made rapid progress in recent years.
+
+Not only does generative AI offer clear benefits across the entire value chain, it also has the potential to disrupt a wide range of sectors – including the tech industry. Top managers must address its potential as a matter of urgency or face the dire consequences of being left behind by their competitors.
+
+A wide range of use cases
+
+Apart from creating content, design, music and the like, ChatGPT can have a great impact on automating tasks and reducing costs for companies. It is particularly useful in areas such as data analysis, pattern recognition and predictions, leading to improved decision-making and problem-solving.
+
+In manufacturing, for example, generative AI has automation and efficiency potential along the entire value chain. It can transform trend detection and data analysis, as well as information retrieval and translation to improve R&D. In production planning it can help with inventory management, resource allocation and capacity planning. At the other end of the value chain, in aftersales service, it can transform referrals, automation maintenance and service requests. The extent of its impact in each of these areas varies, as shown in the illustration below, depending on the area's potential for automation. But its transformative power is unquestionable.
+
+86. Digital transformation practice
+
+Clearsight Advises Grupo ASSA Worldwide (gA) in its Acquisition by Globant
+
+Clearsight Advisors, Inc. (“Clearsight”) is pleased to announce another highly successful transaction in its Digital Transformation practice.  Clearsight served as financial advisor to Grupo ASSA Worldwide (“gA”) in its acquisition by Globant S.A. (NYSE: GLOB) (“Globant”).  This deal marks Clearsight’s second LatAm transaction since June and the fifth overall transaction since April.
+
+Grupo ASSA Worldwide is a digital business consulting company with 1,100 IT professionals that enables strategic and operational efficiency through its practiced expertise in enterprise technology and business process management solutions. Headquartered in Miami with a presence in the United States, Argentina, Brazil, Chile, Columbia, Mexico and Spain, gA provides global business solutions for the life sciences, manufacturing and CPG industries through its service platforms powered by artificial intelligence and machine learning technology. The acquisition of gA will further enhance Globant’s nearshore delivery and process automation capabilities as a global leader in digital innovation. gA will also contribute to Globant’s strategic client relationships with Fortune 500 companies looking to innovate through cloud migration, disruptive media and enterprise applications.
+
+Roberto Wagmaister, gA Founder and CEO, celebrated the deal closure, saying, “As a global business, trying to find the right advisor who understands not only the nuances of digital innovation, but the complexities around delivering on a global scale was a challenge. We chose Clearsight because of their industry knowledge, global experience and the expertise they demonstrated from our very first interaction. The Clearsight team was dedicated to both finding the best strategic partner for gA as well as optimizing our transaction. We could not be more pleased with our selection of Clearsight as our strategic financial advisor.”
+
+Joel Kallett, Managing Director and Co-founder of Clearsight remarked, “I am thrilled for Roberto and his entire team at gA. It is clearly evident that they have built a phenomenal culture and finding the right partner in Globant was a critical step for their continued growth. This highly strategic transaction signifies the continuing evolution of the digital innovation ecosystem as the combined entity now has an even more complete set of services for their top tier client base. I look forward to witnessing the positive impact this partnership will have for their clients across the world seeking to innovate their business models.”
+
+88. Optimizing performance with artificial intlleigence
+
+
+Artificial Intelligence (AI) has emerged as a transformative force in optimizing production performance across industries. As businesses strive for operational excellence, leveraging AI technologies has become increasingly crucial. Understanding the economic landscape and trends surrounding AI in production performance is essential to stay competitive in the evolving market.
+
+Organizations face a range of challenges when implementing AI for production performance. These include data complexity, integrating AI into existing systems, ensuring data accuracy, addressing workforce concerns, and managing risks associated with AI adoption. Overcoming these challenges is essential to unlock the full potential of AI in driving production efficiency and effectiveness.
+
+< Learn more: Mastering data governance: navigating challenges and unlocking value >
+
+ 
+
+Application of AI presents promising prospects
+
+Falconi partnered with a client to successfully implement AI for production performance improvement. By leveraging machine learning algorithms, the client achieved significant advancements. Predictive maintenance reduced equipment downtime by 30%, resulting in improved production uptime and cost savings. AI-based anomaly detection improved product quality by 20%, leading to higher customer satisfaction and reduced waste. Through Falconi’s expertise, the client experienced a 15% increase in overall production efficiency.
+
+Looking ahead, the application of AI in production performance presents promising prospects for organizations embracing this technology. By adopting Falconi’s recommended strategies and AI solutions, companies can unlock benefits such as optimized resource allocation, enhanced decision-making, improved product quality, and increased overall equipment effectiveness. Organizations that embrace AI as a strategic asset can gain a competitive edge and achieve higher levels excellence.
+
+< Learn more: Navigating industry 4.0: leveraging data and technology for manufacturing success >
+
+Falconi’s expertise in AI for production performance optimization empowers organizations to overcome challenges and drive remarkable success. By implementing AI technologies and machine learning algorithms, businesses can unlock the full potential of their production processes. Take the next step towards optimizing production performance with AI by contacting Falconi today.
+
+Explore how our tailored solutions can revolutionize your operations, reduce costs, and enhance productivity. Visit our website, or schedule a meeting to discover the transformative power of AI in driving production performance with Falconi. Embrace AI to unleash the true potential of your operations and stay ahead in the competitive landscape.
+
+
+
+89. AI powering innovation and productivity
+
+An enterprise-grade implementation of ChatGPT, a natural language interface to our data warehouse and an automated generator of logic trees. These are just some of the ways Nous Group is using generative AI to support its consulting work with clients around the world.
+
+Over the past year, expert consultants from across our international network have been exploring the capabilities of AI (artificial intelligence) to understand how it can improve productivity and drive better outcomes for our clients, their communities and our consultant teams.
+
+Nous Principal Rob Ewin, lead of our AI working group, said: “AI brings exciting opportunities to reexamine our approach to a growing array of processes. It has the potential to free up our clients and our people so they can spend more time and energy on higher-order problem solving that delivers better outcomes and bigger impact.
+
+“Across sectors, there’s great enthusiasm to unearth and harness AI’s value. This is exciting but it must be supported by systems that safeguard the accuracy of output and the security of information.”
+
+Creating the right conditions for innovation and development
+
+Our enterprise-grade implementation of ChatGPT, known as NousGPT, runs on customised Microsoft technologies and operates as a closed loop system, enabling our teams to safely experiment and develop their skills in AI.
+
+Nous Principal Sophie O’Connor, our Project Excellence lead, said: “In building NousGPT, we’ve created a safe environment for our consultants and corporate teams to develop their confidence while getting a practical understanding of how AI can deliver greater value.
+
+“Investing in our people and our capabilities is a key focus at Nous. AI is moving fast – how we adopt and adapt now will set us up for bigger success down the track.”
+
+Going beyond the chat interface
+
+Nous’ experimentation with generative AI has included prototyping two internal productivity tools, known as DawnGPT and Diana.
+
+Nous Principal David Diviny, our Chief Data Scientist, said: “Generative AI can be so much more than chat bots. Thinking beyond a chat interface has the potential to scale the productivity impact of generative AI.
+
+“This requires a deep understanding of a user’s tasks and how generative AI can overcome limiters to the ideal experience of that task.”
+
+Our first productivity tool is DawnGPT, a natural language interface to the Data Assets Warehouse at Nous (DAWN), which brings together proprietary data and public information to facilitate rapid analysis. DAWN includes data on topics including population, human services, economic indicators, tertiary education and job advertisements.
+
+DawnGPT provides an intuitive interface that seamlessly translates natural language into structured query language (SQL), providing consultants with a means to access data and an avenue to hone their SQL skills. The data results can then be visualised interactively or as a PowerPoint and a narrative can be generated to complement the results.
+
+DawnGPT seamlessly translates natural language into structured query language.
+
+Our second productivity tool, Diana, generates logic trees for structured problem solving that breaks down a question or problem into its constituent parts. It is essentially a visual representation of structured thinking, with each branch representing a subset or component of the main question.
+
+David said: “Diana uses generative AI to give our consulting teams a head start on projects. It is not the end solution, but the beginning of a creative problem-solving process.
+
+“The possibilities for applications like these are endless and it’s an exciting journey to be on.”
+
+All use of AI at Nous is guided by clear principles to ensure its use is safe, secure and generates genuine value that enables our teams to push the thinking even further and deliver higher quality work for our clients.
+
+
+
+90. Future of Africa International Advisors Group
+
+In a rapidly evolving world, keeping up, let alone staying ahead requires radical shifts both in terms of how we see the world, but also in terms of how we adopt technology to succeed.
+
+At AIA, we understand the importance of positioning companies and economies for the future. Our Futures Practice combines the essential elements of People and Technology, empowering organisations to thrive in the face of rapid change.
+
+
+
+
+PEOPLE: THE DRIVING FORCE OF TRANSFORMATION
+
+Technology exists to enable people. People are the heart of any organisation or system and therefore people must be placed centrally in our view of the future. Our Futures Practice places a strong emphasis on people side of the equation, ensuring that the New Ways of Work, Agile Operating Models, and AI are integrated and drive towards better human performance.
+
+We thus help companies cultivate both the environment as well as the capacity for people as they adapt and excel in the future landscape. By re-organising towards ever greater people and technology convergence and integration, we seek to unlock untapped capabilities, nurturing innovative thinking, and fostering a culture of continuous learning.
+
+
+
+
+TECHNOLOGY: UNLEASHING THE POWER OF INNOVATION
+
+Technological advancements are reshaping industries at an unprecedented pace. Our Futures Practice understands that harnessing the potential of technology is vital for sustainable growth. We guide companies in identifying the right technologies and implementing cutting-edge solutions that align with their strategic objectives. From artificial intelligence and automation to blockchain and the Internet of Things (IoT), we navigate the complex landscape of emerging technologies to unlock new opportunities for your organization.
+
+
+
+
+FORWARD-THINKING STRATEGIES: CHARTING YOUR COURSE
+
+Successfully navigating the future requires more than just reacting to change—it demands a proactive and strategic approach. Our Futures Practice helps you chart your course towards a thriving future. We collaborate closely with your team to develop robust strategies and roadmaps that consider emerging trends, market shifts, and evolving customer expectations. By aligning your organization with the trajectory of change, we position you as a trailblazer in your industry.
+
+Utilising long-term thinking frameworks, including scenario planning, we can ensure that you proactively adapt, leading change and driving long term success.
+
+
+
+
+INNOVATION ECOSYSTEMS: CONNECTING FOR SUCCESS
+
+We recognize that no organization can thrive in isolation. Our Futures Practice leverages our extensive network and expertise in building collaborative innovation ecosystems. By forging strategic partnerships, fostering cross-industry collaboration, and connecting you with the right stakeholders, we create a fertile ground for innovation and growth. Together, we unlock new possibilities and amplify your collective impact.
+
+
+
+
+THOUGHT LEADERSHIP AND RESEARCH: INSIGHTS FOR TOMORROW
+
+In the rapidly evolving landscape, knowledge is power. Our Futures Practice prides itself on staying at the forefront of industry trends, disruptive technologies, and emerging best practices. We conduct rigorous research, analyse market dynamics, and generate actionable insights that inform your strategic decision-making. With our thought leadership and research expertise, you gain the knowledge and foresight to make informed choices and seize opportunities that drive your organization forward.
+
+Join us in shaping a future filled with promise and endless possibilities. Unlock the full potential of your organization and position yourself for success in the dynamic world that lies ahead. With our Futures Practice as your trusted partner, you can confidently navigate the complexities of tomorrow, achieve sustainable growth, and thrive in the face of uncertainty.
