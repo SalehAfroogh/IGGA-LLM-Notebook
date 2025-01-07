@@ -129,8 +129,9 @@ NLP Pipelines: Replicating or extending the methodology for other text analysis 
 
 <strong>Contributors</strong>
 
-Kevin Chen
+Kevin Chen and
 Saleh Afroogh (Lead Researcher)
+<strong>Questions</strong> 
 For questions, feedback, or collaborations, contact me at saleh.afroogh@utexas.edu.
 <strong>License</strong>
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
